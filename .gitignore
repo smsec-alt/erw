@@ -1,9 +1,11 @@
 data/
 data_summary/
-data_summary/mapping/
 Untitled-1.ipynb
 main.py
-**/support_files/eu_production_old.xlsx
-**/support_files/agriquest_eu_processed.xlsx
 .streamlit/
 ServiceKey_GCS.json
+**/support_files/eu_production_old.xlsx
+**/support_files/agriquest_eu_processed.xlsx
+**/support_files/get_html.py
+**/support_files/EU_Crop_Production.py
+**/support_files/mapping
