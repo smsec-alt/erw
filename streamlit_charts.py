@@ -154,7 +154,7 @@ class Weather_Report:
 
         yield_an1 = str(round(self.country_yields.loc[excl_years[2], 'value'], 2))
         yield_an2 = str(round(self.country_yields.loc[excl_years[3], 'value'], 2))
-        title_text = f"<b>{self.region_name} - {weather_variable.title().replace('-', ' ')} - Weighted by {self.grains_class}'s Production</b><br><span style='font-size: 14px';>Pattern is similar to {excl_years[2]} and {excl_years[3]} when yield was {yield_an1} and {yield_an2}</span>"
+        title_text = f"<b>{self.region_name} - {weather_variable.title().replace('-', ' ')} - Weighted by {self.grains_class}'s Production</b><br><span style='font-size: 14px';></b>Pattern is similar to {excl_years[2]} and {excl_years[3]} when yield was {yield_an1} and {yield_an2}</span>"
         fig.update_layout(legend={'traceorder': 'reversed'}, title=title_text, hovermode="x unified", font=dict(color='rgb(82, 82, 82)', family='Arial'),
                           xaxis=dict(gridcolor='#FFFFFF',tickformat="%b %d",
                                      linecolor='rgb(204, 204, 204)', linewidth=1, ticks='outside',
