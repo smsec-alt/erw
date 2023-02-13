@@ -22,8 +22,8 @@ def main():
     with st.sidebar:
         add_region = st.selectbox("Choose a Region", tuple(df_region_crop['country'].unique()))
         # difference between list1 and list2
-        
-        add_class = st.selectbox("Crop Type", tuple(set(crops_list)-set(df_region_crop.query('country == @add_region')['crop'])))
+        class_list = [item for item in df_region_crop.query('country == @add_region')['crop'] if item in crops_list]
+        add_class = st.selectbox("Crop Type", tuple(class_list))
         # add_class = st.selectbox("Crop Type", tuple(df_region_crop.query('country == @add_region')['crop']))
         col11, col21 = st.columns(2)
         if add_class in ['Corn', 'Oats', 'Soya', 'Sunflower seed', 'Spring barley']:
