@@ -13,7 +13,7 @@ with st.sidebar:
 
 def main():
     st.markdown(f"""#### {add_class} Production in Europe""")
-    values = st.slider('Select Year', 2012, 2021, 2020)
+    values = st.slider('Select Year', 2012, 2022, 2020)
     HtmlFile = open(f"./support_files/html/{add_class}_{values}.html", 'r', encoding='utf-8')
     source_code = HtmlFile.read() 
     components.html(source_code, height=500)
