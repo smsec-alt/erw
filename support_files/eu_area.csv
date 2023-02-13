@@ -65,7 +65,8 @@ Belgium,Belgium,Barley,Production,2017,377.59
 Belgium,Belgium,Barley,Production,2018,324.12
 Belgium,Belgium,Barley,Production,2019,401.06
 Belgium,Belgium,Barley,Production,2020,329.47
-Belgium,Belgium,Barley,Production,2021,295.13
+Belgium,Belgium,Barley,Production,2021,300.07
+Belgium,Belgium,Barley,Production,2022,384.34
 Belgium,Belgium,Corn,Production,2009,652.12
 Belgium,Belgium,Corn,Production,2010,589.78
 Belgium,Belgium,Corn,Production,2011,688.75
@@ -78,7 +79,8 @@ Belgium,Belgium,Corn,Production,2017,503.92
 Belgium,Belgium,Corn,Production,2018,376.55
 Belgium,Belgium,Corn,Production,2019,429.22
 Belgium,Belgium,Corn,Production,2020,421.01
-Belgium,Belgium,Corn,Production,2021,441.1
+Belgium,Belgium,Corn,Production,2021,449.89
+Belgium,Belgium,Corn,Production,2022,473.8
 Belgium,Belgium,Oats,Production,1955,481.1
 Belgium,Belgium,Oats,Production,1956,483.9
 Belgium,Belgium,Oats,Production,1957,453.9
@@ -137,7 +139,8 @@ Belgium,Belgium,Oats,Production,2017,18.43
 Belgium,Belgium,Oats,Production,2018,18.56
 Belgium,Belgium,Oats,Production,2019,20.17
 Belgium,Belgium,Oats,Production,2020,18.24
-Belgium,Belgium,Oats,Production,2021,16.41
+Belgium,Belgium,Oats,Production,2021,16.5
+Belgium,Belgium,Oats,Production,2022,15.54
 Belgium,Belgium,Rapeseed,Production,1955,1.3
 Belgium,Belgium,Rapeseed,Production,1956,1.8
 Belgium,Belgium,Rapeseed,Production,1957,1.9
@@ -202,7 +205,8 @@ Belgium,Belgium,Rapeseed,Production,2017,46.39
 Belgium,Belgium,Rapeseed,Production,2018,43.3
 Belgium,Belgium,Rapeseed,Production,2019,33.43
 Belgium,Belgium,Rapeseed,Production,2020,29.91
-Belgium,Belgium,Rapeseed,Production,2021,27.71
+Belgium,Belgium,Rapeseed,Production,2021,28.1
+Belgium,Belgium,Rapeseed,Production,2022,31.79
 Belgium,Belgium,Rye,Production,1955,222.0
 Belgium,Belgium,Rye,Production,1956,199.9
 Belgium,Belgium,Rye,Production,1957,191.7
@@ -268,7 +272,8 @@ Belgium,Belgium,Rye,Production,2017,2.38
 Belgium,Belgium,Rye,Production,2018,2.36
 Belgium,Belgium,Rye,Production,2019,3.36
 Belgium,Belgium,Rye,Production,2020,2.5
-Belgium,Belgium,Rye,Production,2021,3.55
+Belgium,Belgium,Rye,Production,2021,3.4
+Belgium,Belgium,Rye,Production,2022,3.16
 Belgium,Belgium,Soft Wheat,Production,1955,766.5
 Belgium,Belgium,Soft Wheat,Production,1956,633.2
 Belgium,Belgium,Soft Wheat,Production,1957,804.5
@@ -335,7 +340,8 @@ Belgium,Belgium,Soft Wheat,Production,2017,1690.84
 Belgium,Belgium,Soft Wheat,Production,2018,1661.86
 Belgium,Belgium,Soft Wheat,Production,2019,1902.38
 Belgium,Belgium,Soft Wheat,Production,2020,1741.48
-Belgium,Belgium,Soft Wheat,Production,2021,1627.81
+Belgium,Belgium,Soft Wheat,Production,2021,1629.18
+Belgium,Belgium,Soft Wheat,Production,2022,1884.39
 Belgium,Belgium,Spring barley,Production,1955,188.4
 Belgium,Belgium,Spring barley,Production,1956,219.4
 Belgium,Belgium,Spring barley,Production,1957,203.8
@@ -402,7 +408,8 @@ Belgium,Belgium,Spring barley,Production,2017,12.95
 Belgium,Belgium,Spring barley,Production,2018,17.2
 Belgium,Belgium,Spring barley,Production,2019,16.62
 Belgium,Belgium,Spring barley,Production,2020,19.71
-Belgium,Belgium,Spring barley,Production,2021,14.84
+Belgium,Belgium,Spring barley,Production,2021,15.25
+Belgium,Belgium,Spring barley,Production,2022,27.35
 Belgium,Belgium,Winter barley,Production,1955,92.1
 Belgium,Belgium,Winter barley,Production,1956,68.8
 Belgium,Belgium,Winter barley,Production,1957,91.9
@@ -469,7 +476,8 @@ Belgium,Belgium,Winter barley,Production,2017,364.7
 Belgium,Belgium,Winter barley,Production,2018,306.94
 Belgium,Belgium,Winter barley,Production,2019,384.41
 Belgium,Belgium,Winter barley,Production,2020,309.82
-Belgium,Belgium,Winter barley,Production,2021,280.62
+Belgium,Belgium,Winter barley,Production,2021,284.9
+Belgium,Belgium,Winter barley,Production,2022,356.95
 Bulgaria,Bulgaria,Barley,Production,1987,1091.0
 Bulgaria,Bulgaria,Barley,Production,1988,1313.0
 Bulgaria,Bulgaria,Barley,Production,1989,1572.0
@@ -504,7 +512,8 @@ Bulgaria,Bulgaria,Barley,Production,2017,616.78
 Bulgaria,Bulgaria,Barley,Production,2018,448.7
 Bulgaria,Bulgaria,Barley,Production,2019,563.15
 Bulgaria,Bulgaria,Barley,Production,2020,566.32
-Bulgaria,Bulgaria,Barley,Production,2021,704.87
+Bulgaria,Bulgaria,Barley,Production,2021,704.07
+Bulgaria,Bulgaria,Barley,Production,2022,625.07
 Bulgaria,Bulgaria,Corn,Production,2000,1084.94
 Bulgaria,Bulgaria,Corn,Production,2001,912.17
 Bulgaria,Bulgaria,Corn,Production,2002,1273.12
@@ -526,7 +535,8 @@ Bulgaria,Bulgaria,Corn,Production,2017,2610.24
 Bulgaria,Bulgaria,Corn,Production,2018,3522.5
 Bulgaria,Bulgaria,Corn,Production,2019,4059.79
 Bulgaria,Bulgaria,Corn,Production,2020,3014.09
-Bulgaria,Bulgaria,Corn,Production,2021,3427.32
+Bulgaria,Bulgaria,Corn,Production,2021,3427.31
+Bulgaria,Bulgaria,Corn,Production,2022,2547.91
 Bulgaria,Bulgaria,Oats,Production,1987,41.0
 Bulgaria,Bulgaria,Oats,Production,1988,53.0
 Bulgaria,Bulgaria,Oats,Production,1989,107.0
@@ -561,7 +571,8 @@ Bulgaria,Bulgaria,Oats,Production,2017,33.0
 Bulgaria,Bulgaria,Oats,Production,2018,25.01
 Bulgaria,Bulgaria,Oats,Production,2019,31.51
 Bulgaria,Bulgaria,Oats,Production,2020,31.66
-Bulgaria,Bulgaria,Oats,Production,2021,24.54
+Bulgaria,Bulgaria,Oats,Production,2021,24.26
+Bulgaria,Bulgaria,Oats,Production,2022,25.87
 Bulgaria,Bulgaria,Rapeseed,Production,1998,5.4
 Bulgaria,Bulgaria,Rapeseed,Production,1999,10.4
 Bulgaria,Bulgaria,Rapeseed,Production,2000,11.4
@@ -586,6 +597,7 @@ Bulgaria,Bulgaria,Rapeseed,Production,2018,472.59
 Bulgaria,Bulgaria,Rapeseed,Production,2019,432.49
 Bulgaria,Bulgaria,Rapeseed,Production,2020,279.28
 Bulgaria,Bulgaria,Rapeseed,Production,2021,375.8
+Bulgaria,Bulgaria,Rapeseed,Production,2022,299.25
 Bulgaria,Bulgaria,Rye,Production,1987,49.0
 Bulgaria,Bulgaria,Rye,Production,1988,61.0
 Bulgaria,Bulgaria,Rye,Production,1989,52.0
@@ -621,6 +633,7 @@ Bulgaria,Bulgaria,Rye,Production,2018,14.08
 Bulgaria,Bulgaria,Rye,Production,2019,12.18
 Bulgaria,Bulgaria,Rye,Production,2020,10.01
 Bulgaria,Bulgaria,Rye,Production,2021,16.88
+Bulgaria,Bulgaria,Rye,Production,2022,16.93
 Bulgaria,Bulgaria,Soft Wheat,Production,1987,4149.0
 Bulgaria,Bulgaria,Soft Wheat,Production,1988,4743.0
 Bulgaria,Bulgaria,Soft Wheat,Production,1989,5425.0
@@ -654,7 +667,8 @@ Bulgaria,Bulgaria,Soft Wheat,Production,2017,6271.58
 Bulgaria,Bulgaria,Soft Wheat,Production,2018,5893.53
 Bulgaria,Bulgaria,Soft Wheat,Production,2019,6280.15
 Bulgaria,Bulgaria,Soft Wheat,Production,2020,4817.68
-Bulgaria,Bulgaria,Soft Wheat,Production,2021,7276.28
+Bulgaria,Bulgaria,Soft Wheat,Production,2021,7292.73
+Bulgaria,Bulgaria,Soft Wheat,Production,2022,6367.64
 Bulgaria,Bulgaria,Soya,Production,1987,33.0
 Bulgaria,Bulgaria,Soya,Production,1988,17.0
 Bulgaria,Bulgaria,Soya,Production,1989,22.0
@@ -680,7 +694,8 @@ Bulgaria,Bulgaria,Soya,Production,2017,20.91
 Bulgaria,Bulgaria,Soya,Production,2018,4.73
 Bulgaria,Bulgaria,Soya,Production,2019,7.57
 Bulgaria,Bulgaria,Soya,Production,2020,6.2
-Bulgaria,Bulgaria,Soya,Production,2021,2.82
+Bulgaria,Bulgaria,Soya,Production,2021,2.81
+Bulgaria,Bulgaria,Soya,Production,2022,4.66
 Bulgaria,Bulgaria,Spring barley,Production,1999,60.3
 Bulgaria,Bulgaria,Spring barley,Production,2000,25.43
 Bulgaria,Bulgaria,Spring barley,Production,2001,68.2
@@ -703,7 +718,8 @@ Bulgaria,Bulgaria,Spring barley,Production,2017,3.36
 Bulgaria,Bulgaria,Spring barley,Production,2018,4.23
 Bulgaria,Bulgaria,Spring barley,Production,2019,6.19
 Bulgaria,Bulgaria,Spring barley,Production,2020,10.3
-Bulgaria,Bulgaria,Spring barley,Production,2021,9.3
+Bulgaria,Bulgaria,Spring barley,Production,2021,9.29
+Bulgaria,Bulgaria,Spring barley,Production,2022,2.59
 Bulgaria,Bulgaria,Sunflower seed,Production,1987,410.0
 Bulgaria,Bulgaria,Sunflower seed,Production,1988,374.0
 Bulgaria,Bulgaria,Sunflower seed,Production,1989,458.0
@@ -731,6 +747,7 @@ Bulgaria,Bulgaria,Sunflower seed,Production,2018,1943.98
 Bulgaria,Bulgaria,Sunflower seed,Production,2019,1937.21
 Bulgaria,Bulgaria,Sunflower seed,Production,2020,1733.53
 Bulgaria,Bulgaria,Sunflower seed,Production,2021,2002.18
+Bulgaria,Bulgaria,Sunflower seed,Production,2022,2077.58
 Bulgaria,Bulgaria,Winter barley,Production,1987,1091.0
 Bulgaria,Bulgaria,Winter barley,Production,1988,1313.0
 Bulgaria,Bulgaria,Winter barley,Production,1989,1572.0
@@ -765,7 +782,8 @@ Bulgaria,Bulgaria,Winter barley,Production,2017,613.32
 Bulgaria,Bulgaria,Winter barley,Production,2018,444.47
 Bulgaria,Bulgaria,Winter barley,Production,2019,556.96
 Bulgaria,Bulgaria,Winter barley,Production,2020,556.01
-Bulgaria,Bulgaria,Winter barley,Production,2021,695.56
+Bulgaria,Bulgaria,Winter barley,Production,2021,694.77
+Bulgaria,Bulgaria,Winter barley,Production,2022,622.48
 Denmark,Denmark,Barley,Production,1955,2200.2
 Denmark,Denmark,Barley,Production,1956,2402.4
 Denmark,Denmark,Barley,Production,1957,2559.9
@@ -832,8 +850,8 @@ Denmark,Denmark,Barley,Production,2017,3945.88
 Denmark,Denmark,Barley,Production,2018,3445.17
 Denmark,Denmark,Barley,Production,2019,3624.56
 Denmark,Denmark,Barley,Production,2020,4156.5
-Denmark,Denmark,Barley,Production,2021,3468.4
-Denmark,Denmark,Barley,Production,2022,3916.73
+Denmark,Denmark,Barley,Production,2021,3462.17
+Denmark,Denmark,Barley,Production,2022,4139.6
 Denmark,Denmark,Corn,Production,2010,45.17
 Denmark,Denmark,Corn,Production,2011,54.66
 Denmark,Denmark,Corn,Production,2012,74.23
@@ -845,8 +863,8 @@ Denmark,Denmark,Corn,Production,2017,38.45
 Denmark,Denmark,Corn,Production,2018,35.48
 Denmark,Denmark,Corn,Production,2019,40.82
 Denmark,Denmark,Corn,Production,2020,38.74
-Denmark,Denmark,Corn,Production,2021,41.91
-Denmark,Denmark,Corn,Production,2022,44.12
+Denmark,Denmark,Corn,Production,2021,45.27
+Denmark,Denmark,Corn,Production,2022,53.57
 Denmark,Denmark,Oats,Production,1955,863.1
 Denmark,Denmark,Oats,Production,1956,851.9
 Denmark,Denmark,Oats,Production,1957,786.1
@@ -913,8 +931,8 @@ Denmark,Denmark,Oats,Production,2017,318.42
 Denmark,Denmark,Oats,Production,2018,286.56
 Denmark,Denmark,Oats,Production,2019,247.28
 Denmark,Denmark,Oats,Production,2020,425.66
-Denmark,Denmark,Oats,Production,2021,334.64
-Denmark,Denmark,Oats,Production,2022,347.23
+Denmark,Denmark,Oats,Production,2021,331.06
+Denmark,Denmark,Oats,Production,2022,353.61
 Denmark,Denmark,Rapeseed,Production,1955,2.9
 Denmark,Denmark,Rapeseed,Production,1956,1.7
 Denmark,Denmark,Rapeseed,Production,1957,2.2
@@ -981,8 +999,8 @@ Denmark,Denmark,Rapeseed,Production,2017,742.3
 Denmark,Denmark,Rapeseed,Production,2018,489.1
 Denmark,Denmark,Rapeseed,Production,2019,729.0
 Denmark,Denmark,Rapeseed,Production,2020,560.2
-Denmark,Denmark,Rapeseed,Production,2021,650.89
-Denmark,Denmark,Rapeseed,Production,2022,679.24
+Denmark,Denmark,Rapeseed,Production,2021,650.9
+Denmark,Denmark,Rapeseed,Production,2022,893.93
 Denmark,Denmark,Rye,Production,1955,191.1
 Denmark,Denmark,Rye,Production,1956,290.5
 Denmark,Denmark,Rye,Production,1957,313.2
@@ -1049,8 +1067,8 @@ Denmark,Denmark,Rye,Production,2017,714.79
 Denmark,Denmark,Rye,Production,2018,476.59
 Denmark,Denmark,Rye,Production,2019,883.51
 Denmark,Denmark,Rye,Production,2020,699.37
-Denmark,Denmark,Rye,Production,2021,679.11
-Denmark,Denmark,Rye,Production,2022,749.58
+Denmark,Denmark,Rye,Production,2021,672.49
+Denmark,Denmark,Rye,Production,2022,710.74
 Denmark,Denmark,Soft Wheat,Production,1955,253.6
 Denmark,Denmark,Soft Wheat,Production,1956,266.4
 Denmark,Denmark,Soft Wheat,Production,1957,272.8
@@ -1117,8 +1135,8 @@ Denmark,Denmark,Soft Wheat,Production,2017,4777.89
 Denmark,Denmark,Soft Wheat,Production,2018,2623.93
 Denmark,Denmark,Soft Wheat,Production,2019,4642.09
 Denmark,Denmark,Soft Wheat,Production,2020,4070.41
-Denmark,Denmark,Soft Wheat,Production,2021,4049.85
-Denmark,Denmark,Soft Wheat,Production,2022,4537.99
+Denmark,Denmark,Soft Wheat,Production,2021,4047.09
+Denmark,Denmark,Soft Wheat,Production,2022,4201.77
 Denmark,Denmark,Spring barley,Production,1987,3984.4
 Denmark,Denmark,Spring barley,Production,1988,5157.8
 Denmark,Denmark,Spring barley,Production,1989,4415.2
@@ -1153,8 +1171,8 @@ Denmark,Denmark,Spring barley,Production,2017,3109.72
 Denmark,Denmark,Spring barley,Production,2018,3012.06
 Denmark,Denmark,Spring barley,Production,2019,2932.01
 Denmark,Denmark,Spring barley,Production,2020,3541.44
-Denmark,Denmark,Spring barley,Production,2021,2968.38
-Denmark,Denmark,Spring barley,Production,2022,3514.66
+Denmark,Denmark,Spring barley,Production,2021,2963.24
+Denmark,Denmark,Spring barley,Production,2022,3684.55
 Denmark,Denmark,Winter barley,Production,1987,307.5
 Denmark,Denmark,Winter barley,Production,1988,260.9
 Denmark,Denmark,Winter barley,Production,1989,544.0
@@ -1189,8 +1207,8 @@ Denmark,Denmark,Winter barley,Production,2017,836.16
 Denmark,Denmark,Winter barley,Production,2018,433.1
 Denmark,Denmark,Winter barley,Production,2019,692.55
 Denmark,Denmark,Winter barley,Production,2020,615.06
-Denmark,Denmark,Winter barley,Production,2021,500.02
-Denmark,Denmark,Winter barley,Production,2022,402.07
+Denmark,Denmark,Winter barley,Production,2021,498.93
+Denmark,Denmark,Winter barley,Production,2022,455.05
 Estonia,Estonia,Barley,Production,1987,654.1
 Estonia,Estonia,Barley,Production,1988,303.7
 Estonia,Estonia,Barley,Production,1989,683.5
@@ -1226,6 +1244,7 @@ Estonia,Estonia,Barley,Production,2018,347.5
 Estonia,Estonia,Barley,Production,2019,523.14
 Estonia,Estonia,Barley,Production,2020,561.12
 Estonia,Estonia,Barley,Production,2021,396.37
+Estonia,Estonia,Barley,Production,2022,488.82
 Estonia,Estonia,Oats,Production,1987,56.3
 Estonia,Estonia,Oats,Production,1988,18.8
 Estonia,Estonia,Oats,Production,1989,58.3
@@ -1261,6 +1280,7 @@ Estonia,Estonia,Oats,Production,2018,78.38
 Estonia,Estonia,Oats,Production,2019,97.29
 Estonia,Estonia,Oats,Production,2020,117.95
 Estonia,Estonia,Oats,Production,2021,77.5
+Estonia,Estonia,Oats,Production,2022,100.43
 Estonia,Estonia,Rapeseed,Production,1988,1.5
 Estonia,Estonia,Rapeseed,Production,1989,0.7
 Estonia,Estonia,Rapeseed,Production,1990,1.1
@@ -1295,6 +1315,7 @@ Estonia,Estonia,Rapeseed,Production,2018,113.59
 Estonia,Estonia,Rapeseed,Production,2019,191.37
 Estonia,Estonia,Rapeseed,Production,2020,202.95
 Estonia,Estonia,Rapeseed,Production,2021,216.07
+Estonia,Estonia,Rapeseed,Production,2022,218.03
 Estonia,Estonia,Rye,Production,1987,118.0
 Estonia,Estonia,Rye,Production,1988,97.1
 Estonia,Estonia,Rye,Production,1989,162.2
@@ -1330,6 +1351,7 @@ Estonia,Estonia,Rye,Production,2018,29.51
 Estonia,Estonia,Rye,Production,2019,118.98
 Estonia,Estonia,Rye,Production,2020,78.74
 Estonia,Estonia,Rye,Production,2021,42.96
+Estonia,Estonia,Rye,Production,2022,51.26
 Estonia,Estonia,Soft Wheat,Production,1987,50.0
 Estonia,Estonia,Soft Wheat,Production,1988,19.1
 Estonia,Estonia,Soft Wheat,Production,1989,44.3
@@ -1365,6 +1387,7 @@ Estonia,Estonia,Soft Wheat,Production,2018,450.27
 Estonia,Estonia,Soft Wheat,Production,2019,846.58
 Estonia,Estonia,Soft Wheat,Production,2020,840.52
 Estonia,Estonia,Soft Wheat,Production,2021,736.27
+Estonia,Estonia,Soft Wheat,Production,2022,854.12
 Estonia,Estonia,Spring barley,Production,1987,654.1
 Estonia,Estonia,Spring barley,Production,1988,303.7
 Estonia,Estonia,Spring barley,Production,1989,683.5
@@ -1400,6 +1423,7 @@ Estonia,Estonia,Spring barley,Production,2018,325.82
 Estonia,Estonia,Spring barley,Production,2019,434.6
 Estonia,Estonia,Spring barley,Production,2020,438.03
 Estonia,Estonia,Spring barley,Production,2021,271.08
+Estonia,Estonia,Spring barley,Production,2022,322.85
 Estonia,Estonia,Winter barley,Production,2004,0.6
 Estonia,Estonia,Winter barley,Production,2005,1.1
 Estonia,Estonia,Winter barley,Production,2006,1.2
@@ -1418,6 +1442,7 @@ Estonia,Estonia,Winter barley,Production,2018,21.68
 Estonia,Estonia,Winter barley,Production,2019,88.54
 Estonia,Estonia,Winter barley,Production,2020,123.09
 Estonia,Estonia,Winter barley,Production,2021,125.29
+Estonia,Estonia,Winter barley,Production,2022,165.97
 Finland,Finland,Barley,Production,1984,1715.0
 Finland,Finland,Barley,Production,1985,1854.0
 Finland,Finland,Barley,Production,1986,1713.8
@@ -1455,7 +1480,8 @@ Finland,Finland,Barley,Production,2017,1477.08
 Finland,Finland,Barley,Production,2018,1353.19
 Finland,Finland,Barley,Production,2019,1701.96
 Finland,Finland,Barley,Production,2020,1397.97
-Finland,Finland,Barley,Production,2021,1044.3
+Finland,Finland,Barley,Production,2021,1045.5
+Finland,Finland,Barley,Production,2022,1429.25
 Finland,Finland,Oats,Production,1986,1174.5
 Finland,Finland,Oats,Production,1987,723.2
 Finland,Finland,Oats,Production,1988,857.3
@@ -1491,7 +1517,8 @@ Finland,Finland,Oats,Production,2017,1028.05
 Finland,Finland,Oats,Production,2018,831.52
 Finland,Finland,Oats,Production,2019,1187.48
 Finland,Finland,Oats,Production,2020,1212.66
-Finland,Finland,Oats,Production,2021,802.14
+Finland,Finland,Oats,Production,2021,803.06
+Finland,Finland,Oats,Production,2022,1195.62
 Finland,Finland,Rapeseed,Production,1986,123.9
 Finland,Finland,Rapeseed,Production,1987,89.7
 Finland,Finland,Rapeseed,Production,1988,121.1
@@ -1527,7 +1554,8 @@ Finland,Finland,Rapeseed,Production,2017,91.8
 Finland,Finland,Rapeseed,Production,2018,70.9
 Finland,Finland,Rapeseed,Production,2019,41.9
 Finland,Finland,Rapeseed,Production,2020,31.12
-Finland,Finland,Rapeseed,Production,2021,41.65
+Finland,Finland,Rapeseed,Production,2021,41.21
+Finland,Finland,Rapeseed,Production,2022,55.06
 Finland,Finland,Rye,Production,1986,70.6
 Finland,Finland,Rye,Production,1987,74.2
 Finland,Finland,Rye,Production,1988,48.9
@@ -1563,7 +1591,8 @@ Finland,Finland,Rye,Production,2017,115.22
 Finland,Finland,Rye,Production,2018,42.99
 Finland,Finland,Rye,Production,2019,185.26
 Finland,Finland,Rye,Production,2020,68.42
-Finland,Finland,Rye,Production,2021,67.73
+Finland,Finland,Rye,Production,2021,67.89
+Finland,Finland,Rye,Production,2022,64.32
 Finland,Finland,Soft Wheat,Production,1986,529.1
 Finland,Finland,Soft Wheat,Production,1987,281.1
 Finland,Finland,Soft Wheat,Production,1988,284.6
@@ -1600,6 +1629,7 @@ Finland,Finland,Soft Wheat,Production,2018,501.6
 Finland,Finland,Soft Wheat,Production,2019,914.18
 Finland,Finland,Soft Wheat,Production,2020,686.62
 Finland,Finland,Soft Wheat,Production,2021,687.16
+Finland,Finland,Soft Wheat,Production,2022,842.45
 Finland,Finland,Spring barley,Production,1984,1715.0
 Finland,Finland,Spring barley,Production,1985,1854.0
 Finland,Finland,Spring barley,Production,1986,1713.8
@@ -1636,7 +1666,8 @@ Finland,Finland,Spring barley,Production,2017,1477.08
 Finland,Finland,Spring barley,Production,2018,1353.19
 Finland,Finland,Spring barley,Production,2019,1701.96
 Finland,Finland,Spring barley,Production,2020,1397.97
-Finland,Finland,Spring barley,Production,2021,1044.3
+Finland,Finland,Spring barley,Production,2021,1045.5
+Finland,Finland,Spring barley,Production,2022,1429.25
 Finland,Finland,Sunflower seed,Production,1997,0.3
 Finland,Finland,Sunflower seed,Production,1998,0.1
 Finland,Finland,Sunflower seed,Production,1999,0.1
@@ -1708,8 +1739,8 @@ France,France,Barley,Production,2017,11946.25
 France,France,Barley,Production,2018,11042.82
 France,France,Barley,Production,2019,13565.42
 France,France,Barley,Production,2020,10273.57
-France,France,Barley,Production,2021,11321.47
-France,France,Barley,Production,2022,11256.89
+France,France,Barley,Production,2021,11321.32
+France,France,Barley,Production,2022,11252.84
 France,France,Corn,Production,2000,15832.14
 France,France,Corn,Production,2001,16235.49
 France,France,Corn,Production,2002,16248.74
@@ -1731,8 +1762,8 @@ France,France,Corn,Production,2017,14365.89
 France,France,Corn,Production,2018,12580.43
 France,France,Corn,Production,2019,12845.02
 France,France,Corn,Production,2020,13419.14
-France,France,Corn,Production,2021,15285.68
-France,France,Corn,Production,2022,12510.73
+France,France,Corn,Production,2021,15358.3
+France,France,Corn,Production,2022,10697.59
 France,France,Oats,Production,1955,3639.6
 France,France,Oats,Production,1956,4604.2
 France,France,Oats,Production,1957,2579.3
@@ -1799,8 +1830,8 @@ France,France,Oats,Production,2017,531.09
 France,France,Oats,Production,2018,423.25
 France,France,Oats,Production,2019,402.42
 France,France,Oats,Production,2020,385.62
-France,France,Oats,Production,2021,480.17
-France,France,Oats,Production,2022,434.23
+France,France,Oats,Production,2021,479.91
+France,France,Oats,Production,2022,377.01
 France,France,Rapeseed,Production,1955,106.6
 France,France,Rapeseed,Production,1956,80.8
 France,France,Rapeseed,Production,1957,159.8
@@ -1867,8 +1898,8 @@ France,France,Rapeseed,Production,2017,5378.51
 France,France,Rapeseed,Production,2018,4980.54
 France,France,Rapeseed,Production,2019,3523.3
 France,France,Rapeseed,Production,2020,3297.12
-France,France,Rapeseed,Production,2021,3286.27
-France,France,Rapeseed,Production,2022,4345.02
+France,France,Rapeseed,Production,2021,3306.52
+France,France,Rapeseed,Production,2022,4505.93
 France,France,Rye,Production,1955,473.8
 France,France,Rye,Production,1956,524.8
 France,France,Rye,Production,1957,518.4
@@ -1935,8 +1966,8 @@ France,France,Rye,Production,2017,108.44
 France,France,Rye,Production,2018,108.54
 France,France,Rye,Production,2019,135.36
 France,France,Rye,Production,2020,131.78
-France,France,Rye,Production,2021,188.14
-France,France,Rye,Production,2022,172.6
+France,France,Rye,Production,2021,194.29
+France,France,Rye,Production,2022,157.24
 France,France,Soft Wheat,Production,1955,10347.0
 France,France,Soft Wheat,Production,1956,5681.0
 France,France,Soft Wheat,Production,1957,11067.0
@@ -2003,8 +2034,8 @@ France,France,Soft Wheat,Production,2017,36134.03
 France,France,Soft Wheat,Production,2018,33649.54
 France,France,Soft Wheat,Production,2019,39056.97
 France,France,Soft Wheat,Production,2020,28838.13
-France,France,Soft Wheat,Production,2021,35044.51
-France,France,Soft Wheat,Production,2022,33478.23
+France,France,Soft Wheat,Production,2021,34984.89
+France,France,Soft Wheat,Production,2022,33282.49
 France,France,Soya,Production,1971,0.5
 France,France,Soya,Production,1972,0.5
 France,France,Soya,Production,1973,0.8
@@ -2055,7 +2086,8 @@ France,France,Soya,Production,2017,414.33
 France,France,Soya,Production,2018,398.48
 France,France,Soya,Production,2019,428.53
 France,France,Soya,Production,2020,406.67
-France,France,Soya,Production,2021,439.38
+France,France,Soya,Production,2021,439.35
+France,France,Soya,Production,2022,389.18
 France,France,Spring barley,Production,1955,1871.9
 France,France,Spring barley,Production,1956,6144.8
 France,France,Spring barley,Production,1957,2937.1
@@ -2121,8 +2153,8 @@ France,France,Spring barley,Production,2017,2968.11
 France,France,Spring barley,Production,2018,2997.03
 France,France,Spring barley,Production,2019,4425.59
 France,France,Spring barley,Production,2020,3842.37
-France,France,Spring barley,Production,2021,3201.66
-France,France,Spring barley,Production,2022,2936.23
+France,France,Spring barley,Production,2021,3201.52
+France,France,Spring barley,Production,2022,2895.64
 France,France,Sunflower seed,Production,1955,3.8
 France,France,Sunflower seed,Production,1956,8.0
 France,France,Sunflower seed,Production,1957,3.7
@@ -2189,7 +2221,8 @@ France,France,Sunflower seed,Production,2017,1598.94
 France,France,Sunflower seed,Production,2018,1239.08
 France,France,Sunflower seed,Production,2019,1298.14
 France,France,Sunflower seed,Production,2020,1607.08
-France,France,Sunflower seed,Production,2021,1911.37
+France,France,Sunflower seed,Production,2021,1912.89
+France,France,Sunflower seed,Production,2022,1829.09
 France,France,Winter barley,Production,1955,798.7
 France,France,Winter barley,Production,1956,268.3
 France,France,Winter barley,Production,1957,689.0
@@ -2256,8 +2289,8 @@ France,France,Winter barley,Production,2017,8978.14
 France,France,Winter barley,Production,2018,8045.78
 France,France,Winter barley,Production,2019,9139.84
 France,France,Winter barley,Production,2020,6431.2
-France,France,Winter barley,Production,2021,8119.8
-France,France,Winter barley,Production,2022,8320.66
+France,France,Winter barley,Production,2021,8119.81
+France,France,Winter barley,Production,2022,8357.2
 Germany,Germany,Barley,Production,1955,2085.9
 Germany,Germany,Barley,Production,1956,2326.4
 Germany,Germany,Barley,Production,1957,2513.6
@@ -2325,7 +2358,7 @@ Germany,Germany,Barley,Production,2018,9583.6
 Germany,Germany,Barley,Production,2019,11591.5
 Germany,Germany,Barley,Production,2020,10769.2
 Germany,Germany,Barley,Production,2021,10411.1
-Germany,Germany,Barley,Production,2022,11299.3
+Germany,Germany,Barley,Production,2022,11207.1
 Germany,Germany,Corn,Production,2000,3324.0
 Germany,Germany,Corn,Production,2001,3504.5
 Germany,Germany,Corn,Production,2002,3738.4
@@ -2348,7 +2381,7 @@ Germany,Germany,Corn,Production,2018,3344.3
 Germany,Germany,Corn,Production,2019,3664.8
 Germany,Germany,Corn,Production,2020,4020.0
 Germany,Germany,Corn,Production,2021,4462.4
-Germany,Germany,Corn,Production,2022,3500.4
+Germany,Germany,Corn,Production,2022,3837.4
 Germany,Germany,Oats,Production,1955,2504.5
 Germany,Germany,Oats,Production,1956,2485.7
 Germany,Germany,Oats,Production,1957,2250.3
@@ -2416,7 +2449,7 @@ Germany,Germany,Oats,Production,2018,577.6
 Germany,Germany,Oats,Production,2019,519.3
 Germany,Germany,Oats,Production,2020,721.9
 Germany,Germany,Oats,Production,2021,766.5
-Germany,Germany,Oats,Production,2022,735.7
+Germany,Germany,Oats,Production,2022,754.7
 Germany,Germany,Rapeseed,Production,1955,21.1
 Germany,Germany,Rapeseed,Production,1956,39.0
 Germany,Germany,Rapeseed,Production,1957,67.6
@@ -2484,7 +2517,7 @@ Germany,Germany,Rapeseed,Production,2018,3677.2
 Germany,Germany,Rapeseed,Production,2019,2830.2
 Germany,Germany,Rapeseed,Production,2020,3527.3
 Germany,Germany,Rapeseed,Production,2021,3504.6
-Germany,Germany,Rapeseed,Production,2022,4290.3
+Germany,Germany,Rapeseed,Production,2022,4303.7
 Germany,Germany,Rye,Production,1955,3686.5
 Germany,Germany,Rye,Production,1956,3913.5
 Germany,Germany,Rye,Production,1957,4021.2
@@ -2551,7 +2584,7 @@ Germany,Germany,Rye,Production,2018,2201.4
 Germany,Germany,Rye,Production,2019,3237.6
 Germany,Germany,Rye,Production,2020,3513.4
 Germany,Germany,Rye,Production,2021,3325.6
-Germany,Germany,Rye,Production,2022,3128.7
+Germany,Germany,Rye,Production,2022,3132.3
 Germany,Germany,Soft Wheat,Production,1955,3401.5
 Germany,Germany,Soft Wheat,Production,1956,3490.6
 Germany,Germany,Soft Wheat,Production,1957,3869.7
@@ -2619,7 +2652,7 @@ Germany,Germany,Soft Wheat,Production,2018,20125.4
 Germany,Germany,Soft Wheat,Production,2019,22907.9
 Germany,Germany,Soft Wheat,Production,2020,21989.0
 Germany,Germany,Soft Wheat,Production,2021,21252.2
-Germany,Germany,Soft Wheat,Production,2022,22345.1
+Germany,Germany,Soft Wheat,Production,2022,22368.9
 Germany,Germany,Soya,Production,1987,0.2
 Germany,Germany,Soya,Production,1988,1.65
 Germany,Germany,Soya,Production,1989,5.09
@@ -2629,6 +2662,7 @@ Germany,Germany,Soya,Production,2018,58.7
 Germany,Germany,Soya,Production,2019,84.1
 Germany,Germany,Soya,Production,2020,90.5
 Germany,Germany,Soya,Production,2021,106.6
+Germany,Germany,Soya,Production,2022,127.7
 Germany,Germany,Spring barley,Production,1955,1625.6
 Germany,Germany,Spring barley,Production,1956,1897.1
 Germany,Germany,Spring barley,Production,1957,1876.3
@@ -2696,7 +2730,7 @@ Germany,Germany,Spring barley,Production,2018,2209.2
 Germany,Germany,Spring barley,Production,2019,1828.7
 Germany,Germany,Spring barley,Production,2020,1992.6
 Germany,Germany,Spring barley,Production,2021,1519.7
-Germany,Germany,Spring barley,Production,2022,1991.8
+Germany,Germany,Spring barley,Production,2022,1975.9
 Germany,Germany,Sunflower seed,Production,1987,25.6
 Germany,Germany,Sunflower seed,Production,1988,47.6
 Germany,Germany,Sunflower seed,Production,1989,48.47
@@ -2728,6 +2762,7 @@ Germany,Germany,Sunflower seed,Production,2018,35.5
 Germany,Germany,Sunflower seed,Production,2019,46.0
 Germany,Germany,Sunflower seed,Production,2020,58.0
 Germany,Germany,Sunflower seed,Production,2021,99.7
+Germany,Germany,Sunflower seed,Production,2022,159.4
 Germany,Germany,Winter barley,Production,1955,460.2
 Germany,Germany,Winter barley,Production,1956,429.3
 Germany,Germany,Winter barley,Production,1957,637.3
@@ -2795,7 +2830,7 @@ Germany,Germany,Winter barley,Production,2018,7374.3
 Germany,Germany,Winter barley,Production,2019,9762.8
 Germany,Germany,Winter barley,Production,2020,8776.6
 Germany,Germany,Winter barley,Production,2021,8891.4
-Germany,Germany,Winter barley,Production,2022,9307.5
+Germany,Germany,Winter barley,Production,2022,9231.3
 Hungary,Hungary,Barley,Production,1987,794.0
 Hungary,Hungary,Barley,Production,1988,1183.0
 Hungary,Hungary,Barley,Production,1989,1340.0
@@ -2830,8 +2865,8 @@ Hungary,Hungary,Barley,Production,2017,1416.38
 Hungary,Hungary,Barley,Production,2018,1145.54
 Hungary,Hungary,Barley,Production,2019,1383.26
 Hungary,Hungary,Barley,Production,2020,1483.95
-Hungary,Hungary,Barley,Production,2021,1698.95
-Hungary,Hungary,Barley,Production,2022,1488.3
+Hungary,Hungary,Barley,Production,2021,1711.63
+Hungary,Hungary,Barley,Production,2022,1539.56
 Hungary,Hungary,Corn,Production,2000,4926.34
 Hungary,Hungary,Corn,Production,2001,7766.33
 Hungary,Hungary,Corn,Production,2002,6049.73
@@ -2853,8 +2888,8 @@ Hungary,Hungary,Corn,Production,2017,6700.0
 Hungary,Hungary,Corn,Production,2018,7930.56
 Hungary,Hungary,Corn,Production,2019,8229.69
 Hungary,Hungary,Corn,Production,2020,8365.43
-Hungary,Hungary,Corn,Production,2021,6264.74
-Hungary,Hungary,Corn,Production,2022,3115.75
+Hungary,Hungary,Corn,Production,2021,6424.63
+Hungary,Hungary,Corn,Production,2022,2786.91
 Hungary,Hungary,Oats,Production,1987,99.0
 Hungary,Hungary,Oats,Production,1988,138.0
 Hungary,Hungary,Oats,Production,1989,149.0
@@ -2887,8 +2922,8 @@ Hungary,Hungary,Oats,Production,2017,94.81
 Hungary,Hungary,Oats,Production,2018,59.31
 Hungary,Hungary,Oats,Production,2019,70.31
 Hungary,Hungary,Oats,Production,2020,76.97
-Hungary,Hungary,Oats,Production,2021,66.16
-Hungary,Hungary,Oats,Production,2022,53.92
+Hungary,Hungary,Oats,Production,2021,76.69
+Hungary,Hungary,Oats,Production,2022,37.57
 Hungary,Hungary,Rapeseed,Production,1991,112.0
 Hungary,Hungary,Rapeseed,Production,1992,44.0
 Hungary,Hungary,Rapeseed,Production,1993,22.0
@@ -2919,8 +2954,8 @@ Hungary,Hungary,Rapeseed,Production,2017,932.14
 Hungary,Hungary,Rapeseed,Production,2018,1002.71
 Hungary,Hungary,Rapeseed,Production,2019,912.12
 Hungary,Hungary,Rapeseed,Production,2020,876.9
-Hungary,Hungary,Rapeseed,Production,2021,721.55
-Hungary,Hungary,Rapeseed,Production,2022,454.52
+Hungary,Hungary,Rapeseed,Production,2021,734.02
+Hungary,Hungary,Rapeseed,Production,2022,451.92
 Hungary,Hungary,Rye,Production,1996,100.0
 Hungary,Hungary,Rye,Production,1997,154.0
 Hungary,Hungary,Rye,Production,1998,132.3
@@ -2944,8 +2979,8 @@ Hungary,Hungary,Rye,Production,2017,87.32
 Hungary,Hungary,Rye,Production,2018,88.29
 Hungary,Hungary,Rye,Production,2019,90.54
 Hungary,Hungary,Rye,Production,2020,84.48
-Hungary,Hungary,Rye,Production,2021,81.8
-Hungary,Hungary,Rye,Production,2022,97.05
+Hungary,Hungary,Rye,Production,2021,85.01
+Hungary,Hungary,Rye,Production,2022,57.58
 Hungary,Hungary,Soft Wheat,Production,1998,4862.4
 Hungary,Hungary,Soft Wheat,Production,1999,2604.1
 Hungary,Hungary,Soft Wheat,Production,2000,3626.74
@@ -2969,8 +3004,8 @@ Hungary,Hungary,Soft Wheat,Production,2017,5087.15
 Hungary,Hungary,Soft Wheat,Production,2018,5049.34
 Hungary,Hungary,Soft Wheat,Production,2019,5215.24
 Hungary,Hungary,Soft Wheat,Production,2020,5000.79
-Hungary,Hungary,Soft Wheat,Production,2021,5156.13
-Hungary,Hungary,Soft Wheat,Production,2022,4140.87
+Hungary,Hungary,Soft Wheat,Production,2021,5127.89
+Hungary,Hungary,Soft Wheat,Production,2022,4050.05
 Hungary,Hungary,Soya,Production,1987,69.0
 Hungary,Hungary,Soya,Production,1988,105.0
 Hungary,Hungary,Soya,Production,1989,118.0
@@ -3005,7 +3040,8 @@ Hungary,Hungary,Soya,Production,2017,179.28
 Hungary,Hungary,Soya,Production,2018,181.24
 Hungary,Hungary,Soya,Production,2019,169.57
 Hungary,Hungary,Soya,Production,2020,165.76
-Hungary,Hungary,Soya,Production,2021,162.11
+Hungary,Hungary,Soya,Production,2021,156.58
+Hungary,Hungary,Soya,Production,2022,127.28
 Hungary,Hungary,Spring barley,Production,1996,474.0
 Hungary,Hungary,Spring barley,Production,1997,614.0
 Hungary,Hungary,Spring barley,Production,1998,611.5
@@ -3029,8 +3065,8 @@ Hungary,Hungary,Spring barley,Production,2017,184.24
 Hungary,Hungary,Spring barley,Production,2018,75.68
 Hungary,Hungary,Spring barley,Production,2019,114.57
 Hungary,Hungary,Spring barley,Production,2020,107.71
-Hungary,Hungary,Spring barley,Production,2021,127.06
-Hungary,Hungary,Spring barley,Production,2022,79.45
+Hungary,Hungary,Spring barley,Production,2021,132.48
+Hungary,Hungary,Spring barley,Production,2022,80.17
 Hungary,Hungary,Sunflower seed,Production,1987,803.0
 Hungary,Hungary,Sunflower seed,Production,1988,716.0
 Hungary,Hungary,Sunflower seed,Production,1989,699.0
@@ -3065,7 +3101,8 @@ Hungary,Hungary,Sunflower seed,Production,2017,2022.33
 Hungary,Hungary,Sunflower seed,Production,2018,1830.28
 Hungary,Hungary,Sunflower seed,Production,2019,1706.85
 Hungary,Hungary,Sunflower seed,Production,2020,1697.96
-Hungary,Hungary,Sunflower seed,Production,2021,1760.77
+Hungary,Hungary,Sunflower seed,Production,2021,1757.71
+Hungary,Hungary,Sunflower seed,Production,2022,1145.31
 Hungary,Hungary,Winter barley,Production,1996,447.0
 Hungary,Hungary,Winter barley,Production,1997,716.0
 Hungary,Hungary,Winter barley,Production,1998,693.1
@@ -3089,8 +3126,8 @@ Hungary,Hungary,Winter barley,Production,2017,1232.14
 Hungary,Hungary,Winter barley,Production,2018,1069.86
 Hungary,Hungary,Winter barley,Production,2019,1268.69
 Hungary,Hungary,Winter barley,Production,2020,1376.24
-Hungary,Hungary,Winter barley,Production,2021,1571.89
-Hungary,Hungary,Winter barley,Production,2022,1408.85
+Hungary,Hungary,Winter barley,Production,2021,1579.15
+Hungary,Hungary,Winter barley,Production,2022,1459.38
 Italy,Italy,Barley,Production,1955,291.7
 Italy,Italy,Barley,Production,1956,276.0
 Italy,Italy,Barley,Production,1957,296.3
@@ -3158,7 +3195,7 @@ Italy,Italy,Barley,Production,2018,1040.99
 Italy,Italy,Barley,Production,2019,1104.99
 Italy,Italy,Barley,Production,2020,1123.73
 Italy,Italy,Barley,Production,2021,1091.97
-Italy,Italy,Barley,Production,2022,1122.27
+Italy,Italy,Barley,Production,2022,1158.4
 Italy,Italy,Corn,Production,2000,10021.7
 Italy,Italy,Corn,Production,2001,10430.98
 Italy,Italy,Corn,Production,2002,10431.67
@@ -3181,7 +3218,7 @@ Italy,Italy,Corn,Production,2018,6199.15
 Italy,Italy,Corn,Production,2019,6279.12
 Italy,Italy,Corn,Production,2020,6793.13
 Italy,Italy,Corn,Production,2021,6079.96
-Italy,Italy,Corn,Production,2022,5192.28
+Italy,Italy,Corn,Production,2022,4697.17
 Italy,Italy,Oats,Production,1955,523.4
 Italy,Italy,Oats,Production,1956,506.5
 Italy,Italy,Oats,Production,1957,581.7
@@ -3249,7 +3286,7 @@ Italy,Italy,Oats,Production,2018,249.7
 Italy,Italy,Oats,Production,2019,244.31
 Italy,Italy,Oats,Production,2020,249.03
 Italy,Italy,Oats,Production,2021,239.53
-Italy,Italy,Oats,Production,2022,230.04
+Italy,Italy,Oats,Production,2022,248.59
 Italy,Italy,Rapeseed,Production,1955,10.2
 Italy,Italy,Rapeseed,Production,1956,6.4
 Italy,Italy,Rapeseed,Production,1957,10.3
@@ -3317,7 +3354,7 @@ Italy,Italy,Rapeseed,Production,2018,39.7
 Italy,Italy,Rapeseed,Production,2019,37.99
 Italy,Italy,Rapeseed,Production,2020,48.69
 Italy,Italy,Rapeseed,Production,2021,55.16
-Italy,Italy,Rapeseed,Production,2022,52.41
+Italy,Italy,Rapeseed,Production,2022,53.97
 Italy,Italy,Rye,Production,1955,123.2
 Italy,Italy,Rye,Production,1956,105.1
 Italy,Italy,Rye,Production,1957,92.1
@@ -3382,7 +3419,7 @@ Italy,Italy,Rye,Production,2018,10.98
 Italy,Italy,Rye,Production,2019,12.91
 Italy,Italy,Rye,Production,2020,11.82
 Italy,Italy,Rye,Production,2021,11.71
-Italy,Italy,Rye,Production,2022,10.97
+Italy,Italy,Rye,Production,2022,11.75
 Italy,Italy,Soft Wheat,Production,1955,7891.5
 Italy,Italy,Soft Wheat,Production,1956,7244.5
 Italy,Italy,Soft Wheat,Production,1957,6675.7
@@ -3449,7 +3486,7 @@ Italy,Italy,Soft Wheat,Production,2018,2848.06
 Italy,Italy,Soft Wheat,Production,2019,2785.8
 Italy,Italy,Soft Wheat,Production,2020,2725.74
 Italy,Italy,Soft Wheat,Production,2021,3118.59
-Italy,Italy,Soft Wheat,Production,2022,2907.74
+Italy,Italy,Soft Wheat,Production,2022,2818.79
 Italy,Italy,Soya,Production,1955,0.4
 Italy,Italy,Soya,Production,1956,0.4
 Italy,Italy,Soya,Production,1957,0.6
@@ -3515,8 +3552,9 @@ Italy,Italy,Soya,Production,2018,1186.35
 Italy,Italy,Soya,Production,2019,1042.83
 Italy,Italy,Soya,Production,2020,1005.63
 Italy,Italy,Soya,Production,2021,923.47
+Italy,Italy,Soya,Production,2022,943.4
 Italy,Italy,Spring barley,Production,2021,27.55
-Italy,Italy,Spring barley,Production,2022,76.94
+Italy,Italy,Spring barley,Production,2022,27.63
 Italy,Italy,Sunflower seed,Production,1955,3.7
 Italy,Italy,Sunflower seed,Production,1956,5.2
 Italy,Italy,Sunflower seed,Production,1957,5.5
@@ -3584,6 +3622,7 @@ Italy,Italy,Sunflower seed,Production,2018,250.46
 Italy,Italy,Sunflower seed,Production,2019,294.73
 Italy,Italy,Sunflower seed,Production,2020,299.88
 Italy,Italy,Sunflower seed,Production,2021,282.4
+Italy,Italy,Sunflower seed,Production,2022,266.03
 Italy,Italy,Winter barley,Production,2006,1282.0
 Italy,Italy,Winter barley,Production,2007,1225.3
 Italy,Italy,Winter barley,Production,2008,1236.7
@@ -3599,8 +3638,8 @@ Italy,Italy,Winter barley,Production,2017,1014.15
 Italy,Italy,Winter barley,Production,2018,1040.99
 Italy,Italy,Winter barley,Production,2019,1104.99
 Italy,Italy,Winter barley,Production,2020,1123.73
-Italy,Italy,Winter barley,Production,2021,1064.41
-Italy,Italy,Winter barley,Production,2022,1045.33
+Italy,Italy,Winter barley,Production,2021,1064.42
+Italy,Italy,Winter barley,Production,2022,1130.77
 Latvia,Latvia,Barley,Production,1987,907.4
 Latvia,Latvia,Barley,Production,1988,500.4
 Latvia,Latvia,Barley,Production,1989,700.7
@@ -3635,7 +3674,7 @@ Latvia,Latvia,Barley,Production,2018,306.3
 Latvia,Latvia,Barley,Production,2019,305.4
 Latvia,Latvia,Barley,Production,2020,308.8
 Latvia,Latvia,Barley,Production,2021,215.8
-Latvia,Latvia,Barley,Production,2022,277.3
+Latvia,Latvia,Barley,Production,2022,281.6
 Latvia,Latvia,Oats,Production,1987,151.1
 Latvia,Latvia,Oats,Production,1988,89.7
 Latvia,Latvia,Oats,Production,1989,149.3
@@ -3670,7 +3709,7 @@ Latvia,Latvia,Oats,Production,2018,188.2
 Latvia,Latvia,Oats,Production,2019,237.8
 Latvia,Latvia,Oats,Production,2020,287.9
 Latvia,Latvia,Oats,Production,2021,182.9
-Latvia,Latvia,Oats,Production,2022,295.6
+Latvia,Latvia,Oats,Production,2022,224.5
 Latvia,Latvia,Rapeseed,Production,1990,3.8
 Latvia,Latvia,Rapeseed,Production,1991,0.9
 Latvia,Latvia,Rapeseed,Production,1992,1.4
@@ -3703,7 +3742,7 @@ Latvia,Latvia,Rapeseed,Production,2018,231.1
 Latvia,Latvia,Rapeseed,Production,2019,408.3
 Latvia,Latvia,Rapeseed,Production,2020,455.5
 Latvia,Latvia,Rapeseed,Production,2021,427.9
-Latvia,Latvia,Rapeseed,Production,2022,339.1
+Latvia,Latvia,Rapeseed,Production,2022,330.2
 Latvia,Latvia,Rye,Production,1987,189.4
 Latvia,Latvia,Rye,Production,1988,239.0
 Latvia,Latvia,Rye,Production,1989,336.8
@@ -3738,7 +3777,7 @@ Latvia,Latvia,Rye,Production,2018,81.6
 Latvia,Latvia,Rye,Production,2019,191.2
 Latvia,Latvia,Rye,Production,2020,178.4
 Latvia,Latvia,Rye,Production,2021,138.4
-Latvia,Latvia,Rye,Production,2022,117.3
+Latvia,Latvia,Rye,Production,2022,129.0
 Latvia,Latvia,Soft Wheat,Production,1987,297.2
 Latvia,Latvia,Soft Wheat,Production,1988,270.5
 Latvia,Latvia,Soft Wheat,Production,1989,360.3
@@ -3773,7 +3812,7 @@ Latvia,Latvia,Soft Wheat,Production,2018,1431.6
 Latvia,Latvia,Soft Wheat,Production,2019,2371.0
 Latvia,Latvia,Soft Wheat,Production,2020,2659.6
 Latvia,Latvia,Soft Wheat,Production,2021,2407.7
-Latvia,Latvia,Soft Wheat,Production,2022,2338.5
+Latvia,Latvia,Soft Wheat,Production,2022,2539.4
 Latvia,Latvia,Spring barley,Production,1987,906.7
 Latvia,Latvia,Spring barley,Production,1988,500.2
 Latvia,Latvia,Spring barley,Production,1989,700.3
@@ -3808,7 +3847,7 @@ Latvia,Latvia,Spring barley,Production,2018,295.9
 Latvia,Latvia,Spring barley,Production,2019,273.5
 Latvia,Latvia,Spring barley,Production,2020,256.6
 Latvia,Latvia,Spring barley,Production,2021,151.5
-Latvia,Latvia,Spring barley,Production,2022,201.1
+Latvia,Latvia,Spring barley,Production,2022,182.1
 Latvia,Latvia,Winter barley,Production,1987,0.7
 Latvia,Latvia,Winter barley,Production,1988,0.2
 Latvia,Latvia,Winter barley,Production,1989,0.4
@@ -3843,7 +3882,7 @@ Latvia,Latvia,Winter barley,Production,2018,10.4
 Latvia,Latvia,Winter barley,Production,2019,31.9
 Latvia,Latvia,Winter barley,Production,2020,52.2
 Latvia,Latvia,Winter barley,Production,2021,64.3
-Latvia,Latvia,Winter barley,Production,2022,76.2
+Latvia,Latvia,Winter barley,Production,2022,99.5
 Lithuania,Lithuania,Barley,Production,1987,1337.8
 Lithuania,Lithuania,Barley,Production,1988,972.0
 Lithuania,Lithuania,Barley,Production,1989,1131.1
@@ -3879,7 +3918,7 @@ Lithuania,Lithuania,Barley,Production,2018,619.54
 Lithuania,Lithuania,Barley,Production,2019,588.45
 Lithuania,Lithuania,Barley,Production,2020,705.91
 Lithuania,Lithuania,Barley,Production,2021,500.41
-Lithuania,Lithuania,Barley,Production,2022,496.8
+Lithuania,Lithuania,Barley,Production,2022,522.0
 Lithuania,Lithuania,Corn,Production,2002,8.3
 Lithuania,Lithuania,Corn,Production,2003,8.7
 Lithuania,Lithuania,Corn,Production,2004,3.0
@@ -3900,7 +3939,7 @@ Lithuania,Lithuania,Corn,Production,2018,87.59
 Lithuania,Lithuania,Corn,Production,2019,97.97
 Lithuania,Lithuania,Corn,Production,2020,141.69
 Lithuania,Lithuania,Corn,Production,2021,104.68
-Lithuania,Lithuania,Corn,Production,2022,137.4
+Lithuania,Lithuania,Corn,Production,2022,99.79
 Lithuania,Lithuania,Oats,Production,1987,241.0
 Lithuania,Lithuania,Oats,Production,1988,185.6
 Lithuania,Lithuania,Oats,Production,1989,200.5
@@ -3936,7 +3975,7 @@ Lithuania,Lithuania,Oats,Production,2018,182.44
 Lithuania,Lithuania,Oats,Production,2019,177.87
 Lithuania,Lithuania,Oats,Production,2020,275.57
 Lithuania,Lithuania,Oats,Production,2021,170.25
-Lithuania,Lithuania,Oats,Production,2022,204.7
+Lithuania,Lithuania,Oats,Production,2022,186.1
 Lithuania,Lithuania,Rapeseed,Production,1987,7.1
 Lithuania,Lithuania,Rapeseed,Production,1988,11.7
 Lithuania,Lithuania,Rapeseed,Production,1989,19.4
@@ -4008,7 +4047,7 @@ Lithuania,Lithuania,Rye,Production,2018,43.99
 Lithuania,Lithuania,Rye,Production,2019,108.06
 Lithuania,Lithuania,Rye,Production,2020,110.06
 Lithuania,Lithuania,Rye,Production,2021,63.47
-Lithuania,Lithuania,Rye,Production,2022,89.5
+Lithuania,Lithuania,Rye,Production,2022,71.09
 Lithuania,Lithuania,Soft Wheat,Production,1987,753.5
 Lithuania,Lithuania,Soft Wheat,Production,1988,861.5
 Lithuania,Lithuania,Soft Wheat,Production,1989,1158.6
@@ -4044,7 +4083,7 @@ Lithuania,Lithuania,Soft Wheat,Production,2018,2838.9
 Lithuania,Lithuania,Soft Wheat,Production,2019,3843.85
 Lithuania,Lithuania,Soft Wheat,Production,2020,4818.75
 Lithuania,Lithuania,Soft Wheat,Production,2021,4248.85
-Lithuania,Lithuania,Soft Wheat,Production,2022,4640.4
+Lithuania,Lithuania,Soft Wheat,Production,2022,4482.76
 Lithuania,Lithuania,Soya,Production,2011,0.7
 Lithuania,Lithuania,Soya,Production,2012,1.8
 Lithuania,Lithuania,Soya,Production,2013,1.5
@@ -4056,6 +4095,7 @@ Lithuania,Lithuania,Soya,Production,2018,3.45
 Lithuania,Lithuania,Soya,Production,2019,2.31
 Lithuania,Lithuania,Soya,Production,2020,2.56
 Lithuania,Lithuania,Soya,Production,2021,2.23
+Lithuania,Lithuania,Soya,Production,2022,3.2
 Lithuania,Lithuania,Spring barley,Production,1987,1334.0
 Lithuania,Lithuania,Spring barley,Production,1988,969.4
 Lithuania,Lithuania,Spring barley,Production,1989,1128.5
@@ -4091,7 +4131,7 @@ Lithuania,Lithuania,Spring barley,Production,2018,590.75
 Lithuania,Lithuania,Spring barley,Production,2019,504.06
 Lithuania,Lithuania,Spring barley,Production,2020,592.36
 Lithuania,Lithuania,Spring barley,Production,2021,392.9
-Lithuania,Lithuania,Spring barley,Production,2022,351.6
+Lithuania,Lithuania,Spring barley,Production,2022,383.49
 Lithuania,Lithuania,Winter barley,Production,1987,3.8
 Lithuania,Lithuania,Winter barley,Production,1988,2.6
 Lithuania,Lithuania,Winter barley,Production,1989,2.6
@@ -4127,7 +4167,7 @@ Lithuania,Lithuania,Winter barley,Production,2018,28.78
 Lithuania,Lithuania,Winter barley,Production,2019,84.39
 Lithuania,Lithuania,Winter barley,Production,2020,113.54
 Lithuania,Lithuania,Winter barley,Production,2021,107.51
-Lithuania,Lithuania,Winter barley,Production,2022,145.2
+Lithuania,Lithuania,Winter barley,Production,2022,138.51
 Netherlands,Netherlands,Barley,Production,1955,263.8
 Netherlands,Netherlands,Barley,Production,1956,272.6
 Netherlands,Netherlands,Barley,Production,1957,291.6
@@ -4194,7 +4234,8 @@ Netherlands,Netherlands,Barley,Production,2017,201.01
 Netherlands,Netherlands,Barley,Production,2018,247.5
 Netherlands,Netherlands,Barley,Production,2019,242.37
 Netherlands,Netherlands,Barley,Production,2020,246.19
-Netherlands,Netherlands,Barley,Production,2021,196.72
+Netherlands,Netherlands,Barley,Production,2021,196.59
+Netherlands,Netherlands,Barley,Production,2022,300.29
 Netherlands,Netherlands,Corn,Production,2000,168.77
 Netherlands,Netherlands,Corn,Production,2001,254.03
 Netherlands,Netherlands,Corn,Production,2002,238.31
@@ -4216,7 +4257,8 @@ Netherlands,Netherlands,Corn,Production,2017,131.73
 Netherlands,Netherlands,Corn,Production,2018,89.28
 Netherlands,Netherlands,Corn,Production,2019,148.3
 Netherlands,Netherlands,Corn,Production,2020,165.79
-Netherlands,Netherlands,Corn,Production,2021,171.37
+Netherlands,Netherlands,Corn,Production,2021,171.42
+Netherlands,Netherlands,Corn,Production,2022,152.76
 Netherlands,Netherlands,Oats,Production,1955,582.1
 Netherlands,Netherlands,Oats,Production,1956,482.8
 Netherlands,Netherlands,Oats,Production,1957,504.5
@@ -4284,6 +4326,7 @@ Netherlands,Netherlands,Oats,Production,2018,6.89
 Netherlands,Netherlands,Oats,Production,2019,8.36
 Netherlands,Netherlands,Oats,Production,2020,7.58
 Netherlands,Netherlands,Oats,Production,2021,7.27
+Netherlands,Netherlands,Oats,Production,2022,8.95
 Netherlands,Netherlands,Rapeseed,Production,1955,18.8
 Netherlands,Netherlands,Rapeseed,Production,1956,25.5
 Netherlands,Netherlands,Rapeseed,Production,1957,16.3
@@ -4350,7 +4393,8 @@ Netherlands,Netherlands,Rapeseed,Production,2017,7.87
 Netherlands,Netherlands,Rapeseed,Production,2018,5.82
 Netherlands,Netherlands,Rapeseed,Production,2019,6.01
 Netherlands,Netherlands,Rapeseed,Production,2020,5.92
-Netherlands,Netherlands,Rapeseed,Production,2021,4.4
+Netherlands,Netherlands,Rapeseed,Production,2021,4.39
+Netherlands,Netherlands,Rapeseed,Production,2022,6.93
 Netherlands,Netherlands,Rye,Production,1955,465.0
 Netherlands,Netherlands,Rye,Production,1956,491.7
 Netherlands,Netherlands,Rye,Production,1957,458.1
@@ -4417,7 +4461,8 @@ Netherlands,Netherlands,Rye,Production,2017,4.31
 Netherlands,Netherlands,Rye,Production,2018,4.34
 Netherlands,Netherlands,Rye,Production,2019,5.3
 Netherlands,Netherlands,Rye,Production,2020,7.59
-Netherlands,Netherlands,Rye,Production,2021,7.86
+Netherlands,Netherlands,Rye,Production,2021,7.92
+Netherlands,Netherlands,Rye,Production,2022,8.81
 Netherlands,Netherlands,Soft Wheat,Production,1955,350.2
 Netherlands,Netherlands,Soft Wheat,Production,1956,308.6
 Netherlands,Netherlands,Soft Wheat,Production,1957,392.6
@@ -4484,7 +4529,8 @@ Netherlands,Netherlands,Soft Wheat,Production,2017,1032.21
 Netherlands,Netherlands,Soft Wheat,Production,2018,961.92
 Netherlands,Netherlands,Soft Wheat,Production,2019,1130.53
 Netherlands,Netherlands,Soft Wheat,Production,2020,931.83
-Netherlands,Netherlands,Soft Wheat,Production,2021,947.8
+Netherlands,Netherlands,Soft Wheat,Production,2021,947.25
+Netherlands,Netherlands,Soft Wheat,Production,2022,1261.81
 Netherlands,Netherlands,Spring barley,Production,1955,249.8
 Netherlands,Netherlands,Spring barley,Production,1956,240.8
 Netherlands,Netherlands,Spring barley,Production,1957,260.9
@@ -4551,6 +4597,7 @@ Netherlands,Netherlands,Spring barley,Production,2017,122.29
 Netherlands,Netherlands,Spring barley,Production,2018,183.01
 Netherlands,Netherlands,Spring barley,Production,2019,144.41
 Netherlands,Netherlands,Spring barley,Production,2020,174.67
+Netherlands,Netherlands,Spring barley,Production,2021,121.81
 Netherlands,Netherlands,Winter barley,Production,1955,14.0
 Netherlands,Netherlands,Winter barley,Production,1956,31.7
 Netherlands,Netherlands,Winter barley,Production,1957,30.7
@@ -4617,7 +4664,8 @@ Netherlands,Netherlands,Winter barley,Production,2017,78.73
 Netherlands,Netherlands,Winter barley,Production,2018,64.48
 Netherlands,Netherlands,Winter barley,Production,2019,97.96
 Netherlands,Netherlands,Winter barley,Production,2020,71.5
-Netherlands,Netherlands,Winter barley,Production,2021,74.8
+Netherlands,Netherlands,Winter barley,Production,2021,74.82
+Netherlands,Netherlands,Winter barley,Production,2022,102.7
 Poland,Poland,Barley,Production,1987,4334.6
 Poland,Poland,Barley,Production,1988,3804.2
 Poland,Poland,Barley,Production,1989,3908.7
@@ -4651,8 +4699,9 @@ Poland,Poland,Barley,Production,2016,3377.08
 Poland,Poland,Barley,Production,2017,3722.46
 Poland,Poland,Barley,Production,2018,2991.56
 Poland,Poland,Barley,Production,2019,3311.57
-Poland,Poland,Barley,Production,2020,2944.79
+Poland,Poland,Barley,Production,2020,2948.35
 Poland,Poland,Barley,Production,2021,2961.65
+Poland,Poland,Barley,Production,2022,2769.03
 Poland,Poland,Corn,Production,2000,923.3
 Poland,Poland,Corn,Production,2001,1361.9
 Poland,Poland,Corn,Production,2002,1962.0
@@ -4673,8 +4722,9 @@ Poland,Poland,Corn,Production,2016,4262.1
 Poland,Poland,Corn,Production,2017,3946.77
 Poland,Poland,Corn,Production,2018,3792.14
 Poland,Poland,Corn,Production,2019,3664.55
-Poland,Poland,Corn,Production,2020,6694.65
+Poland,Poland,Corn,Production,2020,6694.37
 Poland,Poland,Corn,Production,2021,7321.91
+Poland,Poland,Corn,Production,2022,8112.6
 Poland,Poland,Oats,Production,1987,2428.6
 Poland,Poland,Oats,Production,1988,2221.5
 Poland,Poland,Oats,Production,1989,2185.6
@@ -4708,8 +4758,9 @@ Poland,Poland,Oats,Production,2016,1332.83
 Poland,Poland,Oats,Production,2017,1437.36
 Poland,Poland,Oats,Production,2018,1144.36
 Poland,Poland,Oats,Production,2019,1209.58
-Poland,Poland,Oats,Production,2020,1627.14
+Poland,Poland,Oats,Production,2020,1646.72
 Poland,Poland,Oats,Production,2021,1625.1
+Poland,Poland,Oats,Production,2022,1492.28
 Poland,Poland,Rapeseed,Production,1987,1186.1
 Poland,Poland,Rapeseed,Production,1988,1199.3
 Poland,Poland,Rapeseed,Production,1989,1585.8
@@ -4743,8 +4794,9 @@ Poland,Poland,Rapeseed,Production,2016,2121.75
 Poland,Poland,Rapeseed,Production,2017,2578.7
 Poland,Poland,Rapeseed,Production,2018,2105.61
 Poland,Poland,Rapeseed,Production,2019,2268.85
-Poland,Poland,Rapeseed,Production,2020,2987.46
+Poland,Poland,Rapeseed,Production,2020,2982.88
 Poland,Poland,Rapeseed,Production,2021,3050.91
+Poland,Poland,Rapeseed,Production,2022,3494.72
 Poland,Poland,Rye,Production,1987,6874.1
 Poland,Poland,Rye,Production,1988,5551.8
 Poland,Poland,Rye,Production,1989,6275.2
@@ -4778,8 +4830,9 @@ Poland,Poland,Rye,Production,2016,2350.54
 Poland,Poland,Rye,Production,2017,2869.42
 Poland,Poland,Rye,Production,2018,2339.64
 Poland,Poland,Rye,Production,2019,2624.87
-Poland,Poland,Rye,Production,2020,3325.67
-Poland,Poland,Rye,Production,2021,2838.71
+Poland,Poland,Rye,Production,2020,3350.72
+Poland,Poland,Rye,Production,2021,2838.7
+Poland,Poland,Rye,Production,2022,2532.2
 Poland,Poland,Soft Wheat,Production,1987,7941.6
 Poland,Poland,Soft Wheat,Production,1988,7582.2
 Poland,Poland,Soft Wheat,Production,1989,8461.6
@@ -4813,8 +4866,9 @@ Poland,Poland,Soft Wheat,Production,2016,10626.45
 Poland,Poland,Soft Wheat,Production,2017,11448.66
 Poland,Poland,Soft Wheat,Production,2018,9637.62
 Poland,Poland,Soft Wheat,Production,2019,10807.49
-Poland,Poland,Soft Wheat,Production,2020,12433.21
+Poland,Poland,Soft Wheat,Production,2020,12515.06
 Poland,Poland,Soft Wheat,Production,2021,11893.55
+Poland,Poland,Soft Wheat,Production,2022,13135.79
 Poland,Poland,Soya,Production,2003,0.3
 Poland,Poland,Soya,Production,2004,0.4
 Poland,Poland,Soya,Production,2005,0.3
@@ -4831,8 +4885,9 @@ Poland,Poland,Soya,Production,2016,14.87
 Poland,Poland,Soya,Production,2017,20.54
 Poland,Poland,Soya,Production,2018,10.39
 Poland,Poland,Soya,Production,2019,15.54
-Poland,Poland,Soya,Production,2020,14.94
+Poland,Poland,Soya,Production,2020,15.96
 Poland,Poland,Soya,Production,2021,20.97
+Poland,Poland,Soya,Production,2022,42.04
 Poland,Poland,Spring barley,Production,1987,3780.6
 Poland,Poland,Spring barley,Production,1988,3283.8
 Poland,Poland,Spring barley,Production,1989,3235.1
@@ -4866,8 +4921,9 @@ Poland,Poland,Spring barley,Production,2016,2770.07
 Poland,Poland,Spring barley,Production,2017,2844.89
 Poland,Poland,Spring barley,Production,2018,2238.0
 Poland,Poland,Spring barley,Production,2019,2362.45
-Poland,Poland,Spring barley,Production,2020,1597.56
+Poland,Poland,Spring barley,Production,2020,1601.88
 Poland,Poland,Spring barley,Production,2021,1581.25
+Poland,Poland,Spring barley,Production,2022,1281.58
 Poland,Poland,Sunflower seed,Production,1999,0.6
 Poland,Poland,Sunflower seed,Production,2000,1.0
 Poland,Poland,Sunflower seed,Production,2001,1.1
@@ -4889,8 +4945,9 @@ Poland,Poland,Sunflower seed,Production,2016,3.35
 Poland,Poland,Sunflower seed,Production,2017,5.96
 Poland,Poland,Sunflower seed,Production,2018,9.24
 Poland,Poland,Sunflower seed,Production,2019,3.93
-Poland,Poland,Sunflower seed,Production,2020,14.85
+Poland,Poland,Sunflower seed,Production,2020,15.13
 Poland,Poland,Sunflower seed,Production,2021,32.66
+Poland,Poland,Sunflower seed,Production,2022,59.79
 Poland,Poland,Winter barley,Production,1987,554.0
 Poland,Poland,Winter barley,Production,1988,520.4
 Poland,Poland,Winter barley,Production,1989,673.6
@@ -4924,8 +4981,9 @@ Poland,Poland,Winter barley,Production,2016,606.99
 Poland,Poland,Winter barley,Production,2017,877.57
 Poland,Poland,Winter barley,Production,2018,753.55
 Poland,Poland,Winter barley,Production,2019,949.12
-Poland,Poland,Winter barley,Production,2020,1347.23
+Poland,Poland,Winter barley,Production,2020,1346.46
 Poland,Poland,Winter barley,Production,2021,1380.39
+Poland,Poland,Winter barley,Production,2022,1487.44
 Romania,Romania,Barley,Production,1987,2401.5
 Romania,Romania,Barley,Production,1988,3202.3
 Romania,Romania,Barley,Production,1989,3436.3
@@ -4960,8 +5018,8 @@ Romania,Romania,Barley,Production,2017,1906.7
 Romania,Romania,Barley,Production,2018,1870.71
 Romania,Romania,Barley,Production,2019,1879.95
 Romania,Romania,Barley,Production,2020,1141.01
-Romania,Romania,Barley,Production,2021,2435.43
-Romania,Romania,Barley,Production,2022,1988.33
+Romania,Romania,Barley,Production,2021,1981.03
+Romania,Romania,Barley,Production,2022,2006.66
 Romania,Romania,Corn,Production,2000,4897.6
 Romania,Romania,Corn,Production,2001,9119.19
 Romania,Romania,Corn,Production,2002,8399.78
@@ -4983,8 +5041,8 @@ Romania,Romania,Corn,Production,2017,14326.1
 Romania,Romania,Corn,Production,2018,18663.94
 Romania,Romania,Corn,Production,2019,17432.22
 Romania,Romania,Corn,Production,2020,10096.69
-Romania,Romania,Corn,Production,2021,15186.12
-Romania,Romania,Corn,Production,2022,8818.8
+Romania,Romania,Corn,Production,2021,14820.69
+Romania,Romania,Corn,Production,2022,7486.38
 Romania,Romania,Oats,Production,1987,119.8
 Romania,Romania,Oats,Production,1988,129.3
 Romania,Romania,Oats,Production,1989,167.8
@@ -5019,8 +5077,8 @@ Romania,Romania,Oats,Production,2017,407.8
 Romania,Romania,Oats,Production,2018,383.72
 Romania,Romania,Oats,Production,2019,361.57
 Romania,Romania,Oats,Production,2020,196.66
-Romania,Romania,Oats,Production,2021,245.07
-Romania,Romania,Oats,Production,2022,172.07
+Romania,Romania,Oats,Production,2021,209.85
+Romania,Romania,Oats,Production,2022,180.61
 Romania,Romania,Rapeseed,Production,1987,7.7
 Romania,Romania,Rapeseed,Production,1988,12.5
 Romania,Romania,Rapeseed,Production,1989,18.0
@@ -5055,8 +5113,8 @@ Romania,Romania,Rapeseed,Production,2017,1673.33
 Romania,Romania,Rapeseed,Production,2018,1610.91
 Romania,Romania,Rapeseed,Production,2019,798.22
 Romania,Romania,Rapeseed,Production,2020,780.16
-Romania,Romania,Rapeseed,Production,2021,1353.03
-Romania,Romania,Rapeseed,Production,2022,1097.17
+Romania,Romania,Rapeseed,Production,2021,1375.07
+Romania,Romania,Rapeseed,Production,2022,1125.1
 Romania,Romania,Rye,Production,1989,89.6
 Romania,Romania,Rye,Production,1990,89.7
 Romania,Romania,Rye,Production,1991,85.7
@@ -5089,8 +5147,8 @@ Romania,Romania,Rye,Production,2017,28.16
 Romania,Romania,Rye,Production,2018,28.64
 Romania,Romania,Rye,Production,2019,26.18
 Romania,Romania,Rye,Production,2020,28.49
-Romania,Romania,Rye,Production,2021,34.23
-Romania,Romania,Rye,Production,2022,25.88
+Romania,Romania,Rye,Production,2021,35.1
+Romania,Romania,Rye,Production,2022,28.77
 Romania,Romania,Soft Wheat,Production,1987,6712.9
 Romania,Romania,Soft Wheat,Production,1988,8631.6
 Romania,Romania,Soft Wheat,Production,1989,7845.7
@@ -5125,8 +5183,8 @@ Romania,Romania,Soft Wheat,Production,2017,10014.38
 Romania,Romania,Soft Wheat,Production,2018,10122.91
 Romania,Romania,Soft Wheat,Production,2019,10280.58
 Romania,Romania,Soft Wheat,Production,2020,6381.69
-Romania,Romania,Soft Wheat,Production,2021,11353.86
-Romania,Romania,Soft Wheat,Production,2022,9142.62
+Romania,Romania,Soft Wheat,Production,2021,10404.08
+Romania,Romania,Soft Wheat,Production,2022,9148.68
 Romania,Romania,Soya,Production,1987,361.2
 Romania,Romania,Soya,Production,1988,295.1
 Romania,Romania,Soya,Production,1989,303.9
@@ -5161,7 +5219,8 @@ Romania,Romania,Soya,Production,2017,416.37
 Romania,Romania,Soya,Production,2018,492.68
 Romania,Romania,Soya,Production,2019,440.12
 Romania,Romania,Soya,Production,2020,340.82
-Romania,Romania,Soya,Production,2021,367.46
+Romania,Romania,Soya,Production,2021,367.74
+Romania,Romania,Soya,Production,2022,258.28
 Romania,Romania,Spring barley,Production,1997,324.5
 Romania,Romania,Spring barley,Production,1998,311.4
 Romania,Romania,Spring barley,Production,1999,300.0
@@ -5186,8 +5245,8 @@ Romania,Romania,Spring barley,Production,2017,349.04
 Romania,Romania,Spring barley,Production,2018,309.26
 Romania,Romania,Spring barley,Production,2019,282.39
 Romania,Romania,Spring barley,Production,2020,152.14
-Romania,Romania,Spring barley,Production,2021,208.47
-Romania,Romania,Spring barley,Production,2022,149.5
+Romania,Romania,Spring barley,Production,2021,154.25
+Romania,Romania,Spring barley,Production,2022,152.1
 Romania,Romania,Sunflower seed,Production,1987,746.7
 Romania,Romania,Sunflower seed,Production,1988,705.0
 Romania,Romania,Sunflower seed,Production,1989,655.8
@@ -5222,7 +5281,8 @@ Romania,Romania,Sunflower seed,Production,2017,2912.74
 Romania,Romania,Sunflower seed,Production,2018,3062.69
 Romania,Romania,Sunflower seed,Production,2019,3569.15
 Romania,Romania,Sunflower seed,Production,2020,2122.87
-Romania,Romania,Sunflower seed,Production,2021,2818.07
+Romania,Romania,Sunflower seed,Production,2021,2843.53
+Romania,Romania,Sunflower seed,Production,2022,2306.59
 Romania,Romania,Winter barley,Production,1997,1566.8
 Romania,Romania,Winter barley,Production,1998,926.6
 Romania,Romania,Winter barley,Production,1999,718.6
@@ -5247,8 +5307,8 @@ Romania,Romania,Winter barley,Production,2017,1557.66
 Romania,Romania,Winter barley,Production,2018,1561.45
 Romania,Romania,Winter barley,Production,2019,1597.55
 Romania,Romania,Winter barley,Production,2020,988.87
-Romania,Romania,Winter barley,Production,2021,2226.96
-Romania,Romania,Winter barley,Production,2022,1838.83
+Romania,Romania,Winter barley,Production,2021,1826.78
+Romania,Romania,Winter barley,Production,2022,1854.56
 Spain,Spain,Barley,Production,1965,1891.5
 Spain,Spain,Barley,Production,1966,2006.3
 Spain,Spain,Barley,Production,1967,2575.8
@@ -5305,7 +5365,8 @@ Spain,Spain,Barley,Production,2017,6055.06
 Spain,Spain,Barley,Production,2018,9554.16
 Spain,Spain,Barley,Production,2019,7744.15
 Spain,Spain,Barley,Production,2020,11465.35
-Spain,Spain,Barley,Production,2021,9385.07
+Spain,Spain,Barley,Production,2021,9275.92
+Spain,Spain,Barley,Production,2022,6929.18
 Spain,Spain,Corn,Production,2000,3991.8
 Spain,Spain,Corn,Production,2001,4981.9
 Spain,Spain,Corn,Production,2002,4425.4
@@ -5327,7 +5388,8 @@ Spain,Spain,Corn,Production,2017,3775.65
 Spain,Spain,Corn,Production,2018,3842.52
 Spain,Spain,Corn,Production,2019,4184.46
 Spain,Spain,Corn,Production,2020,4214.1
-Spain,Spain,Corn,Production,2021,4263.7
+Spain,Spain,Corn,Production,2021,4597.66
+Spain,Spain,Corn,Production,2022,3678.21
 Spain,Spain,Oats,Production,1965,369.7
 Spain,Spain,Oats,Production,1966,442.1
 Spain,Spain,Oats,Production,1967,492.3
@@ -5384,7 +5446,8 @@ Spain,Spain,Oats,Production,2017,877.58
 Spain,Spain,Oats,Production,2018,1547.46
 Spain,Spain,Oats,Production,2019,841.2
 Spain,Spain,Oats,Production,2020,1377.69
-Spain,Spain,Oats,Production,2021,1247.22
+Spain,Spain,Oats,Production,2021,1194.5
+Spain,Spain,Oats,Production,2022,837.55
 Spain,Spain,Rapeseed,Production,1983,7.8
 Spain,Spain,Rapeseed,Production,1984,9.6
 Spain,Spain,Rapeseed,Production,1985,12.2
@@ -5423,7 +5486,8 @@ Spain,Spain,Rapeseed,Production,2017,154.51
 Spain,Spain,Rapeseed,Production,2018,179.98
 Spain,Spain,Rapeseed,Production,2019,144.77
 Spain,Spain,Rapeseed,Production,2020,196.1
-Spain,Spain,Rapeseed,Production,2021,217.73
+Spain,Spain,Rapeseed,Production,2021,238.53
+Spain,Spain,Rapeseed,Production,2022,261.52
 Spain,Spain,Rye,Production,1965,351.3
 Spain,Spain,Rye,Production,1966,355.9
 Spain,Spain,Rye,Production,1967,338.6
@@ -5480,7 +5544,8 @@ Spain,Spain,Rye,Production,2017,197.76
 Spain,Spain,Rye,Production,2018,537.25
 Spain,Spain,Rye,Production,2019,336.6
 Spain,Spain,Rye,Production,2020,524.56
-Spain,Spain,Rye,Production,2021,430.7
+Spain,Spain,Rye,Production,2021,423.27
+Spain,Spain,Rye,Production,2022,301.79
 Spain,Spain,Soft Wheat,Production,1965,4465.5
 Spain,Spain,Soft Wheat,Production,1966,4637.2
 Spain,Spain,Soft Wheat,Production,1967,5293.3
@@ -5537,7 +5602,8 @@ Spain,Spain,Soft Wheat,Production,2017,3922.01
 Spain,Spain,Soft Wheat,Production,2018,6980.39
 Spain,Spain,Soft Wheat,Production,2019,5304.31
 Spain,Spain,Soft Wheat,Production,2020,7319.46
-Spain,Spain,Soft Wheat,Production,2021,7867.42
+Spain,Spain,Soft Wheat,Production,2021,7758.38
+Spain,Spain,Soft Wheat,Production,2022,5607.58
 Spain,Spain,Soya,Production,1970,3.0
 Spain,Spain,Soya,Production,1971,2.2
 Spain,Spain,Soya,Production,1972,2.9
@@ -5589,7 +5655,8 @@ Spain,Spain,Soya,Production,2017,4.71
 Spain,Spain,Soya,Production,2018,4.35
 Spain,Spain,Soya,Production,2019,5.17
 Spain,Spain,Soya,Production,2020,4.62
-Spain,Spain,Soya,Production,2021,4.88
+Spain,Spain,Soya,Production,2021,4.77
+Spain,Spain,Soya,Production,2022,3.25
 Spain,Spain,Spring barley,Production,1989,5632.4
 Spain,Spain,Spring barley,Production,1990,6056.9
 Spain,Spain,Spring barley,Production,1991,5579.0
@@ -5622,7 +5689,8 @@ Spain,Spain,Spring barley,Production,2017,5253.05
 Spain,Spain,Spring barley,Production,2018,8486.02
 Spain,Spain,Spring barley,Production,2019,7103.24
 Spain,Spain,Spring barley,Production,2020,10341.23
-Spain,Spain,Spring barley,Production,2021,8559.4
+Spain,Spain,Spring barley,Production,2021,8506.99
+Spain,Spain,Spring barley,Production,2022,6329.9
 Spain,Spain,Sunflower seed,Production,1965,8.8
 Spain,Spain,Sunflower seed,Production,1966,32.6
 Spain,Spain,Sunflower seed,Production,1967,20.6
@@ -5679,7 +5747,8 @@ Spain,Spain,Sunflower seed,Production,2017,850.99
 Spain,Spain,Sunflower seed,Production,2018,960.79
 Spain,Spain,Sunflower seed,Production,2019,782.29
 Spain,Spain,Sunflower seed,Production,2020,892.8
-Spain,Spain,Sunflower seed,Production,2021,775.53
+Spain,Spain,Sunflower seed,Production,2021,768.35
+Spain,Spain,Sunflower seed,Production,2022,804.83
 Spain,Spain,Winter barley,Production,1989,3761.5
 Spain,Spain,Winter barley,Production,1990,3325.2
 Spain,Spain,Winter barley,Production,1991,3691.1
@@ -5712,7 +5781,8 @@ Spain,Spain,Winter barley,Production,2017,802.01
 Spain,Spain,Winter barley,Production,2018,1068.14
 Spain,Spain,Winter barley,Production,2019,640.91
 Spain,Spain,Winter barley,Production,2020,1124.12
-Spain,Spain,Winter barley,Production,2021,825.67
+Spain,Spain,Winter barley,Production,2021,768.93
+Spain,Spain,Winter barley,Production,2022,599.27
 Sweden,Sweden,Barley,Production,1973,1736.0
 Sweden,Sweden,Barley,Production,1974,2356.0
 Sweden,Sweden,Barley,Production,1975,1903.0
@@ -5761,8 +5831,8 @@ Sweden,Sweden,Barley,Production,2017,1635.2
 Sweden,Sweden,Barley,Production,2018,1094.4
 Sweden,Sweden,Barley,Production,2019,1546.5
 Sweden,Sweden,Barley,Production,2020,1513.5
-Sweden,Sweden,Barley,Production,2021,1060.6
-Sweden,Sweden,Barley,Production,2022,1380.7
+Sweden,Sweden,Barley,Production,2021,1060.4
+Sweden,Sweden,Barley,Production,2022,1509.8
 Sweden,Sweden,Corn,Production,2009,8.3
 Sweden,Sweden,Corn,Production,2010,7.5
 Sweden,Sweden,Corn,Production,2011,16.0
@@ -5775,8 +5845,8 @@ Sweden,Sweden,Corn,Production,2017,8.8
 Sweden,Sweden,Corn,Production,2018,4.6
 Sweden,Sweden,Corn,Production,2019,11.3
 Sweden,Sweden,Corn,Production,2020,12.5
-Sweden,Sweden,Corn,Production,2021,13.3
-Sweden,Sweden,Corn,Production,2022,11.2
+Sweden,Sweden,Corn,Production,2021,14.9
+Sweden,Sweden,Corn,Production,2022,12.0
 Sweden,Sweden,Oats,Production,1973,1188.0
 Sweden,Sweden,Oats,Production,1974,1656.0
 Sweden,Sweden,Oats,Production,1975,1321.0
@@ -5825,8 +5895,8 @@ Sweden,Sweden,Oats,Production,2017,676.4
 Sweden,Sweden,Oats,Production,2018,363.5
 Sweden,Sweden,Oats,Production,2019,671.2
 Sweden,Sweden,Oats,Production,2020,807.6
-Sweden,Sweden,Oats,Production,2021,551.9
-Sweden,Sweden,Oats,Production,2022,652.6
+Sweden,Sweden,Oats,Production,2021,551.2
+Sweden,Sweden,Oats,Production,2022,735.1
 Sweden,Sweden,Rapeseed,Production,1986,374.0
 Sweden,Sweden,Rapeseed,Production,1987,296.0
 Sweden,Sweden,Rapeseed,Production,1988,293.0
@@ -5862,8 +5932,8 @@ Sweden,Sweden,Rapeseed,Production,2017,377.3
 Sweden,Sweden,Rapeseed,Production,2018,217.7
 Sweden,Sweden,Rapeseed,Production,2019,381.5
 Sweden,Sweden,Rapeseed,Production,2020,339.3
-Sweden,Sweden,Rapeseed,Production,2021,343.2
-Sweden,Sweden,Rapeseed,Production,2022,423.0
+Sweden,Sweden,Rapeseed,Production,2021,343.5
+Sweden,Sweden,Rapeseed,Production,2022,413.5
 Sweden,Sweden,Rye,Production,1973,316.0
 Sweden,Sweden,Rye,Production,1974,429.0
 Sweden,Sweden,Rye,Production,1975,322.0
@@ -5912,8 +5982,8 @@ Sweden,Sweden,Rye,Production,2017,141.8
 Sweden,Sweden,Rye,Production,2018,88.2
 Sweden,Sweden,Rye,Production,2019,221.3
 Sweden,Sweden,Rye,Production,2020,189.6
-Sweden,Sweden,Rye,Production,2021,143.4
-Sweden,Sweden,Rye,Production,2022,135.8
+Sweden,Sweden,Rye,Production,2021,144.5
+Sweden,Sweden,Rye,Production,2022,129.1
 Sweden,Sweden,Soft Wheat,Production,1973,1312.0
 Sweden,Sweden,Soft Wheat,Production,1974,1793.0
 Sweden,Sweden,Soft Wheat,Production,1975,1455.0
@@ -5962,8 +6032,8 @@ Sweden,Sweden,Soft Wheat,Production,2017,3298.6
 Sweden,Sweden,Soft Wheat,Production,2018,1620.3
 Sweden,Sweden,Soft Wheat,Production,2019,3476.8
 Sweden,Sweden,Soft Wheat,Production,2020,3214.3
-Sweden,Sweden,Soft Wheat,Production,2021,3024.6
-Sweden,Sweden,Soft Wheat,Production,2022,3160.1
+Sweden,Sweden,Soft Wheat,Production,2021,3027.8
+Sweden,Sweden,Soft Wheat,Production,2022,3224.6
 Sweden,Sweden,Spring barley,Production,1985,2309.0
 Sweden,Sweden,Spring barley,Production,1986,2327.0
 Sweden,Sweden,Spring barley,Production,1987,1907.0
@@ -6000,8 +6070,8 @@ Sweden,Sweden,Spring barley,Production,2017,1512.1
 Sweden,Sweden,Spring barley,Production,2018,1039.9
 Sweden,Sweden,Spring barley,Production,2019,1406.1
 Sweden,Sweden,Spring barley,Production,2020,1379.9
-Sweden,Sweden,Spring barley,Production,2021,934.7
-Sweden,Sweden,Spring barley,Production,2022,1248.2
+Sweden,Sweden,Spring barley,Production,2021,934.6
+Sweden,Sweden,Spring barley,Production,2022,1379.2
 Sweden,Sweden,Winter barley,Production,1995,137.9
 Sweden,Sweden,Winter barley,Production,1996,99.3
 Sweden,Sweden,Winter barley,Production,1997,74.4
@@ -6028,8 +6098,8 @@ Sweden,Sweden,Winter barley,Production,2017,123.1
 Sweden,Sweden,Winter barley,Production,2018,54.5
 Sweden,Sweden,Winter barley,Production,2019,140.4
 Sweden,Sweden,Winter barley,Production,2020,133.6
-Sweden,Sweden,Winter barley,Production,2021,125.9
-Sweden,Sweden,Winter barley,Production,2022,132.5
+Sweden,Sweden,Winter barley,Production,2021,125.8
+Sweden,Sweden,Winter barley,Production,2022,130.6
 Belgium,Belgium,Barley,Area,1955,81.8
 Belgium,Belgium,Barley,Area,1956,90.7
 Belgium,Belgium,Barley,Area,1957,86.2
@@ -6096,7 +6166,8 @@ Belgium,Belgium,Barley,Area,2017,45.29
 Belgium,Belgium,Barley,Area,2018,42.16
 Belgium,Belgium,Barley,Area,2019,46.76
 Belgium,Belgium,Barley,Area,2020,43.98
-Belgium,Belgium,Barley,Area,2021,38.2
+Belgium,Belgium,Barley,Area,2021,38.25
+Belgium,Belgium,Barley,Area,2022,46.6
 Belgium,Belgium,Corn,Area,2009,66.7
 Belgium,Belgium,Corn,Area,2010,69.8
 Belgium,Belgium,Corn,Area,2011,72.03
@@ -6109,7 +6180,8 @@ Belgium,Belgium,Corn,Area,2017,49.0
 Belgium,Belgium,Corn,Area,2018,53.99
 Belgium,Belgium,Corn,Area,2019,48.64
 Belgium,Belgium,Corn,Area,2020,51.88
-Belgium,Belgium,Corn,Area,2021,48.2
+Belgium,Belgium,Corn,Area,2021,48.22
+Belgium,Belgium,Corn,Area,2022,64.3
 Belgium,Belgium,Oats,Area,1955,149.0
 Belgium,Belgium,Oats,Area,1956,157.6
 Belgium,Belgium,Oats,Area,1957,148.3
@@ -6168,7 +6240,8 @@ Belgium,Belgium,Oats,Area,2017,4.04
 Belgium,Belgium,Oats,Area,2018,3.47
 Belgium,Belgium,Oats,Area,2019,3.86
 Belgium,Belgium,Oats,Area,2020,3.98
-Belgium,Belgium,Oats,Area,2021,3.6
+Belgium,Belgium,Oats,Area,2021,3.61
+Belgium,Belgium,Oats,Area,2022,3.4
 Belgium,Belgium,Rapeseed,Area,1955,0.6
 Belgium,Belgium,Rapeseed,Area,1956,0.8
 Belgium,Belgium,Rapeseed,Area,1957,0.9
@@ -6233,7 +6306,8 @@ Belgium,Belgium,Rapeseed,Area,2017,10.82
 Belgium,Belgium,Rapeseed,Area,2018,11.31
 Belgium,Belgium,Rapeseed,Area,2019,9.26
 Belgium,Belgium,Rapeseed,Area,2020,8.02
-Belgium,Belgium,Rapeseed,Area,2021,8.2
+Belgium,Belgium,Rapeseed,Area,2021,8.19
+Belgium,Belgium,Rapeseed,Area,2022,8.6
 Belgium,Belgium,Rye,Area,1955,74.3
 Belgium,Belgium,Rye,Area,1956,69.5
 Belgium,Belgium,Rye,Area,1957,66.4
@@ -6299,7 +6373,8 @@ Belgium,Belgium,Rye,Area,2017,0.52
 Belgium,Belgium,Rye,Area,2018,0.62
 Belgium,Belgium,Rye,Area,2019,0.77
 Belgium,Belgium,Rye,Area,2020,0.7
-Belgium,Belgium,Rye,Area,2021,0.8
+Belgium,Belgium,Rye,Area,2021,0.82
+Belgium,Belgium,Rye,Area,2022,0.8
 Belgium,Belgium,Soft Wheat,Area,1955,197.3
 Belgium,Belgium,Soft Wheat,Area,1956,190.8
 Belgium,Belgium,Soft Wheat,Area,1957,214.0
@@ -6366,7 +6441,8 @@ Belgium,Belgium,Soft Wheat,Area,2017,197.59
 Belgium,Belgium,Soft Wheat,Area,2018,195.69
 Belgium,Belgium,Soft Wheat,Area,2019,203.76
 Belgium,Belgium,Soft Wheat,Area,2020,194.66
-Belgium,Belgium,Soft Wheat,Area,2021,209.2
+Belgium,Belgium,Soft Wheat,Area,2021,209.18
+Belgium,Belgium,Soft Wheat,Area,2022,205.2
 Belgium,Belgium,Spring barley,Area,1955,56.6
 Belgium,Belgium,Spring barley,Area,1956,68.6
 Belgium,Belgium,Spring barley,Area,1957,61.0
@@ -6433,7 +6509,8 @@ Belgium,Belgium,Spring barley,Area,2017,2.71
 Belgium,Belgium,Spring barley,Area,2018,3.17
 Belgium,Belgium,Spring barley,Area,2019,2.95
 Belgium,Belgium,Spring barley,Area,2020,4.12
-Belgium,Belgium,Spring barley,Area,2021,3.2
+Belgium,Belgium,Spring barley,Area,2021,3.21
+Belgium,Belgium,Spring barley,Area,2022,5.8
 Belgium,Belgium,Winter barley,Area,1955,25.2
 Belgium,Belgium,Winter barley,Area,1956,22.1
 Belgium,Belgium,Winter barley,Area,1957,25.2
@@ -6500,7 +6577,8 @@ Belgium,Belgium,Winter barley,Area,2017,42.57
 Belgium,Belgium,Winter barley,Area,2018,39.0
 Belgium,Belgium,Winter barley,Area,2019,43.8
 Belgium,Belgium,Winter barley,Area,2020,39.85
-Belgium,Belgium,Winter barley,Area,2021,35.0
+Belgium,Belgium,Winter barley,Area,2021,35.04
+Belgium,Belgium,Winter barley,Area,2022,40.8
 Bulgaria,Bulgaria,Barley,Area,1987,295.0
 Bulgaria,Bulgaria,Barley,Area,1988,345.0
 Bulgaria,Bulgaria,Barley,Area,1989,360.0
@@ -6536,6 +6614,7 @@ Bulgaria,Bulgaria,Barley,Area,2018,103.57
 Bulgaria,Bulgaria,Barley,Area,2019,112.03
 Bulgaria,Bulgaria,Barley,Area,2020,130.76
 Bulgaria,Bulgaria,Barley,Area,2021,126.31
+Bulgaria,Bulgaria,Barley,Area,2022,123.0
 Bulgaria,Bulgaria,Corn,Area,2000,576.3
 Bulgaria,Bulgaria,Corn,Area,2001,353.1
 Bulgaria,Bulgaria,Corn,Area,2002,304.0
@@ -6558,6 +6637,7 @@ Bulgaria,Bulgaria,Corn,Area,2018,444.62
 Bulgaria,Bulgaria,Corn,Area,2019,560.91
 Bulgaria,Bulgaria,Corn,Area,2020,581.53
 Bulgaria,Bulgaria,Corn,Area,2021,573.02
+Bulgaria,Bulgaria,Corn,Area,2022,520.0
 Bulgaria,Bulgaria,Oats,Area,1987,28.0
 Bulgaria,Bulgaria,Oats,Area,1988,27.0
 Bulgaria,Bulgaria,Oats,Area,1989,38.0
@@ -6593,6 +6673,7 @@ Bulgaria,Bulgaria,Oats,Area,2018,11.34
 Bulgaria,Bulgaria,Oats,Area,2019,12.15
 Bulgaria,Bulgaria,Oats,Area,2020,13.4
 Bulgaria,Bulgaria,Oats,Area,2021,9.94
+Bulgaria,Bulgaria,Oats,Area,2022,11.0
 Bulgaria,Bulgaria,Rapeseed,Area,1998,7.8
 Bulgaria,Bulgaria,Rapeseed,Area,1999,9.0
 Bulgaria,Bulgaria,Rapeseed,Area,2000,9.5
@@ -6617,6 +6698,7 @@ Bulgaria,Bulgaria,Rapeseed,Area,2018,182.62
 Bulgaria,Bulgaria,Rapeseed,Area,2019,151.17
 Bulgaria,Bulgaria,Rapeseed,Area,2020,119.14
 Bulgaria,Bulgaria,Rapeseed,Area,2021,130.81
+Bulgaria,Bulgaria,Rapeseed,Area,2022,131.0
 Bulgaria,Bulgaria,Rye,Area,1987,29.0
 Bulgaria,Bulgaria,Rye,Area,1988,32.0
 Bulgaria,Bulgaria,Rye,Area,1989,25.0
@@ -6652,6 +6734,7 @@ Bulgaria,Bulgaria,Rye,Area,2018,8.32
 Bulgaria,Bulgaria,Rye,Area,2019,6.1
 Bulgaria,Bulgaria,Rye,Area,2020,5.35
 Bulgaria,Bulgaria,Rye,Area,2021,7.63
+Bulgaria,Bulgaria,Rye,Area,2022,8.3
 Bulgaria,Bulgaria,Soft Wheat,Area,1987,1085.0
 Bulgaria,Bulgaria,Soft Wheat,Area,1988,1182.0
 Bulgaria,Bulgaria,Soft Wheat,Area,1989,1138.0
@@ -6686,6 +6769,7 @@ Bulgaria,Bulgaria,Soft Wheat,Area,2018,1197.1
 Bulgaria,Bulgaria,Soft Wheat,Area,2019,1189.36
 Bulgaria,Bulgaria,Soft Wheat,Area,2020,1192.37
 Bulgaria,Bulgaria,Soft Wheat,Area,2021,1197.23
+Bulgaria,Bulgaria,Soft Wheat,Area,2022,1190.0
 Bulgaria,Bulgaria,Soya,Area,1987,36.0
 Bulgaria,Bulgaria,Soya,Area,1988,24.0
 Bulgaria,Bulgaria,Soya,Area,1989,22.0
@@ -6712,6 +6796,7 @@ Bulgaria,Bulgaria,Soya,Area,2018,2.32
 Bulgaria,Bulgaria,Soya,Area,2019,3.86
 Bulgaria,Bulgaria,Soya,Area,2020,4.51
 Bulgaria,Bulgaria,Soya,Area,2021,1.99
+Bulgaria,Bulgaria,Soya,Area,2022,3.0
 Bulgaria,Bulgaria,Spring barley,Area,1999,28.6
 Bulgaria,Bulgaria,Spring barley,Area,2000,9.6
 Bulgaria,Bulgaria,Spring barley,Area,2001,22.6
@@ -6735,6 +6820,7 @@ Bulgaria,Bulgaria,Spring barley,Area,2018,1.67
 Bulgaria,Bulgaria,Spring barley,Area,2019,1.75
 Bulgaria,Bulgaria,Spring barley,Area,2020,3.27
 Bulgaria,Bulgaria,Spring barley,Area,2021,2.57
+Bulgaria,Bulgaria,Spring barley,Area,2022,1.0
 Bulgaria,Bulgaria,Sunflower seed,Area,1987,266.0
 Bulgaria,Bulgaria,Sunflower seed,Area,1988,238.0
 Bulgaria,Bulgaria,Sunflower seed,Area,1989,240.0
@@ -6762,6 +6848,7 @@ Bulgaria,Bulgaria,Sunflower seed,Area,2018,788.66
 Bulgaria,Bulgaria,Sunflower seed,Area,2019,815.56
 Bulgaria,Bulgaria,Sunflower seed,Area,2020,821.92
 Bulgaria,Bulgaria,Sunflower seed,Area,2021,836.47
+Bulgaria,Bulgaria,Sunflower seed,Area,2022,913.0
 Bulgaria,Bulgaria,Winter barley,Area,1987,295.0
 Bulgaria,Bulgaria,Winter barley,Area,1988,345.0
 Bulgaria,Bulgaria,Winter barley,Area,1989,360.0
@@ -6797,6 +6884,7 @@ Bulgaria,Bulgaria,Winter barley,Area,2018,101.9
 Bulgaria,Bulgaria,Winter barley,Area,2019,110.28
 Bulgaria,Bulgaria,Winter barley,Area,2020,127.49
 Bulgaria,Bulgaria,Winter barley,Area,2021,123.74
+Bulgaria,Bulgaria,Winter barley,Area,2022,122.0
 Denmark,Denmark,Barley,Area,1955,610.6
 Denmark,Denmark,Barley,Area,1956,647.6
 Denmark,Denmark,Barley,Area,1957,691.5
@@ -6864,7 +6952,7 @@ Denmark,Denmark,Barley,Area,2018,795.3
 Denmark,Denmark,Barley,Area,2019,583.2
 Denmark,Denmark,Barley,Area,2020,653.2
 Denmark,Denmark,Barley,Area,2021,621.6
-Denmark,Denmark,Barley,Area,2022,605.4
+Denmark,Denmark,Barley,Area,2022,614.5
 Denmark,Denmark,Corn,Area,2010,9.5
 Denmark,Denmark,Corn,Area,2011,10.6
 Denmark,Denmark,Corn,Area,2012,12.9
@@ -6877,7 +6965,7 @@ Denmark,Denmark,Corn,Area,2018,6.3
 Denmark,Denmark,Corn,Area,2019,5.4
 Denmark,Denmark,Corn,Area,2020,6.2
 Denmark,Denmark,Corn,Area,2021,6.4
-Denmark,Denmark,Corn,Area,2022,6.2
+Denmark,Denmark,Corn,Area,2022,8.4
 Denmark,Denmark,Oats,Area,1955,266.1
 Denmark,Denmark,Oats,Area,1956,254.5
 Denmark,Denmark,Oats,Area,1957,235.6
@@ -6945,7 +7033,7 @@ Denmark,Denmark,Oats,Area,2018,82.89
 Denmark,Denmark,Oats,Area,2019,49.29
 Denmark,Denmark,Oats,Area,2020,74.75
 Denmark,Denmark,Oats,Area,2021,68.08
-Denmark,Denmark,Oats,Area,2022,68.08
+Denmark,Denmark,Oats,Area,2022,61.84
 Denmark,Denmark,Rapeseed,Area,1955,2.7
 Denmark,Denmark,Rapeseed,Area,1956,1.5
 Denmark,Denmark,Rapeseed,Area,1957,1.0
@@ -7012,8 +7100,8 @@ Denmark,Denmark,Rapeseed,Area,2017,177.6
 Denmark,Denmark,Rapeseed,Area,2018,142.6
 Denmark,Denmark,Rapeseed,Area,2019,165.5
 Denmark,Denmark,Rapeseed,Area,2020,145.9
-Denmark,Denmark,Rapeseed,Area,2021,162.41
-Denmark,Denmark,Rapeseed,Area,2022,166.93
+Denmark,Denmark,Rapeseed,Area,2021,162.4
+Denmark,Denmark,Rapeseed,Area,2022,197.87
 Denmark,Denmark,Rye,Area,1955,77.2
 Denmark,Denmark,Rye,Area,1956,108.6
 Denmark,Denmark,Rye,Area,1957,115.6
@@ -7081,7 +7169,7 @@ Denmark,Denmark,Rye,Area,2018,92.7
 Denmark,Denmark,Rye,Area,2019,146.6
 Denmark,Denmark,Rye,Area,2020,115.3
 Denmark,Denmark,Rye,Area,2021,108.3
-Denmark,Denmark,Rye,Area,2022,120.0
+Denmark,Denmark,Rye,Area,2022,109.0
 Denmark,Denmark,Soft Wheat,Area,1955,66.8
 Denmark,Denmark,Soft Wheat,Area,1956,65.8
 Denmark,Denmark,Soft Wheat,Area,1957,64.3
@@ -7149,7 +7237,7 @@ Denmark,Denmark,Soft Wheat,Area,2018,425.8
 Denmark,Denmark,Soft Wheat,Area,2019,573.4
 Denmark,Denmark,Soft Wheat,Area,2020,502.6
 Denmark,Denmark,Soft Wheat,Area,2021,537.7
-Denmark,Denmark,Soft Wheat,Area,2022,548.3
+Denmark,Denmark,Soft Wheat,Area,2022,497.3
 Denmark,Denmark,Spring barley,Area,1987,890.4
 Denmark,Denmark,Spring barley,Area,1988,1120.0
 Denmark,Denmark,Spring barley,Area,1989,914.0
@@ -7185,7 +7273,7 @@ Denmark,Denmark,Spring barley,Area,2018,711.8
 Denmark,Denmark,Spring barley,Area,2019,483.5
 Denmark,Denmark,Spring barley,Area,2020,565.4
 Denmark,Denmark,Spring barley,Area,2021,545.4
-Denmark,Denmark,Spring barley,Area,2022,545.4
+Denmark,Denmark,Spring barley,Area,2022,550.8
 Denmark,Denmark,Winter barley,Area,1987,62.0
 Denmark,Denmark,Winter barley,Area,1988,45.0
 Denmark,Denmark,Winter barley,Area,1989,83.0
@@ -7221,7 +7309,7 @@ Denmark,Denmark,Winter barley,Area,2018,83.5
 Denmark,Denmark,Winter barley,Area,2019,99.7
 Denmark,Denmark,Winter barley,Area,2020,87.8
 Denmark,Denmark,Winter barley,Area,2021,76.2
-Denmark,Denmark,Winter barley,Area,2022,60.0
+Denmark,Denmark,Winter barley,Area,2022,63.7
 Estonia,Estonia,Barley,Area,1987,276.2
 Estonia,Estonia,Barley,Area,1988,291.1
 Estonia,Estonia,Barley,Area,1989,284.6
@@ -7257,6 +7345,7 @@ Estonia,Estonia,Barley,Area,2018,138.49
 Estonia,Estonia,Barley,Area,2019,123.38
 Estonia,Estonia,Barley,Area,2020,130.73
 Estonia,Estonia,Barley,Area,2021,121.52
+Estonia,Estonia,Barley,Area,2022,116.39
 Estonia,Estonia,Oats,Area,1987,26.7
 Estonia,Estonia,Oats,Area,1988,26.0
 Estonia,Estonia,Oats,Area,1989,21.7
@@ -7292,6 +7381,7 @@ Estonia,Estonia,Oats,Area,2018,39.65
 Estonia,Estonia,Oats,Area,2019,37.26
 Estonia,Estonia,Oats,Area,2020,41.03
 Estonia,Estonia,Oats,Area,2021,40.01
+Estonia,Estonia,Oats,Area,2022,36.87
 Estonia,Estonia,Rapeseed,Area,1988,2.2
 Estonia,Estonia,Rapeseed,Area,1989,0.7
 Estonia,Estonia,Rapeseed,Area,1990,0.6
@@ -7326,6 +7416,7 @@ Estonia,Estonia,Rapeseed,Area,2018,72.68
 Estonia,Estonia,Rapeseed,Area,2019,72.41
 Estonia,Estonia,Rapeseed,Area,2020,70.93
 Estonia,Estonia,Rapeseed,Area,2021,78.85
+Estonia,Estonia,Rapeseed,Area,2022,86.46
 Estonia,Estonia,Rye,Area,1987,51.2
 Estonia,Estonia,Rye,Area,1988,49.5
 Estonia,Estonia,Rye,Area,1989,64.8
@@ -7361,6 +7452,7 @@ Estonia,Estonia,Rye,Area,2018,10.85
 Estonia,Estonia,Rye,Area,2019,28.9
 Estonia,Estonia,Rye,Area,2020,20.69
 Estonia,Estonia,Rye,Area,2021,11.9
+Estonia,Estonia,Rye,Area,2022,13.32
 Estonia,Estonia,Soft Wheat,Area,1987,20.7
 Estonia,Estonia,Soft Wheat,Area,1988,12.0
 Estonia,Estonia,Soft Wheat,Area,1989,16.2
@@ -7396,6 +7488,7 @@ Estonia,Estonia,Soft Wheat,Area,2018,154.58
 Estonia,Estonia,Soft Wheat,Area,2019,166.98
 Estonia,Estonia,Soft Wheat,Area,2020,168.04
 Estonia,Estonia,Soft Wheat,Area,2021,180.0
+Estonia,Estonia,Soft Wheat,Area,2022,180.97
 Estonia,Estonia,Spring barley,Area,1987,276.2
 Estonia,Estonia,Spring barley,Area,1988,291.1
 Estonia,Estonia,Spring barley,Area,1989,284.6
@@ -7431,6 +7524,7 @@ Estonia,Estonia,Spring barley,Area,2018,130.75
 Estonia,Estonia,Spring barley,Area,2019,106.22
 Estonia,Estonia,Spring barley,Area,2020,108.29
 Estonia,Estonia,Spring barley,Area,2021,96.99
+Estonia,Estonia,Spring barley,Area,2022,80.96
 Estonia,Estonia,Winter barley,Area,2004,0.2
 Estonia,Estonia,Winter barley,Area,2005,0.5
 Estonia,Estonia,Winter barley,Area,2006,0.5
@@ -7449,6 +7543,7 @@ Estonia,Estonia,Winter barley,Area,2018,7.73
 Estonia,Estonia,Winter barley,Area,2019,17.16
 Estonia,Estonia,Winter barley,Area,2020,22.44
 Estonia,Estonia,Winter barley,Area,2021,24.53
+Estonia,Estonia,Winter barley,Area,2022,35.43
 Finland,Finland,Barley,Area,1984,562.0
 Finland,Finland,Barley,Area,1985,646.0
 Finland,Finland,Barley,Area,1986,589.4
@@ -7486,7 +7581,8 @@ Finland,Finland,Barley,Area,2017,358.3
 Finland,Finland,Barley,Area,2018,405.1
 Finland,Finland,Barley,Area,2019,397.9
 Finland,Finland,Barley,Area,2020,392.1
-Finland,Finland,Barley,Area,2021,388.0
+Finland,Finland,Barley,Area,2021,387.95
+Finland,Finland,Barley,Area,2022,377.18
 Finland,Finland,Oats,Area,1986,403.2
 Finland,Finland,Oats,Area,1987,367.5
 Finland,Finland,Oats,Area,1988,387.8
@@ -7522,7 +7618,8 @@ Finland,Finland,Oats,Area,2017,269.5
 Finland,Finland,Oats,Area,2018,288.7
 Finland,Finland,Oats,Area,2019,297.5
 Finland,Finland,Oats,Area,2020,324.5
-Finland,Finland,Oats,Area,2021,314.2
+Finland,Finland,Oats,Area,2021,314.24
+Finland,Finland,Oats,Area,2022,327.8
 Finland,Finland,Rapeseed,Area,1986,75.1
 Finland,Finland,Rapeseed,Area,1987,82.6
 Finland,Finland,Rapeseed,Area,1988,86.4
@@ -7558,7 +7655,8 @@ Finland,Finland,Rapeseed,Area,2017,55.2
 Finland,Finland,Rapeseed,Area,2018,53.3
 Finland,Finland,Rapeseed,Area,2019,31.5
 Finland,Finland,Rapeseed,Area,2020,24.5
-Finland,Finland,Rapeseed,Area,2021,34.3
+Finland,Finland,Rapeseed,Area,2021,34.24
+Finland,Finland,Rapeseed,Area,2022,40.08
 Finland,Finland,Rye,Area,1986,26.6
 Finland,Finland,Rye,Area,1987,37.7
 Finland,Finland,Rye,Area,1988,25.6
@@ -7594,7 +7692,8 @@ Finland,Finland,Rye,Area,2017,28.9
 Finland,Finland,Rye,Area,2018,16.4
 Finland,Finland,Rye,Area,2019,37.9
 Finland,Finland,Rye,Area,2020,18.7
-Finland,Finland,Rye,Area,2021,18.2
+Finland,Finland,Rye,Area,2021,18.18
+Finland,Finland,Rye,Area,2022,19.19
 Finland,Finland,Soft Wheat,Area,1986,165.8
 Finland,Finland,Soft Wheat,Area,1987,139.1
 Finland,Finland,Soft Wheat,Area,1988,109.3
@@ -7630,7 +7729,8 @@ Finland,Finland,Soft Wheat,Area,2017,194.3
 Finland,Finland,Soft Wheat,Area,2018,177.8
 Finland,Finland,Soft Wheat,Area,2019,197.6
 Finland,Finland,Soft Wheat,Area,2020,198.8
-Finland,Finland,Soft Wheat,Area,2021,212.4
+Finland,Finland,Soft Wheat,Area,2021,212.41
+Finland,Finland,Soft Wheat,Area,2022,224.04
 Finland,Finland,Spring barley,Area,1984,562.0
 Finland,Finland,Spring barley,Area,1985,646.0
 Finland,Finland,Spring barley,Area,1986,597.5
@@ -7668,6 +7768,7 @@ Finland,Finland,Spring barley,Area,2018,405.1
 Finland,Finland,Spring barley,Area,2019,397.9
 Finland,Finland,Spring barley,Area,2020,392.1
 Finland,Finland,Spring barley,Area,2021,388.0
+Finland,Finland,Spring barley,Area,2022,377.18
 Finland,Finland,Sunflower seed,Area,1997,0.3
 Finland,Finland,Sunflower seed,Area,1998,0.2
 Finland,Finland,Sunflower seed,Area,1999,0.2
@@ -7739,8 +7840,8 @@ France,France,Barley,Area,2017,1904.86
 France,France,Barley,Area,2018,1767.97
 France,France,Barley,Area,2019,1944.19
 France,France,Barley,Area,2020,1972.27
-France,France,Barley,Area,2021,1730.4
-France,France,Barley,Area,2022,1844.04
+France,France,Barley,Area,2021,1730.37
+France,France,Barley,Area,2022,1859.96
 France,France,Corn,Area,2000,1764.8
 France,France,Corn,Area,2001,1916.4
 France,France,Corn,Area,2002,1830.9
@@ -7762,8 +7863,8 @@ France,France,Corn,Area,2017,1435.7
 France,France,Corn,Area,2018,1426.26
 France,France,Corn,Area,2019,1506.1
 France,France,Corn,Area,2020,1691.13
-France,France,Corn,Area,2021,1547.12
-France,France,Corn,Area,2022,1459.65
+France,France,Corn,Area,2021,1549.52
+France,France,Corn,Area,2022,1435.46
 France,France,Oats,Area,1955,2076.7
 France,France,Oats,Area,1956,2276.8
 France,France,Oats,Area,1957,1607.8
@@ -7830,8 +7931,8 @@ France,France,Oats,Area,2017,113.29
 France,France,Oats,Area,2018,91.83
 France,France,Oats,Area,2019,87.47
 France,France,Oats,Area,2020,98.16
-France,France,Oats,Area,2021,107.22
-France,France,Oats,Area,2022,99.49
+France,France,Oats,Area,2021,107.16
+France,France,Oats,Area,2022,96.68
 France,France,Rapeseed,Area,1955,72.4
 France,France,Rapeseed,Area,1956,57.8
 France,France,Rapeseed,Area,1957,107.5
@@ -7899,7 +8000,7 @@ France,France,Rapeseed,Area,2018,1616.59
 France,France,Rapeseed,Area,2019,1107.04
 France,France,Rapeseed,Area,2020,1113.94
 France,France,Rapeseed,Area,2021,980.13
-France,France,Rapeseed,Area,2022,1215.84
+France,France,Rapeseed,Area,2022,1226.56
 France,France,Rye,Area,1955,411.7
 France,France,Rye,Area,1956,409.3
 France,France,Rye,Area,1957,388.7
@@ -7966,8 +8067,8 @@ France,France,Rye,Area,2017,24.19
 France,France,Rye,Area,2018,24.45
 France,France,Rye,Area,2019,28.73
 France,France,Rye,Area,2020,31.82
-France,France,Rye,Area,2021,43.25
-France,France,Rye,Area,2022,41.17
+France,France,Rye,Area,2021,43.22
+France,France,Rye,Area,2022,41.4
 France,France,Soft Wheat,Area,1955,4540.6
 France,France,Soft Wheat,Area,1956,2743.1
 France,France,Soft Wheat,Area,1957,4658.6
@@ -8034,8 +8135,8 @@ France,France,Soft Wheat,Area,2017,4962.08
 France,France,Soft Wheat,Area,2018,4880.21
 France,France,Soft Wheat,Area,2019,4998.75
 France,France,Soft Wheat,Area,2020,4260.93
-France,France,Soft Wheat,Area,2021,4982.77
-France,France,Soft Wheat,Area,2022,4695.41
+France,France,Soft Wheat,Area,2021,4982.51
+France,France,Soft Wheat,Area,2022,4692.74
 France,France,Soya,Area,1971,0.2
 France,France,Soya,Area,1972,0.2
 France,France,Soya,Area,1973,0.4
@@ -8087,6 +8188,7 @@ France,France,Soya,Area,2018,153.85
 France,France,Soya,Area,2019,163.8
 France,France,Soya,Area,2020,186.72
 France,France,Soya,Area,2021,154.38
+France,France,Soya,Area,2022,181.62
 France,France,Spring barley,Area,1955,900.8
 France,France,Spring barley,Area,1956,2137.9
 France,France,Spring barley,Area,1957,1291.1
@@ -8152,8 +8254,8 @@ France,France,Spring barley,Area,2017,506.98
 France,France,Spring barley,Area,2018,484.38
 France,France,Spring barley,Area,2019,638.97
 France,France,Spring barley,Area,2020,794.92
-France,France,Spring barley,Area,2021,530.97
-France,France,Spring barley,Area,2022,559.39
+France,France,Spring barley,Area,2021,530.94
+France,France,Spring barley,Area,2022,568.08
 France,France,Sunflower seed,Area,1955,2.6
 France,France,Sunflower seed,Area,1956,5.6
 France,France,Sunflower seed,Area,1957,2.8
@@ -8220,7 +8322,8 @@ France,France,Sunflower seed,Area,2017,586.23
 France,France,Sunflower seed,Area,2018,552.07
 France,France,Sunflower seed,Area,2019,603.92
 France,France,Sunflower seed,Area,2020,778.4
-France,France,Sunflower seed,Area,2021,698.33
+France,France,Sunflower seed,Area,2021,698.36
+France,France,Sunflower seed,Area,2022,859.19
 France,France,Winter barley,Area,1955,412.5
 France,France,Winter barley,Area,1956,144.7
 France,France,Winter barley,Area,1957,351.5
@@ -8288,7 +8391,7 @@ France,France,Winter barley,Area,2018,1283.59
 France,France,Winter barley,Area,2019,1305.22
 France,France,Winter barley,Area,2020,1177.35
 France,France,Winter barley,Area,2021,1199.43
-France,France,Winter barley,Area,2022,1284.65
+France,France,Winter barley,Area,2022,1291.88
 Germany,Germany,Barley,Area,1955,782.3
 Germany,Germany,Barley,Area,1956,858.7
 Germany,Germany,Barley,Area,1957,875.9
@@ -8356,7 +8459,7 @@ Germany,Germany,Barley,Area,2018,1662.0
 Germany,Germany,Barley,Area,2019,1708.8
 Germany,Germany,Barley,Area,2020,1667.3
 Germany,Germany,Barley,Area,2021,1539.5
-Germany,Germany,Barley,Area,2022,1586.9
+Germany,Germany,Barley,Area,2022,1582.6
 Germany,Germany,Corn,Area,2000,360.8
 Germany,Germany,Corn,Area,2001,396.5
 Germany,Germany,Corn,Area,2002,398.7
@@ -8379,7 +8482,7 @@ Germany,Germany,Corn,Area,2018,410.9
 Germany,Germany,Corn,Area,2019,416.0
 Germany,Germany,Corn,Area,2020,419.3
 Germany,Germany,Corn,Area,2021,430.7
-Germany,Germany,Corn,Area,2022,466.2
+Germany,Germany,Corn,Area,2022,456.7
 Germany,Germany,Oats,Area,1955,981.3
 Germany,Germany,Oats,Area,1956,967.6
 Germany,Germany,Oats,Area,1957,916.7
@@ -8447,7 +8550,7 @@ Germany,Germany,Oats,Area,2018,140.4
 Germany,Germany,Oats,Area,2019,126.3
 Germany,Germany,Oats,Area,2020,157.1
 Germany,Germany,Oats,Area,2021,177.3
-Germany,Germany,Oats,Area,2022,160.4
+Germany,Germany,Oats,Area,2022,160.1
 Germany,Germany,Rapeseed,Area,1955,12.0
 Germany,Germany,Rapeseed,Area,1956,18.0
 Germany,Germany,Rapeseed,Area,1957,30.5
@@ -8515,7 +8618,7 @@ Germany,Germany,Rapeseed,Area,2018,1228.3
 Germany,Germany,Rapeseed,Area,2019,856.8
 Germany,Germany,Rapeseed,Area,2020,957.7
 Germany,Germany,Rapeseed,Area,2021,1000.9
-Germany,Germany,Rapeseed,Area,2022,1089.5
+Germany,Germany,Rapeseed,Area,2022,1088.2
 Germany,Germany,Rye,Area,1955,1553.5
 Germany,Germany,Rye,Area,1956,1554.4
 Germany,Germany,Rye,Area,1957,1540.6
@@ -8582,7 +8685,7 @@ Germany,Germany,Rye,Area,2018,523.0
 Germany,Germany,Rye,Area,2019,636.3
 Germany,Germany,Rye,Area,2020,636.0
 Germany,Germany,Rye,Area,2021,631.0
-Germany,Germany,Rye,Area,2022,590.5
+Germany,Germany,Rye,Area,2022,588.5
 Germany,Germany,Soft Wheat,Area,1955,1181.4
 Germany,Germany,Soft Wheat,Area,1956,1155.3
 Germany,Germany,Soft Wheat,Area,1957,1231.5
@@ -8650,7 +8753,7 @@ Germany,Germany,Soft Wheat,Area,2018,3006.2
 Germany,Germany,Soft Wheat,Area,2019,3086.7
 Germany,Germany,Soft Wheat,Area,2020,2801.5
 Germany,Germany,Soft Wheat,Area,2021,2901.5
-Germany,Germany,Soft Wheat,Area,2022,2946.7
+Germany,Germany,Soft Wheat,Area,2022,2940.1
 Germany,Germany,Soya,Area,1987,0.1
 Germany,Germany,Soya,Area,1988,0.64
 Germany,Germany,Soya,Area,1989,1.88
@@ -8660,6 +8763,7 @@ Germany,Germany,Soya,Area,2018,24.1
 Germany,Germany,Soya,Area,2019,28.9
 Germany,Germany,Soya,Area,2020,33.8
 Germany,Germany,Soya,Area,2021,34.2
+Germany,Germany,Soya,Area,2022,51.5
 Germany,Germany,Spring barley,Area,1955,640.0
 Germany,Germany,Spring barley,Area,1956,724.7
 Germany,Germany,Spring barley,Area,1957,695.8
@@ -8727,7 +8831,7 @@ Germany,Germany,Spring barley,Area,2018,445.9
 Germany,Germany,Spring barley,Area,2019,356.9
 Germany,Germany,Spring barley,Area,2020,363.3
 Germany,Germany,Spring barley,Area,2021,298.4
-Germany,Germany,Spring barley,Area,2022,371.0
+Germany,Germany,Spring barley,Area,2022,371.1
 Germany,Germany,Sunflower seed,Area,1987,8.0
 Germany,Germany,Sunflower seed,Area,1988,14.0
 Germany,Germany,Sunflower seed,Area,1989,14.69
@@ -8759,6 +8863,7 @@ Germany,Germany,Sunflower seed,Area,2018,19.5
 Germany,Germany,Sunflower seed,Area,2019,22.5
 Germany,Germany,Sunflower seed,Area,2020,28.2
 Germany,Germany,Sunflower seed,Area,2021,38.3
+Germany,Germany,Sunflower seed,Area,2022,85.6
 Germany,Germany,Winter barley,Area,1955,142.3
 Germany,Germany,Winter barley,Area,1956,134.0
 Germany,Germany,Winter barley,Area,1957,180.1
@@ -8826,7 +8931,7 @@ Germany,Germany,Winter barley,Area,2018,1216.1
 Germany,Germany,Winter barley,Area,2019,1351.9
 Germany,Germany,Winter barley,Area,2020,1304.1
 Germany,Germany,Winter barley,Area,2021,1241.1
-Germany,Germany,Winter barley,Area,2022,1215.9
+Germany,Germany,Winter barley,Area,2022,1211.5
 Hungary,Hungary,Barley,Area,1987,205.0
 Hungary,Hungary,Barley,Area,1988,264.0
 Hungary,Hungary,Barley,Area,1989,283.0
@@ -8861,8 +8966,8 @@ Hungary,Hungary,Barley,Area,2017,268.08
 Hungary,Hungary,Barley,Area,2018,244.17
 Hungary,Hungary,Barley,Area,2019,247.37
 Hungary,Hungary,Barley,Area,2020,261.38
-Hungary,Hungary,Barley,Area,2021,265.91
-Hungary,Hungary,Barley,Area,2022,338.58
+Hungary,Hungary,Barley,Area,2021,268.61
+Hungary,Hungary,Barley,Area,2022,320.42
 Hungary,Hungary,Corn,Area,2000,1192.7
 Hungary,Hungary,Corn,Area,2001,1258.1
 Hungary,Hungary,Corn,Area,2002,1205.8
@@ -8884,8 +8989,8 @@ Hungary,Hungary,Corn,Area,2017,988.82
 Hungary,Hungary,Corn,Area,2018,939.08
 Hungary,Hungary,Corn,Area,2019,1027.59
 Hungary,Hungary,Corn,Area,2020,981.01
-Hungary,Hungary,Corn,Area,2021,1043.11
-Hungary,Hungary,Corn,Area,2022,982.82
+Hungary,Hungary,Corn,Area,2021,1054.57
+Hungary,Hungary,Corn,Area,2022,819.36
 Hungary,Hungary,Oats,Area,1987,40.0
 Hungary,Hungary,Oats,Area,1988,42.0
 Hungary,Hungary,Oats,Area,1989,45.0
@@ -8918,8 +9023,8 @@ Hungary,Hungary,Oats,Area,2017,37.25
 Hungary,Hungary,Oats,Area,2018,22.63
 Hungary,Hungary,Oats,Area,2019,21.77
 Hungary,Hungary,Oats,Area,2020,25.76
-Hungary,Hungary,Oats,Area,2021,20.98
-Hungary,Hungary,Oats,Area,2022,23.01
+Hungary,Hungary,Oats,Area,2021,25.04
+Hungary,Hungary,Oats,Area,2022,15.81
 Hungary,Hungary,Rapeseed,Area,1991,65.0
 Hungary,Hungary,Rapeseed,Area,1992,34.0
 Hungary,Hungary,Rapeseed,Area,1993,22.0
@@ -8950,7 +9055,7 @@ Hungary,Hungary,Rapeseed,Area,2017,303.01
 Hungary,Hungary,Rapeseed,Area,2018,330.56
 Hungary,Hungary,Rapeseed,Area,2019,300.6
 Hungary,Hungary,Rapeseed,Area,2020,310.02
-Hungary,Hungary,Rapeseed,Area,2021,256.43
+Hungary,Hungary,Rapeseed,Area,2021,257.54
 Hungary,Hungary,Rapeseed,Area,2022,208.88
 Hungary,Hungary,Rye,Area,1996,59.0
 Hungary,Hungary,Rye,Area,1997,68.0
@@ -8975,8 +9080,8 @@ Hungary,Hungary,Rye,Area,2017,26.59
 Hungary,Hungary,Rye,Area,2018,26.23
 Hungary,Hungary,Rye,Area,2019,25.94
 Hungary,Hungary,Rye,Area,2020,26.38
-Hungary,Hungary,Rye,Area,2021,25.69
-Hungary,Hungary,Rye,Area,2022,33.29
+Hungary,Hungary,Rye,Area,2021,25.7
+Hungary,Hungary,Rye,Area,2022,19.15
 Hungary,Hungary,Soft Wheat,Area,1998,1173.5
 Hungary,Hungary,Soft Wheat,Area,1999,723.9
 Hungary,Hungary,Soft Wheat,Area,2000,1009.6
@@ -9000,8 +9105,8 @@ Hungary,Hungary,Soft Wheat,Area,2017,932.82
 Hungary,Hungary,Soft Wheat,Area,2018,981.88
 Hungary,Hungary,Soft Wheat,Area,2019,978.72
 Hungary,Hungary,Soft Wheat,Area,2020,909.61
-Hungary,Hungary,Soft Wheat,Area,2021,861.1
-Hungary,Hungary,Soft Wheat,Area,2022,969.45
+Hungary,Hungary,Soft Wheat,Area,2021,863.3
+Hungary,Hungary,Soft Wheat,Area,2022,913.95
 Hungary,Hungary,Soya,Area,1987,36.0
 Hungary,Hungary,Soya,Area,1988,66.0
 Hungary,Hungary,Soya,Area,1989,54.0
@@ -9036,7 +9141,8 @@ Hungary,Hungary,Soya,Area,2017,75.67
 Hungary,Hungary,Soya,Area,2018,62.12
 Hungary,Hungary,Soya,Area,2019,58.23
 Hungary,Hungary,Soya,Area,2020,58.67
-Hungary,Hungary,Soya,Area,2021,62.19
+Hungary,Hungary,Soya,Area,2021,62.12
+Hungary,Hungary,Soya,Area,2022,68.86
 Hungary,Hungary,Spring barley,Area,1996,171.0
 Hungary,Hungary,Spring barley,Area,1997,203.0
 Hungary,Hungary,Spring barley,Area,1998,195.2
@@ -9060,8 +9166,8 @@ Hungary,Hungary,Spring barley,Area,2017,41.96
 Hungary,Hungary,Spring barley,Area,2018,27.51
 Hungary,Hungary,Spring barley,Area,2019,25.23
 Hungary,Hungary,Spring barley,Area,2020,25.01
-Hungary,Hungary,Spring barley,Area,2021,26.9
-Hungary,Hungary,Spring barley,Area,2022,20.64
+Hungary,Hungary,Spring barley,Area,2021,27.35
+Hungary,Hungary,Spring barley,Area,2022,18.64
 Hungary,Hungary,Sunflower seed,Area,1987,378.0
 Hungary,Hungary,Sunflower seed,Area,1988,363.0
 Hungary,Hungary,Sunflower seed,Area,1989,356.0
@@ -9096,7 +9202,8 @@ Hungary,Hungary,Sunflower seed,Area,2017,694.54
 Hungary,Hungary,Sunflower seed,Area,2018,616.95
 Hungary,Hungary,Sunflower seed,Area,2019,564.11
 Hungary,Hungary,Sunflower seed,Area,2020,612.57
-Hungary,Hungary,Sunflower seed,Area,2021,652.61
+Hungary,Hungary,Sunflower seed,Area,2021,654.69
+Hungary,Hungary,Sunflower seed,Area,2022,702.01
 Hungary,Hungary,Winter barley,Area,1996,154.0
 Hungary,Hungary,Winter barley,Area,1997,167.0
 Hungary,Hungary,Winter barley,Area,1998,173.7
@@ -9120,8 +9227,8 @@ Hungary,Hungary,Winter barley,Area,2017,226.12
 Hungary,Hungary,Winter barley,Area,2018,216.66
 Hungary,Hungary,Winter barley,Area,2019,222.13
 Hungary,Hungary,Winter barley,Area,2020,236.37
-Hungary,Hungary,Winter barley,Area,2021,239.01
-Hungary,Hungary,Winter barley,Area,2022,317.94
+Hungary,Hungary,Winter barley,Area,2021,241.26
+Hungary,Hungary,Winter barley,Area,2022,301.78
 Italy,Italy,Barley,Area,1955,243.6
 Italy,Italy,Barley,Area,1956,237.5
 Italy,Italy,Barley,Area,1957,229.3
@@ -9189,7 +9296,7 @@ Italy,Italy,Barley,Area,2018,262.48
 Italy,Italy,Barley,Area,2019,261.41
 Italy,Italy,Barley,Area,2020,263.43
 Italy,Italy,Barley,Area,2021,251.76
-Italy,Italy,Barley,Area,2022,261.87
+Italy,Italy,Barley,Area,2022,267.96
 Italy,Italy,Corn,Area,2000,1063.6
 Italy,Italy,Corn,Area,2001,1109.3
 Italy,Italy,Corn,Area,2002,1112.0
@@ -9212,7 +9319,7 @@ Italy,Italy,Corn,Area,2018,591.21
 Italy,Italy,Corn,Area,2019,628.8
 Italy,Italy,Corn,Area,2020,602.86
 Italy,Italy,Corn,Area,2021,588.6
-Italy,Italy,Corn,Area,2022,578.42
+Italy,Italy,Corn,Area,2022,563.7
 Italy,Italy,Oats,Area,1955,433.5
 Italy,Italy,Oats,Area,1956,423.5
 Italy,Italy,Oats,Area,1957,419.9
@@ -9280,7 +9387,7 @@ Italy,Italy,Oats,Area,2018,107.45
 Italy,Italy,Oats,Area,2019,103.79
 Italy,Italy,Oats,Area,2020,103.46
 Italy,Italy,Oats,Area,2021,99.49
-Italy,Italy,Oats,Area,2022,100.79
+Italy,Italy,Oats,Area,2022,104.11
 Italy,Italy,Rapeseed,Area,1955,7.3
 Italy,Italy,Rapeseed,Area,1956,6.7
 Italy,Italy,Rapeseed,Area,1957,8.0
@@ -9348,7 +9455,7 @@ Italy,Italy,Rapeseed,Area,2018,14.44
 Italy,Italy,Rapeseed,Area,2019,14.15
 Italy,Italy,Rapeseed,Area,2020,16.85
 Italy,Italy,Rapeseed,Area,2021,17.88
-Italy,Italy,Rapeseed,Area,2022,17.96
+Italy,Italy,Rapeseed,Area,2022,18.7
 Italy,Italy,Rye,Area,1955,80.4
 Italy,Italy,Rye,Area,1956,73.0
 Italy,Italy,Rye,Area,1957,71.2
@@ -9413,7 +9520,7 @@ Italy,Italy,Rye,Area,2018,3.54
 Italy,Italy,Rye,Area,2019,3.91
 Italy,Italy,Rye,Area,2020,3.58
 Italy,Italy,Rye,Area,2021,3.49
-Italy,Italy,Rye,Area,2022,3.52
+Italy,Italy,Rye,Area,2022,3.66
 Italy,Italy,Soft Wheat,Area,1955,3443.0
 Italy,Italy,Soft Wheat,Area,1956,3509.0
 Italy,Italy,Soft Wheat,Area,1957,3515.0
@@ -9480,7 +9587,7 @@ Italy,Italy,Soft Wheat,Area,2018,543.32
 Italy,Italy,Soft Wheat,Area,2019,530.68
 Italy,Italy,Soft Wheat,Area,2020,500.8
 Italy,Italy,Soft Wheat,Area,2021,498.11
-Italy,Italy,Soft Wheat,Area,2022,544.22
+Italy,Italy,Soft Wheat,Area,2022,538.77
 Italy,Italy,Soya,Area,1955,0.3
 Italy,Italy,Soya,Area,1956,0.3
 Italy,Italy,Soya,Area,1957,0.3
@@ -9546,8 +9653,9 @@ Italy,Italy,Soya,Area,2018,326.59
 Italy,Italy,Soya,Area,2019,273.33
 Italy,Italy,Soya,Area,2020,256.13
 Italy,Italy,Soya,Area,2021,285.46
+Italy,Italy,Soya,Area,2022,342.53
 Italy,Italy,Spring barley,Area,2021,9.17
-Italy,Italy,Spring barley,Area,2022,27.53
+Italy,Italy,Spring barley,Area,2022,9.68
 Italy,Italy,Sunflower seed,Area,1955,2.8
 Italy,Italy,Sunflower seed,Area,1956,3.6
 Italy,Italy,Sunflower seed,Area,1957,3.7
@@ -9615,6 +9723,7 @@ Italy,Italy,Sunflower seed,Area,2018,103.87
 Italy,Italy,Sunflower seed,Area,2019,118.52
 Italy,Italy,Sunflower seed,Area,2020,122.77
 Italy,Italy,Sunflower seed,Area,2021,116.99
+Italy,Italy,Sunflower seed,Area,2022,110.82
 Italy,Italy,Winter barley,Area,2006,330.7
 Italy,Italy,Winter barley,Area,2007,344.7
 Italy,Italy,Winter barley,Area,2008,330.5
@@ -9631,7 +9740,7 @@ Italy,Italy,Winter barley,Area,2018,262.48
 Italy,Italy,Winter barley,Area,2019,261.41
 Italy,Italy,Winter barley,Area,2020,263.43
 Italy,Italy,Winter barley,Area,2021,242.6
-Italy,Italy,Winter barley,Area,2022,234.34
+Italy,Italy,Winter barley,Area,2022,258.28
 Latvia,Latvia,Barley,Area,1987,402.3
 Latvia,Latvia,Barley,Area,1988,352.7
 Latvia,Latvia,Barley,Area,1989,331.7
@@ -9701,7 +9810,7 @@ Latvia,Latvia,Oats,Area,2018,86.8
 Latvia,Latvia,Oats,Area,2019,83.2
 Latvia,Latvia,Oats,Area,2020,97.7
 Latvia,Latvia,Oats,Area,2021,87.2
-Latvia,Latvia,Oats,Area,2022,81.6
+Latvia,Latvia,Oats,Area,2022,82.0
 Latvia,Latvia,Rapeseed,Area,1990,1.9
 Latvia,Latvia,Rapeseed,Area,1991,0.7
 Latvia,Latvia,Rapeseed,Area,1992,1.3
@@ -9734,7 +9843,7 @@ Latvia,Latvia,Rapeseed,Area,2018,121.8
 Latvia,Latvia,Rapeseed,Area,2019,139.4
 Latvia,Latvia,Rapeseed,Area,2020,147.8
 Latvia,Latvia,Rapeseed,Area,2021,147.4
-Latvia,Latvia,Rapeseed,Area,2022,161.1
+Latvia,Latvia,Rapeseed,Area,2022,160.3
 Latvia,Latvia,Rye,Area,1987,82.1
 Latvia,Latvia,Rye,Area,1988,101.2
 Latvia,Latvia,Rye,Area,1989,128.7
@@ -9769,7 +9878,7 @@ Latvia,Latvia,Rye,Area,2018,21.7
 Latvia,Latvia,Rye,Area,2019,43.2
 Latvia,Latvia,Rye,Area,2020,41.3
 Latvia,Latvia,Rye,Area,2021,36.0
-Latvia,Latvia,Rye,Area,2022,34.9
+Latvia,Latvia,Rye,Area,2022,35.2
 Latvia,Latvia,Soft Wheat,Area,1987,103.1
 Latvia,Latvia,Soft Wheat,Area,1988,104.9
 Latvia,Latvia,Soft Wheat,Area,1989,118.0
@@ -9804,7 +9913,7 @@ Latvia,Latvia,Soft Wheat,Area,2018,417.2
 Latvia,Latvia,Soft Wheat,Area,2019,492.7
 Latvia,Latvia,Soft Wheat,Area,2020,498.2
 Latvia,Latvia,Soft Wheat,Area,2021,537.3
-Latvia,Latvia,Soft Wheat,Area,2022,537.6
+Latvia,Latvia,Soft Wheat,Area,2022,537.5
 Latvia,Latvia,Spring barley,Area,1987,402.0
 Latvia,Latvia,Spring barley,Area,1988,352.5
 Latvia,Latvia,Spring barley,Area,1989,331.6
@@ -9874,7 +9983,7 @@ Latvia,Latvia,Winter barley,Area,2018,3.7
 Latvia,Latvia,Winter barley,Area,2019,7.0
 Latvia,Latvia,Winter barley,Area,2020,9.4
 Latvia,Latvia,Winter barley,Area,2021,13.0
-Latvia,Latvia,Winter barley,Area,2022,20.6
+Latvia,Latvia,Winter barley,Area,2022,20.5
 Lithuania,Lithuania,Barley,Area,1987,493.9
 Lithuania,Lithuania,Barley,Area,1988,432.8
 Lithuania,Lithuania,Barley,Area,1989,407.2
@@ -9910,7 +10019,7 @@ Lithuania,Lithuania,Barley,Area,2018,225.91
 Lithuania,Lithuania,Barley,Area,2019,174.77
 Lithuania,Lithuania,Barley,Area,2020,164.87
 Lithuania,Lithuania,Barley,Area,2021,144.7
-Lithuania,Lithuania,Barley,Area,2022,136.4
+Lithuania,Lithuania,Barley,Area,2022,133.12
 Lithuania,Lithuania,Corn,Area,2002,2.9
 Lithuania,Lithuania,Corn,Area,2003,2.7
 Lithuania,Lithuania,Corn,Area,2004,1.4
@@ -9931,7 +10040,7 @@ Lithuania,Lithuania,Corn,Area,2018,13.39
 Lithuania,Lithuania,Corn,Area,2019,12.77
 Lithuania,Lithuania,Corn,Area,2020,20.2
 Lithuania,Lithuania,Corn,Area,2021,17.87
-Lithuania,Lithuania,Corn,Area,2022,22.9
+Lithuania,Lithuania,Corn,Area,2022,18.8
 Lithuania,Lithuania,Oats,Area,1987,92.7
 Lithuania,Lithuania,Oats,Area,1988,96.0
 Lithuania,Lithuania,Oats,Area,1989,89.4
@@ -9967,7 +10076,7 @@ Lithuania,Lithuania,Oats,Area,2018,102.96
 Lithuania,Lithuania,Oats,Area,2019,86.11
 Lithuania,Lithuania,Oats,Area,2020,104.9
 Lithuania,Lithuania,Oats,Area,2021,92.41
-Lithuania,Lithuania,Oats,Area,2022,81.9
+Lithuania,Lithuania,Oats,Area,2022,80.36
 Lithuania,Lithuania,Rapeseed,Area,1987,6.7
 Lithuania,Lithuania,Rapeseed,Area,1988,9.0
 Lithuania,Lithuania,Rapeseed,Area,1989,10.7
@@ -10039,7 +10148,7 @@ Lithuania,Lithuania,Rye,Area,2018,21.28
 Lithuania,Lithuania,Rye,Area,2019,41.12
 Lithuania,Lithuania,Rye,Area,2020,36.96
 Lithuania,Lithuania,Rye,Area,2021,26.11
-Lithuania,Lithuania,Rye,Area,2022,29.8
+Lithuania,Lithuania,Rye,Area,2022,29.47
 Lithuania,Lithuania,Soft Wheat,Area,1987,228.0
 Lithuania,Lithuania,Soft Wheat,Area,1988,278.1
 Lithuania,Lithuania,Soft Wheat,Area,1989,321.4
@@ -10075,7 +10184,7 @@ Lithuania,Lithuania,Soft Wheat,Area,2018,772.89
 Lithuania,Lithuania,Soft Wheat,Area,2019,895.76
 Lithuania,Lithuania,Soft Wheat,Area,2020,893.51
 Lithuania,Lithuania,Soft Wheat,Area,2021,944.17
-Lithuania,Lithuania,Soft Wheat,Area,2022,949.0
+Lithuania,Lithuania,Soft Wheat,Area,2022,946.72
 Lithuania,Lithuania,Soya,Area,2011,0.8
 Lithuania,Lithuania,Soya,Area,2012,2.6
 Lithuania,Lithuania,Soya,Area,2013,1.4
@@ -10087,6 +10196,7 @@ Lithuania,Lithuania,Soya,Area,2018,1.92
 Lithuania,Lithuania,Soya,Area,2019,1.82
 Lithuania,Lithuania,Soya,Area,2020,2.07
 Lithuania,Lithuania,Soya,Area,2021,1.54
+Lithuania,Lithuania,Soya,Area,2022,2.1
 Lithuania,Lithuania,Spring barley,Area,1987,492.2
 Lithuania,Lithuania,Spring barley,Area,1988,431.8
 Lithuania,Lithuania,Spring barley,Area,1989,406.4
@@ -10122,7 +10232,7 @@ Lithuania,Lithuania,Spring barley,Area,2018,217.51
 Lithuania,Lithuania,Spring barley,Area,2019,153.07
 Lithuania,Lithuania,Spring barley,Area,2020,140.34
 Lithuania,Lithuania,Spring barley,Area,2021,118.89
-Lithuania,Lithuania,Spring barley,Area,2022,103.4
+Lithuania,Lithuania,Spring barley,Area,2022,100.65
 Lithuania,Lithuania,Winter barley,Area,1987,1.7
 Lithuania,Lithuania,Winter barley,Area,1988,1.0
 Lithuania,Lithuania,Winter barley,Area,1989,0.8
@@ -10158,7 +10268,7 @@ Lithuania,Lithuania,Winter barley,Area,2018,8.4
 Lithuania,Lithuania,Winter barley,Area,2019,21.7
 Lithuania,Lithuania,Winter barley,Area,2020,24.53
 Lithuania,Lithuania,Winter barley,Area,2021,25.81
-Lithuania,Lithuania,Winter barley,Area,2022,33.0
+Lithuania,Lithuania,Winter barley,Area,2022,32.48
 Netherlands,Netherlands,Barley,Area,1955,70.0
 Netherlands,Netherlands,Barley,Area,1956,73.8
 Netherlands,Netherlands,Barley,Area,1957,72.1
@@ -10226,6 +10336,7 @@ Netherlands,Netherlands,Barley,Area,2018,35.97
 Netherlands,Netherlands,Barley,Area,2019,33.39
 Netherlands,Netherlands,Barley,Area,2020,38.38
 Netherlands,Netherlands,Barley,Area,2021,29.67
+Netherlands,Netherlands,Barley,Area,2022,36.91
 Netherlands,Netherlands,Corn,Area,2000,20.3
 Netherlands,Netherlands,Corn,Area,2001,27.2
 Netherlands,Netherlands,Corn,Area,2002,23.7
@@ -10248,6 +10359,7 @@ Netherlands,Netherlands,Corn,Area,2018,13.76
 Netherlands,Netherlands,Corn,Area,2019,19.01
 Netherlands,Netherlands,Corn,Area,2020,19.42
 Netherlands,Netherlands,Corn,Area,2021,17.2
+Netherlands,Netherlands,Corn,Area,2022,20.36
 Netherlands,Netherlands,Oats,Area,1955,170.7
 Netherlands,Netherlands,Oats,Area,1956,153.6
 Netherlands,Netherlands,Oats,Area,1957,159.4
@@ -10315,6 +10427,7 @@ Netherlands,Netherlands,Oats,Area,2018,1.41
 Netherlands,Netherlands,Oats,Area,2019,1.43
 Netherlands,Netherlands,Oats,Area,2020,1.57
 Netherlands,Netherlands,Oats,Area,2021,1.38
+Netherlands,Netherlands,Oats,Area,2022,1.49
 Netherlands,Netherlands,Rapeseed,Area,1955,7.4
 Netherlands,Netherlands,Rapeseed,Area,1956,10.2
 Netherlands,Netherlands,Rapeseed,Area,1957,6.4
@@ -10381,7 +10494,8 @@ Netherlands,Netherlands,Rapeseed,Area,2017,1.94
 Netherlands,Netherlands,Rapeseed,Area,2018,2.02
 Netherlands,Netherlands,Rapeseed,Area,2019,1.78
 Netherlands,Netherlands,Rapeseed,Area,2020,1.67
-Netherlands,Netherlands,Rapeseed,Area,2021,1.51
+Netherlands,Netherlands,Rapeseed,Area,2021,1.45
+Netherlands,Netherlands,Rapeseed,Area,2022,1.61
 Netherlands,Netherlands,Rye,Area,1955,153.9
 Netherlands,Netherlands,Rye,Area,1956,171.2
 Netherlands,Netherlands,Rye,Area,1957,157.4
@@ -10449,6 +10563,7 @@ Netherlands,Netherlands,Rye,Area,2018,1.56
 Netherlands,Netherlands,Rye,Area,2019,1.49
 Netherlands,Netherlands,Rye,Area,2020,1.78
 Netherlands,Netherlands,Rye,Area,2021,2.13
+Netherlands,Netherlands,Rye,Area,2022,2.29
 Netherlands,Netherlands,Soft Wheat,Area,1955,89.3
 Netherlands,Netherlands,Soft Wheat,Area,1956,85.8
 Netherlands,Netherlands,Soft Wheat,Area,1957,99.0
@@ -10515,7 +10630,8 @@ Netherlands,Netherlands,Soft Wheat,Area,2017,115.92
 Netherlands,Netherlands,Soft Wheat,Area,2018,111.66
 Netherlands,Netherlands,Soft Wheat,Area,2019,120.55
 Netherlands,Netherlands,Soft Wheat,Area,2020,108.91
-Netherlands,Netherlands,Soft Wheat,Area,2021,118.16
+Netherlands,Netherlands,Soft Wheat,Area,2021,118.14
+Netherlands,Netherlands,Soft Wheat,Area,2022,124.61
 Netherlands,Netherlands,Spring barley,Area,1955,66.3
 Netherlands,Netherlands,Spring barley,Area,1956,65.3
 Netherlands,Netherlands,Spring barley,Area,1957,64.5
@@ -10582,6 +10698,7 @@ Netherlands,Netherlands,Spring barley,Area,2017,20.44
 Netherlands,Netherlands,Spring barley,Area,2018,27.78
 Netherlands,Netherlands,Spring barley,Area,2019,22.3
 Netherlands,Netherlands,Spring barley,Area,2020,28.76
+Netherlands,Netherlands,Spring barley,Area,2021,20.04
 Netherlands,Netherlands,Winter barley,Area,1955,3.7
 Netherlands,Netherlands,Winter barley,Area,1956,8.5
 Netherlands,Netherlands,Winter barley,Area,1957,7.7
@@ -10649,6 +10766,7 @@ Netherlands,Netherlands,Winter barley,Area,2018,8.2
 Netherlands,Netherlands,Winter barley,Area,2019,11.09
 Netherlands,Netherlands,Winter barley,Area,2020,9.62
 Netherlands,Netherlands,Winter barley,Area,2021,9.63
+Netherlands,Netherlands,Winter barley,Area,2022,10.56
 Poland,Poland,Barley,Area,1987,1285.7
 Poland,Poland,Barley,Area,1988,1250.2
 Poland,Poland,Barley,Area,1989,1174.8
@@ -10682,8 +10800,9 @@ Poland,Poland,Barley,Area,2016,915.3
 Poland,Poland,Barley,Area,2017,953.78
 Poland,Poland,Barley,Area,2018,975.74
 Poland,Poland,Barley,Area,2019,975.29
-Poland,Poland,Barley,Area,2020,675.27
+Poland,Poland,Barley,Area,2020,676.3
 Poland,Poland,Barley,Area,2021,721.16
+Poland,Poland,Barley,Area,2022,636.79
 Poland,Poland,Corn,Area,2000,152.3
 Poland,Poland,Corn,Area,2001,224.4
 Poland,Poland,Corn,Area,2002,318.7
@@ -10704,8 +10823,9 @@ Poland,Poland,Corn,Area,2016,593.5
 Poland,Poland,Corn,Area,2017,562.11
 Poland,Poland,Corn,Area,2018,645.41
 Poland,Poland,Corn,Area,2019,664.95
-Poland,Poland,Corn,Area,2020,946.06
+Poland,Poland,Corn,Area,2020,946.03
 Poland,Poland,Corn,Area,2021,998.47
+Poland,Poland,Corn,Area,2022,1184.3
 Poland,Poland,Oats,Area,1987,856.1
 Poland,Poland,Oats,Area,1988,850.0
 Poland,Poland,Oats,Area,1989,803.0
@@ -10739,8 +10859,9 @@ Poland,Poland,Oats,Area,2016,472.5
 Poland,Poland,Oats,Area,2017,491.24
 Poland,Poland,Oats,Area,2018,497.22
 Poland,Poland,Oats,Area,2019,495.5
-Poland,Poland,Oats,Area,2020,500.12
+Poland,Poland,Oats,Area,2020,506.3
 Poland,Poland,Oats,Area,2021,527.41
+Poland,Poland,Oats,Area,2022,463.59
 Poland,Poland,Rapeseed,Area,1987,498.6
 Poland,Poland,Rapeseed,Area,1988,470.5
 Poland,Poland,Rapeseed,Area,1989,570.0
@@ -10774,8 +10895,9 @@ Poland,Poland,Rapeseed,Area,2016,822.6
 Poland,Poland,Rapeseed,Area,2017,914.27
 Poland,Poland,Rapeseed,Area,2018,845.11
 Poland,Poland,Rapeseed,Area,2019,875.21
-Poland,Poland,Rapeseed,Area,2020,980.89
+Poland,Poland,Rapeseed,Area,2020,979.39
 Poland,Poland,Rapeseed,Area,2021,993.41
+Poland,Poland,Rapeseed,Area,2022,1074.55
 Poland,Poland,Rye,Area,1987,2671.4
 Poland,Poland,Rye,Area,1988,2348.5
 Poland,Poland,Rye,Area,1989,2298.7
@@ -10809,8 +10931,9 @@ Poland,Poland,Rye,Area,2016,835.2
 Poland,Poland,Rye,Area,2017,945.96
 Poland,Poland,Rye,Area,2018,970.93
 Poland,Poland,Rye,Area,2019,973.43
-Poland,Poland,Rye,Area,2020,956.22
+Poland,Poland,Rye,Area,2020,963.2
 Poland,Poland,Rye,Area,2021,863.49
+Poland,Poland,Rye,Area,2022,717.76
 Poland,Poland,Soft Wheat,Area,1987,2132.6
 Poland,Poland,Soft Wheat,Area,1988,2178.7
 Poland,Poland,Soft Wheat,Area,1989,2195.4
@@ -10844,8 +10967,9 @@ Poland,Poland,Soft Wheat,Area,2016,2364.1
 Poland,Poland,Soft Wheat,Area,2017,2391.85
 Poland,Poland,Soft Wheat,Area,2018,2417.23
 Poland,Poland,Soft Wheat,Area,2019,2511.33
-Poland,Poland,Soft Wheat,Area,2020,2373.31
+Poland,Poland,Soft Wheat,Area,2020,2391.0
 Poland,Poland,Soft Wheat,Area,2021,2390.52
+Poland,Poland,Soft Wheat,Area,2022,2505.12
 Poland,Poland,Soya,Area,2003,0.4
 Poland,Poland,Soya,Area,2004,0.3
 Poland,Poland,Soya,Area,2005,0.3
@@ -10862,8 +10986,9 @@ Poland,Poland,Soya,Area,2016,7.6
 Poland,Poland,Soya,Area,2017,9.33
 Poland,Poland,Soya,Area,2018,5.45
 Poland,Poland,Soya,Area,2019,7.92
-Poland,Poland,Soya,Area,2020,7.17
+Poland,Poland,Soya,Area,2020,7.71
 Poland,Poland,Soya,Area,2021,9.21
+Poland,Poland,Soya,Area,2022,17.54
 Poland,Poland,Spring barley,Area,1987,1128.6
 Poland,Poland,Spring barley,Area,1988,1107.3
 Poland,Poland,Spring barley,Area,1989,1020.1
@@ -10897,8 +11022,9 @@ Poland,Poland,Spring barley,Area,2016,778.02
 Poland,Poland,Spring barley,Area,2017,763.79
 Poland,Poland,Spring barley,Area,2018,772.81
 Poland,Poland,Spring barley,Area,2019,750.53
-Poland,Poland,Spring barley,Area,2020,406.69
+Poland,Poland,Spring barley,Area,2020,407.88
 Poland,Poland,Spring barley,Area,2021,426.26
+Poland,Poland,Spring barley,Area,2022,330.6
 Poland,Poland,Sunflower seed,Area,1999,0.4
 Poland,Poland,Sunflower seed,Area,2000,0.7
 Poland,Poland,Sunflower seed,Area,2001,0.8
@@ -10920,8 +11046,9 @@ Poland,Poland,Sunflower seed,Area,2016,2.0
 Poland,Poland,Sunflower seed,Area,2017,3.24
 Poland,Poland,Sunflower seed,Area,2018,5.67
 Poland,Poland,Sunflower seed,Area,2019,2.0
-Poland,Poland,Sunflower seed,Area,2020,7.41
+Poland,Poland,Sunflower seed,Area,2020,7.55
 Poland,Poland,Sunflower seed,Area,2021,14.36
+Poland,Poland,Sunflower seed,Area,2022,25.95
 Poland,Poland,Winter barley,Area,1987,157.1
 Poland,Poland,Winter barley,Area,1988,142.9
 Poland,Poland,Winter barley,Area,1989,154.7
@@ -10955,8 +11082,9 @@ Poland,Poland,Winter barley,Area,2016,137.3
 Poland,Poland,Winter barley,Area,2017,190.0
 Poland,Poland,Winter barley,Area,2018,202.93
 Poland,Poland,Winter barley,Area,2019,224.76
-Poland,Poland,Winter barley,Area,2020,268.58
+Poland,Poland,Winter barley,Area,2020,268.42
 Poland,Poland,Winter barley,Area,2021,294.91
+Poland,Poland,Winter barley,Area,2022,306.19
 Romania,Romania,Barley,Area,1987,666.1
 Romania,Romania,Barley,Area,1988,764.0
 Romania,Romania,Barley,Area,1989,767.8
@@ -10991,7 +11119,7 @@ Romania,Romania,Barley,Area,2017,455.46
 Romania,Romania,Barley,Area,2018,423.5
 Romania,Romania,Barley,Area,2019,448.89
 Romania,Romania,Barley,Area,2020,441.98
-Romania,Romania,Barley,Area,2021,462.79
+Romania,Romania,Barley,Area,2021,449.39
 Romania,Romania,Barley,Area,2022,472.67
 Romania,Romania,Corn,Area,2000,3049.36
 Romania,Romania,Corn,Area,2001,2974.02
@@ -11014,7 +11142,7 @@ Romania,Romania,Corn,Area,2017,2405.24
 Romania,Romania,Corn,Area,2018,2443.95
 Romania,Romania,Corn,Area,2019,2681.93
 Romania,Romania,Corn,Area,2020,2540.55
-Romania,Romania,Corn,Area,2021,2572.56
+Romania,Romania,Corn,Area,2021,2554.68
 Romania,Romania,Corn,Area,2022,2483.65
 Romania,Romania,Oats,Area,1987,76.3
 Romania,Romania,Oats,Area,1988,91.6
@@ -11050,7 +11178,7 @@ Romania,Romania,Oats,Area,2017,165.76
 Romania,Romania,Oats,Area,2018,161.48
 Romania,Romania,Oats,Area,2019,161.19
 Romania,Romania,Oats,Area,2020,101.34
-Romania,Romania,Oats,Area,2021,93.38
+Romania,Romania,Oats,Area,2021,87.02
 Romania,Romania,Oats,Area,2022,79.88
 Romania,Romania,Rapeseed,Area,1987,12.0
 Romania,Romania,Rapeseed,Area,1988,11.9
@@ -11086,7 +11214,7 @@ Romania,Romania,Rapeseed,Area,2017,597.97
 Romania,Romania,Rapeseed,Area,2018,632.68
 Romania,Romania,Rapeseed,Area,2019,352.62
 Romania,Romania,Rapeseed,Area,2020,362.87
-Romania,Romania,Rapeseed,Area,2021,438.29
+Romania,Romania,Rapeseed,Area,2021,445.92
 Romania,Romania,Rapeseed,Area,2022,467.06
 Romania,Romania,Rye,Area,1989,40.1
 Romania,Romania,Rye,Area,1990,44.5
@@ -11120,7 +11248,7 @@ Romania,Romania,Rye,Area,2017,9.59
 Romania,Romania,Rye,Area,2018,10.26
 Romania,Romania,Rye,Area,2019,9.36
 Romania,Romania,Rye,Area,2020,11.25
-Romania,Romania,Rye,Area,2021,10.15
+Romania,Romania,Rye,Area,2021,12.11
 Romania,Romania,Rye,Area,2022,11.17
 Romania,Romania,Soft Wheat,Area,1987,2399.3
 Romania,Romania,Soft Wheat,Area,1988,2414.7
@@ -11156,7 +11284,7 @@ Romania,Romania,Soft Wheat,Area,2017,2048.13
 Romania,Romania,Soft Wheat,Area,2018,2110.52
 Romania,Romania,Soft Wheat,Area,2019,2162.64
 Romania,Romania,Soft Wheat,Area,2020,2150.99
-Romania,Romania,Soft Wheat,Area,2021,2143.71
+Romania,Romania,Soft Wheat,Area,2021,2167.72
 Romania,Romania,Soft Wheat,Area,2022,2188.08
 Romania,Romania,Soya,Area,1987,358.6
 Romania,Romania,Soya,Area,1988,413.6
@@ -11192,7 +11320,8 @@ Romania,Romania,Soya,Area,2017,165.14
 Romania,Romania,Soya,Area,2018,169.42
 Romania,Romania,Soya,Area,2019,158.15
 Romania,Romania,Soya,Area,2020,168.9
-Romania,Romania,Soya,Area,2021,139.51
+Romania,Romania,Soya,Area,2021,139.61
+Romania,Romania,Soya,Area,2022,154.09
 Romania,Romania,Spring barley,Area,1997,179.2
 Romania,Romania,Spring barley,Area,1998,173.4
 Romania,Romania,Spring barley,Area,1999,166.6
@@ -11217,7 +11346,7 @@ Romania,Romania,Spring barley,Area,2017,114.96
 Romania,Romania,Spring barley,Area,2018,104.01
 Romania,Romania,Spring barley,Area,2019,100.1
 Romania,Romania,Spring barley,Area,2020,88.42
-Romania,Romania,Spring barley,Area,2021,61.03
+Romania,Romania,Spring barley,Area,2021,56.54
 Romania,Romania,Spring barley,Area,2022,53.74
 Romania,Romania,Sunflower seed,Area,1987,474.1
 Romania,Romania,Sunflower seed,Area,1988,465.9
@@ -11253,7 +11382,8 @@ Romania,Romania,Sunflower seed,Area,2017,998.42
 Romania,Romania,Sunflower seed,Area,2018,1006.99
 Romania,Romania,Sunflower seed,Area,2019,1282.7
 Romania,Romania,Sunflower seed,Area,2020,1142.84
-Romania,Romania,Sunflower seed,Area,2021,1111.52
+Romania,Romania,Sunflower seed,Area,2021,1123.96
+Romania,Romania,Sunflower seed,Area,2022,1328.0
 Romania,Romania,Winter barley,Area,1997,447.3
 Romania,Romania,Winter barley,Area,1998,343.8
 Romania,Romania,Winter barley,Area,1999,248.9
@@ -11278,7 +11408,7 @@ Romania,Romania,Winter barley,Area,2017,340.5
 Romania,Romania,Winter barley,Area,2018,319.49
 Romania,Romania,Winter barley,Area,2019,348.79
 Romania,Romania,Winter barley,Area,2020,353.56
-Romania,Romania,Winter barley,Area,2021,401.76
+Romania,Romania,Winter barley,Area,2021,392.85
 Romania,Romania,Winter barley,Area,2022,418.94
 Spain,Spain,Barley,Area,1965,1374.4
 Spain,Spain,Barley,Area,1966,1337.8
@@ -11336,7 +11466,8 @@ Spain,Spain,Barley,Area,2017,2597.53
 Spain,Spain,Barley,Area,2018,2569.46
 Spain,Spain,Barley,Area,2019,2693.51
 Spain,Spain,Barley,Area,2020,2749.04
-Spain,Spain,Barley,Area,2021,2527.56
+Spain,Spain,Barley,Area,2021,2514.56
+Spain,Spain,Barley,Area,2022,2387.84
 Spain,Spain,Corn,Area,2000,433.1
 Spain,Spain,Corn,Area,2001,512.5
 Spain,Spain,Corn,Area,2002,465.1
@@ -11358,7 +11489,8 @@ Spain,Spain,Corn,Area,2017,333.63
 Spain,Spain,Corn,Area,2018,322.37
 Spain,Spain,Corn,Area,2019,356.83
 Spain,Spain,Corn,Area,2020,343.78
-Spain,Spain,Corn,Area,2021,346.93
+Spain,Spain,Corn,Area,2021,358.27
+Spain,Spain,Corn,Area,2022,315.71
 Spain,Spain,Oats,Area,1965,501.6
 Spain,Spain,Oats,Area,1966,469.0
 Spain,Spain,Oats,Area,1967,485.6
@@ -11415,7 +11547,8 @@ Spain,Spain,Oats,Area,2017,558.77
 Spain,Spain,Oats,Area,2018,556.5
 Spain,Spain,Oats,Area,2019,453.43
 Spain,Spain,Oats,Area,2020,506.17
-Spain,Spain,Oats,Area,2021,506.96
+Spain,Spain,Oats,Area,2021,504.0
+Spain,Spain,Oats,Area,2022,459.93
 Spain,Spain,Rapeseed,Area,1983,12.9
 Spain,Spain,Rapeseed,Area,1984,8.2
 Spain,Spain,Rapeseed,Area,1985,10.0
@@ -11454,7 +11587,8 @@ Spain,Spain,Rapeseed,Area,2017,95.87
 Spain,Spain,Rapeseed,Area,2018,78.53
 Spain,Spain,Rapeseed,Area,2019,70.26
 Spain,Spain,Rapeseed,Area,2020,71.47
-Spain,Spain,Rapeseed,Area,2021,99.31
+Spain,Spain,Rapeseed,Area,2021,92.2
+Spain,Spain,Rapeseed,Area,2022,123.78
 Spain,Spain,Rye,Area,1965,396.8
 Spain,Spain,Rye,Area,1966,387.1
 Spain,Spain,Rye,Area,1967,401.0
@@ -11511,7 +11645,8 @@ Spain,Spain,Rye,Area,2017,144.91
 Spain,Spain,Rye,Area,2018,174.64
 Spain,Spain,Rye,Area,2019,173.76
 Spain,Spain,Rye,Area,2020,174.27
-Spain,Spain,Rye,Area,2021,154.45
+Spain,Spain,Rye,Area,2021,161.27
+Spain,Spain,Rye,Area,2022,142.89
 Spain,Spain,Soft Wheat,Area,1965,3992.7
 Spain,Spain,Soft Wheat,Area,1966,3938.5
 Spain,Spain,Soft Wheat,Area,1967,3917.5
@@ -11568,7 +11703,8 @@ Spain,Spain,Soft Wheat,Area,2017,1645.12
 Spain,Spain,Soft Wheat,Area,2018,1689.08
 Spain,Spain,Soft Wheat,Area,2019,1653.45
 Spain,Spain,Soft Wheat,Area,2020,1663.76
-Spain,Spain,Soft Wheat,Area,2021,1814.07
+Spain,Spain,Soft Wheat,Area,2021,1869.42
+Spain,Spain,Soft Wheat,Area,2022,1876.75
 Spain,Spain,Soya,Area,1970,2.0
 Spain,Spain,Soya,Area,1971,1.8
 Spain,Spain,Soya,Area,1972,2.2
@@ -11620,7 +11756,8 @@ Spain,Spain,Soya,Area,2017,1.69
 Spain,Spain,Soya,Area,2018,1.48
 Spain,Spain,Soya,Area,2019,1.57
 Spain,Spain,Soya,Area,2020,1.45
-Spain,Spain,Soya,Area,2021,1.55
+Spain,Spain,Soya,Area,2021,1.57
+Spain,Spain,Soya,Area,2022,1.3
 Spain,Spain,Spring barley,Area,1989,2465.3
 Spain,Spain,Spring barley,Area,1990,2528.1
 Spain,Spain,Spring barley,Area,1991,2551.9
@@ -11653,7 +11790,8 @@ Spain,Spain,Spring barley,Area,2017,2192.94
 Spain,Spain,Spring barley,Area,2018,2232.78
 Spain,Spain,Spring barley,Area,2019,2426.41
 Spain,Spain,Spring barley,Area,2020,2440.62
-Spain,Spain,Spring barley,Area,2021,2263.05
+Spain,Spain,Spring barley,Area,2021,2262.89
+Spain,Spain,Spring barley,Area,2022,2149.8
 Spain,Spain,Sunflower seed,Area,1965,11.3
 Spain,Spain,Sunflower seed,Area,1966,38.8
 Spain,Spain,Sunflower seed,Area,1967,25.9
@@ -11710,7 +11848,8 @@ Spain,Spain,Sunflower seed,Area,2017,724.63
 Spain,Spain,Sunflower seed,Area,2018,691.28
 Spain,Spain,Sunflower seed,Area,2019,701.77
 Spain,Spain,Sunflower seed,Area,2020,650.05
-Spain,Spain,Sunflower seed,Area,2021,626.42
+Spain,Spain,Sunflower seed,Area,2021,631.16
+Spain,Spain,Sunflower seed,Area,2022,871.83
 Spain,Spain,Winter barley,Area,1989,1846.4
 Spain,Spain,Winter barley,Area,1990,1829.7
 Spain,Spain,Winter barley,Area,1991,1860.9
@@ -11743,7 +11882,8 @@ Spain,Spain,Winter barley,Area,2017,404.59
 Spain,Spain,Winter barley,Area,2018,336.68
 Spain,Spain,Winter barley,Area,2019,267.1
 Spain,Spain,Winter barley,Area,2020,308.42
-Spain,Spain,Winter barley,Area,2021,264.51
+Spain,Spain,Winter barley,Area,2021,251.67
+Spain,Spain,Winter barley,Area,2022,238.04
 Sweden,Sweden,Barley,Area,1973,642.0
 Sweden,Sweden,Barley,Area,1974,638.0
 Sweden,Sweden,Barley,Area,1975,649.0
@@ -11792,8 +11932,8 @@ Sweden,Sweden,Barley,Area,2017,309.28
 Sweden,Sweden,Barley,Area,2018,360.81
 Sweden,Sweden,Barley,Area,2019,291.76
 Sweden,Sweden,Barley,Area,2020,292.66
-Sweden,Sweden,Barley,Area,2021,270.4
-Sweden,Sweden,Barley,Area,2022,279.51
+Sweden,Sweden,Barley,Area,2021,270.5
+Sweden,Sweden,Barley,Area,2022,274.67
 Sweden,Sweden,Corn,Area,2009,1.3
 Sweden,Sweden,Corn,Area,2010,1.34
 Sweden,Sweden,Corn,Area,2011,2.09
@@ -11806,8 +11946,8 @@ Sweden,Sweden,Corn,Area,2017,1.19
 Sweden,Sweden,Corn,Area,2018,1.11
 Sweden,Sweden,Corn,Area,2019,1.62
 Sweden,Sweden,Corn,Area,2020,1.85
-Sweden,Sweden,Corn,Area,2021,1.54
-Sweden,Sweden,Corn,Area,2022,1.6
+Sweden,Sweden,Corn,Area,2021,1.74
+Sweden,Sweden,Corn,Area,2022,1.75
 Sweden,Sweden,Oats,Area,1973,509.0
 Sweden,Sweden,Oats,Area,1974,468.0
 Sweden,Sweden,Oats,Area,1975,497.0
@@ -11856,8 +11996,8 @@ Sweden,Sweden,Oats,Area,2017,150.58
 Sweden,Sweden,Oats,Area,2018,141.27
 Sweden,Sweden,Oats,Area,2019,141.13
 Sweden,Sweden,Oats,Area,2020,178.12
-Sweden,Sweden,Oats,Area,2021,166.65
-Sweden,Sweden,Oats,Area,2022,158.62
+Sweden,Sweden,Oats,Area,2021,166.75
+Sweden,Sweden,Oats,Area,2022,153.82
 Sweden,Sweden,Rapeseed,Area,1986,175.0
 Sweden,Sweden,Rapeseed,Area,1987,170.0
 Sweden,Sweden,Rapeseed,Area,1988,150.0
@@ -11893,8 +12033,8 @@ Sweden,Sweden,Rapeseed,Area,2017,114.24
 Sweden,Sweden,Rapeseed,Area,2018,97.45
 Sweden,Sweden,Rapeseed,Area,2019,105.38
 Sweden,Sweden,Rapeseed,Area,2020,98.2
-Sweden,Sweden,Rapeseed,Area,2021,105.93
-Sweden,Sweden,Rapeseed,Area,2022,131.64
+Sweden,Sweden,Rapeseed,Area,2021,105.95
+Sweden,Sweden,Rapeseed,Area,2022,127.15
 Sweden,Sweden,Rye,Area,1973,95.0
 Sweden,Sweden,Rye,Area,1974,110.0
 Sweden,Sweden,Rye,Area,1975,98.0
@@ -11944,7 +12084,7 @@ Sweden,Sweden,Rye,Area,2018,19.58
 Sweden,Sweden,Rye,Area,2019,32.75
 Sweden,Sweden,Rye,Area,2020,30.57
 Sweden,Sweden,Rye,Area,2021,25.32
-Sweden,Sweden,Rye,Area,2022,21.15
+Sweden,Sweden,Rye,Area,2022,20.75
 Sweden,Sweden,Soft Wheat,Area,1973,292.0
 Sweden,Sweden,Soft Wheat,Area,1974,340.0
 Sweden,Sweden,Soft Wheat,Area,1975,303.0
@@ -11993,8 +12133,8 @@ Sweden,Sweden,Soft Wheat,Area,2017,471.87
 Sweden,Sweden,Soft Wheat,Area,2018,372.5
 Sweden,Sweden,Soft Wheat,Area,2019,469.49
 Sweden,Sweden,Soft Wheat,Area,2020,449.17
-Sweden,Sweden,Soft Wheat,Area,2021,479.17
-Sweden,Sweden,Soft Wheat,Area,2022,465.76
+Sweden,Sweden,Soft Wheat,Area,2021,479.13
+Sweden,Sweden,Soft Wheat,Area,2022,461.58
 Sweden,Sweden,Spring barley,Area,1985,711.0
 Sweden,Sweden,Spring barley,Area,1986,681.0
 Sweden,Sweden,Spring barley,Area,1987,581.0
@@ -12031,8 +12171,8 @@ Sweden,Sweden,Spring barley,Area,2017,290.1
 Sweden,Sweden,Spring barley,Area,2018,346.36
 Sweden,Sweden,Spring barley,Area,2019,271.22
 Sweden,Sweden,Spring barley,Area,2020,272.24
-Sweden,Sweden,Spring barley,Area,2021,247.82
-Sweden,Sweden,Spring barley,Area,2022,258.03
+Sweden,Sweden,Spring barley,Area,2021,247.91
+Sweden,Sweden,Spring barley,Area,2022,253.5
 Sweden,Sweden,Winter barley,Area,1995,26.2
 Sweden,Sweden,Winter barley,Area,1996,22.1
 Sweden,Sweden,Winter barley,Area,1997,15.3
@@ -12059,5 +12199,5 @@ Sweden,Sweden,Winter barley,Area,2017,19.18
 Sweden,Sweden,Winter barley,Area,2018,14.45
 Sweden,Sweden,Winter barley,Area,2019,20.54
 Sweden,Sweden,Winter barley,Area,2020,20.42
-Sweden,Sweden,Winter barley,Area,2021,22.58
-Sweden,Sweden,Winter barley,Area,2022,21.48
+Sweden,Sweden,Winter barley,Area,2021,22.59
+Sweden,Sweden,Winter barley,Area,2022,21.17

@@ -1,6 +1,4 @@
 import streamlit as st
-# from support_files.quickstart import credentials, download_image, download_dataframe
-# from concurrent.futures import ThreadPoolExecutor
 from streamlit_charts import get_deviation_charts
 import streamlit.components.v1 as components
 from gcs import GCS
@@ -8,7 +6,6 @@ from gcs import GCS
 gcs = GCS(streamlit=True)
 
 st.set_page_config(page_title="Europe Weather Maps", layout='wide')
-# creds = credentials()
 
 with st.sidebar:
     add_class = st.selectbox("Crop Type", ('Soft Wheat', 'Barley', 'Corn','Rye', 'Oats', 'Sunflower seed', 'Rapeseed','Soya'))

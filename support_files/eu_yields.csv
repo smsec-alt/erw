@@ -65,7 +65,8 @@ Belgium,Belgium,Barley,Yield,2017,8.337160521086332
 Belgium,Belgium,Barley,Yield,2018,7.687855787476281
 Belgium,Belgium,Barley,Yield,2019,8.57698887938409
 Belgium,Belgium,Barley,Yield,2020,7.491359708958619
-Belgium,Belgium,Barley,Yield,2021,7.725916230366492
+Belgium,Belgium,Barley,Yield,2021,7.844967320261437
+Belgium,Belgium,Barley,Yield,2022,8.24763948497854
 Belgium,Belgium,Corn,Yield,2009,9.776911544227886
 Belgium,Belgium,Corn,Yield,2010,8.449570200573065
 Belgium,Belgium,Corn,Yield,2011,9.561988060530334
@@ -78,7 +79,8 @@ Belgium,Belgium,Corn,Yield,2017,10.284081632653061
 Belgium,Belgium,Corn,Yield,2018,6.974439711057603
 Belgium,Belgium,Corn,Yield,2019,8.824424342105264
 Belgium,Belgium,Corn,Yield,2020,8.115073245952196
-Belgium,Belgium,Corn,Yield,2021,9.151452282157676
+Belgium,Belgium,Corn,Yield,2021,9.329946080464538
+Belgium,Belgium,Corn,Yield,2022,7.368584758942458
 Belgium,Belgium,Oats,Yield,1955,3.2288590604026846
 Belgium,Belgium,Oats,Yield,1956,3.0704314720812182
 Belgium,Belgium,Oats,Yield,1957,3.0606877950101143
@@ -137,7 +139,8 @@ Belgium,Belgium,Oats,Yield,2017,4.561881188118812
 Belgium,Belgium,Oats,Yield,2018,5.348703170028818
 Belgium,Belgium,Oats,Yield,2019,5.22538860103627
 Belgium,Belgium,Oats,Yield,2020,4.582914572864321
-Belgium,Belgium,Oats,Yield,2021,4.558333333333334
+Belgium,Belgium,Oats,Yield,2021,4.570637119113574
+Belgium,Belgium,Oats,Yield,2022,4.570588235294117
 Belgium,Belgium,Rapeseed,Yield,1955,2.166666666666667
 Belgium,Belgium,Rapeseed,Yield,1956,2.25
 Belgium,Belgium,Rapeseed,Yield,1957,2.111111111111111
@@ -202,7 +205,8 @@ Belgium,Belgium,Rapeseed,Yield,2017,4.287430683918669
 Belgium,Belgium,Rapeseed,Yield,2018,3.828470380194518
 Belgium,Belgium,Rapeseed,Yield,2019,3.6101511879049677
 Belgium,Belgium,Rapeseed,Yield,2020,3.7294264339152123
-Belgium,Belgium,Rapeseed,Yield,2021,3.3792682926829274
+Belgium,Belgium,Rapeseed,Yield,2021,3.4310134310134313
+Belgium,Belgium,Rapeseed,Yield,2022,3.6965116279069767
 Belgium,Belgium,Rye,Yield,1955,2.987886944818304
 Belgium,Belgium,Rye,Yield,1956,2.8762589928057554
 Belgium,Belgium,Rye,Yield,1957,2.887048192771084
@@ -268,7 +272,8 @@ Belgium,Belgium,Rye,Yield,2017,4.576923076923077
 Belgium,Belgium,Rye,Yield,2018,3.8064516129032255
 Belgium,Belgium,Rye,Yield,2019,4.363636363636363
 Belgium,Belgium,Rye,Yield,2020,3.5714285714285716
-Belgium,Belgium,Rye,Yield,2021,4.437499999999999
+Belgium,Belgium,Rye,Yield,2021,4.146341463414634
+Belgium,Belgium,Rye,Yield,2022,3.95
 Belgium,Belgium,Soft Wheat,Yield,1955,3.8849467815509375
 Belgium,Belgium,Soft Wheat,Yield,1956,3.318658280922432
 Belgium,Belgium,Soft Wheat,Yield,1957,3.7593457943925235
@@ -335,7 +340,8 @@ Belgium,Belgium,Soft Wheat,Yield,2017,8.557315653626196
 Belgium,Belgium,Soft Wheat,Yield,2018,8.492309264653278
 Belgium,Belgium,Soft Wheat,Yield,2019,9.336376128778957
 Belgium,Belgium,Soft Wheat,Yield,2020,8.94626528305764
-Belgium,Belgium,Soft Wheat,Yield,2021,7.781118546845124
+Belgium,Belgium,Soft Wheat,Yield,2021,7.78841189406253
+Belgium,Belgium,Soft Wheat,Yield,2022,9.183187134502925
 Belgium,Belgium,Spring barley,Yield,1955,3.3286219081272086
 Belgium,Belgium,Spring barley,Yield,1956,3.1982507288629742
 Belgium,Belgium,Spring barley,Yield,1957,3.3409836065573773
@@ -402,7 +408,8 @@ Belgium,Belgium,Spring barley,Yield,2017,4.778597785977859
 Belgium,Belgium,Spring barley,Yield,2018,5.425867507886435
 Belgium,Belgium,Spring barley,Yield,2019,5.633898305084745
 Belgium,Belgium,Spring barley,Yield,2020,4.783980582524272
-Belgium,Belgium,Spring barley,Yield,2021,4.637499999999999
+Belgium,Belgium,Spring barley,Yield,2021,4.750778816199377
+Belgium,Belgium,Spring barley,Yield,2022,4.7155172413793105
 Belgium,Belgium,Winter barley,Yield,1955,3.6547619047619047
 Belgium,Belgium,Winter barley,Yield,1956,3.113122171945701
 Belgium,Belgium,Winter barley,Yield,1957,3.646825396825397
@@ -469,7 +476,8 @@ Belgium,Belgium,Winter barley,Yield,2017,8.567066008926474
 Belgium,Belgium,Winter barley,Yield,2018,7.8702564102564105
 Belgium,Belgium,Winter barley,Yield,2019,8.776484018264842
 Belgium,Belgium,Winter barley,Yield,2020,7.774654956085319
-Belgium,Belgium,Winter barley,Yield,2021,8.017714285714286
+Belgium,Belgium,Winter barley,Yield,2021,8.130707762557078
+Belgium,Belgium,Winter barley,Yield,2022,8.748774509803923
 Bulgaria,Bulgaria,Barley,Yield,1987,3.698305084745763
 Bulgaria,Bulgaria,Barley,Yield,1988,3.8057971014492753
 Bulgaria,Bulgaria,Barley,Yield,1989,4.366666666666666
@@ -504,7 +512,8 @@ Bulgaria,Bulgaria,Barley,Yield,2017,4.804705149178156
 Bulgaria,Bulgaria,Barley,Yield,2018,4.332335618422324
 Bulgaria,Bulgaria,Barley,Yield,2019,5.026778541462108
 Bulgaria,Bulgaria,Barley,Yield,2020,4.3309880697461
-Bulgaria,Bulgaria,Barley,Yield,2021,5.580476605177737
+Bulgaria,Bulgaria,Barley,Yield,2021,5.574142981553321
+Bulgaria,Bulgaria,Barley,Yield,2022,5.081869918699187
 Bulgaria,Bulgaria,Corn,Yield,2000,1.88259587020649
 Bulgaria,Bulgaria,Corn,Yield,2001,2.5833191730387988
 Bulgaria,Bulgaria,Corn,Yield,2002,4.187894736842105
@@ -526,7 +535,8 @@ Bulgaria,Bulgaria,Corn,Yield,2017,6.555921135250533
 Bulgaria,Bulgaria,Corn,Yield,2018,7.922495614232378
 Bulgaria,Bulgaria,Corn,Yield,2019,7.237863471858231
 Bulgaria,Bulgaria,Corn,Yield,2020,5.183034409230823
-Bulgaria,Bulgaria,Corn,Yield,2021,5.981152490314475
+Bulgaria,Bulgaria,Corn,Yield,2021,5.981135038916618
+Bulgaria,Bulgaria,Corn,Yield,2022,4.8998269230769225
 Bulgaria,Bulgaria,Oats,Yield,1987,1.4642857142857142
 Bulgaria,Bulgaria,Oats,Yield,1988,1.962962962962963
 Bulgaria,Bulgaria,Oats,Yield,1989,2.8157894736842106
@@ -561,7 +571,8 @@ Bulgaria,Bulgaria,Oats,Yield,2017,2.4868123587038435
 Bulgaria,Bulgaria,Oats,Yield,2018,2.2054673721340388
 Bulgaria,Bulgaria,Oats,Yield,2019,2.5934156378600823
 Bulgaria,Bulgaria,Oats,Yield,2020,2.3626865671641792
-Bulgaria,Bulgaria,Oats,Yield,2021,2.4688128772635816
+Bulgaria,Bulgaria,Oats,Yield,2021,2.4406438631790746
+Bulgaria,Bulgaria,Oats,Yield,2022,2.351818181818182
 Bulgaria,Bulgaria,Rapeseed,Yield,1998,0.6923076923076924
 Bulgaria,Bulgaria,Rapeseed,Yield,1999,1.1555555555555557
 Bulgaria,Bulgaria,Rapeseed,Yield,2000,1.2
@@ -586,6 +597,7 @@ Bulgaria,Bulgaria,Rapeseed,Yield,2018,2.5878326579783155
 Bulgaria,Bulgaria,Rapeseed,Yield,2019,2.8609512469405307
 Bulgaria,Bulgaria,Rapeseed,Yield,2020,2.3441329528286046
 Bulgaria,Bulgaria,Rapeseed,Yield,2021,2.872869046708967
+Bulgaria,Bulgaria,Rapeseed,Yield,2022,2.2843511450381677
 Bulgaria,Bulgaria,Rye,Yield,1987,1.6896551724137931
 Bulgaria,Bulgaria,Rye,Yield,1988,1.90625
 Bulgaria,Bulgaria,Rye,Yield,1989,2.08
@@ -621,6 +633,7 @@ Bulgaria,Bulgaria,Rye,Yield,2018,1.6923076923076923
 Bulgaria,Bulgaria,Rye,Yield,2019,1.9967213114754099
 Bulgaria,Bulgaria,Rye,Yield,2020,1.8710280373831776
 Bulgaria,Bulgaria,Rye,Yield,2021,2.2123197903014415
+Bulgaria,Bulgaria,Rye,Yield,2022,2.039759036144578
 Bulgaria,Bulgaria,Soft Wheat,Yield,1987,3.823963133640553
 Bulgaria,Bulgaria,Soft Wheat,Yield,1988,4.0126903553299496
 Bulgaria,Bulgaria,Soft Wheat,Yield,1989,4.76713532513181
@@ -654,7 +667,8 @@ Bulgaria,Bulgaria,Soft Wheat,Yield,2017,5.531957307929787
 Bulgaria,Bulgaria,Soft Wheat,Yield,2018,4.923172667279259
 Bulgaria,Bulgaria,Soft Wheat,Yield,2019,5.280276787515975
 Bulgaria,Bulgaria,Soft Wheat,Yield,2020,4.040423693987605
-Bulgaria,Bulgaria,Soft Wheat,Yield,2021,6.0775957836004775
+Bulgaria,Bulgaria,Soft Wheat,Yield,2021,6.091335833549109
+Bulgaria,Bulgaria,Soft Wheat,Yield,2022,5.350957983193277
 Bulgaria,Bulgaria,Soya,Yield,1987,0.9166666666666666
 Bulgaria,Bulgaria,Soya,Yield,1988,0.7083333333333334
 Bulgaria,Bulgaria,Soya,Yield,1989,1.0
@@ -680,7 +694,8 @@ Bulgaria,Bulgaria,Soya,Yield,2017,1.813529921942758
 Bulgaria,Bulgaria,Soya,Yield,2018,2.0387931034482762
 Bulgaria,Bulgaria,Soya,Yield,2019,1.961139896373057
 Bulgaria,Bulgaria,Soya,Yield,2020,1.3747228381374723
-Bulgaria,Bulgaria,Soya,Yield,2021,1.4170854271356783
+Bulgaria,Bulgaria,Soya,Yield,2021,1.4120603015075377
+Bulgaria,Bulgaria,Soya,Yield,2022,1.5533333333333335
 Bulgaria,Bulgaria,Spring barley,Yield,1999,2.1083916083916083
 Bulgaria,Bulgaria,Spring barley,Yield,2000,2.6489583333333333
 Bulgaria,Bulgaria,Spring barley,Yield,2001,3.017699115044248
@@ -703,7 +718,8 @@ Bulgaria,Bulgaria,Spring barley,Yield,2017,2.4888888888888885
 Bulgaria,Bulgaria,Spring barley,Yield,2018,2.5329341317365275
 Bulgaria,Bulgaria,Spring barley,Yield,2019,3.5371428571428574
 Bulgaria,Bulgaria,Spring barley,Yield,2020,3.1498470948012236
-Bulgaria,Bulgaria,Spring barley,Yield,2021,3.618677042801557
+Bulgaria,Bulgaria,Spring barley,Yield,2021,3.614785992217899
+Bulgaria,Bulgaria,Spring barley,Yield,2022,2.59
 Bulgaria,Bulgaria,Sunflower seed,Yield,1987,1.5413533834586466
 Bulgaria,Bulgaria,Sunflower seed,Yield,1988,1.5714285714285714
 Bulgaria,Bulgaria,Sunflower seed,Yield,1989,1.9083333333333334
@@ -731,6 +747,7 @@ Bulgaria,Bulgaria,Sunflower seed,Yield,2018,2.464915172571197
 Bulgaria,Bulgaria,Sunflower seed,Yield,2019,2.3753126685958117
 Bulgaria,Bulgaria,Sunflower seed,Yield,2020,2.1091225423398874
 Bulgaria,Bulgaria,Sunflower seed,Yield,2021,2.3936064652647433
+Bulgaria,Bulgaria,Sunflower seed,Yield,2022,2.275553121577218
 Bulgaria,Bulgaria,Winter barley,Yield,1987,3.698305084745763
 Bulgaria,Bulgaria,Winter barley,Yield,1988,3.8057971014492753
 Bulgaria,Bulgaria,Winter barley,Yield,1989,4.366666666666666
@@ -765,7 +782,8 @@ Bulgaria,Bulgaria,Winter barley,Yield,2017,4.828911109361468
 Bulgaria,Bulgaria,Winter barley,Yield,2018,4.361825318940137
 Bulgaria,Bulgaria,Winter barley,Yield,2019,5.050417120058034
 Bulgaria,Bulgaria,Winter barley,Yield,2020,4.3612048003765
-Bulgaria,Bulgaria,Winter barley,Yield,2021,5.621141102311298
+Bulgaria,Bulgaria,Winter barley,Yield,2021,5.614756748020042
+Bulgaria,Bulgaria,Winter barley,Yield,2022,5.102295081967213
 Denmark,Denmark,Barley,Yield,1955,3.6033409760890924
 Denmark,Denmark,Barley,Yield,1956,3.7096973440395304
 Denmark,Denmark,Barley,Yield,1957,3.701952277657267
@@ -832,8 +850,8 @@ Denmark,Denmark,Barley,Yield,2017,5.930087165614668
 Denmark,Denmark,Barley,Yield,2018,4.331912485854395
 Denmark,Denmark,Barley,Yield,2019,6.214951989026063
 Denmark,Denmark,Barley,Yield,2020,6.36328842620943
-Denmark,Denmark,Barley,Yield,2021,5.5797940797940795
-Denmark,Denmark,Barley,Yield,2022,6.4696564255038
+Denmark,Denmark,Barley,Yield,2021,5.569771557271557
+Denmark,Denmark,Barley,Yield,2022,6.736533767290481
 Denmark,Denmark,Corn,Yield,2010,4.754736842105263
 Denmark,Denmark,Corn,Yield,2011,5.156603773584905
 Denmark,Denmark,Corn,Yield,2012,5.754263565891473
@@ -845,8 +863,8 @@ Denmark,Denmark,Corn,Yield,2017,7.5392156862745106
 Denmark,Denmark,Corn,Yield,2018,5.631746031746031
 Denmark,Denmark,Corn,Yield,2019,7.5592592592592585
 Denmark,Denmark,Corn,Yield,2020,6.248387096774194
-Denmark,Denmark,Corn,Yield,2021,6.5484374999999995
-Denmark,Denmark,Corn,Yield,2022,7.116129032258064
+Denmark,Denmark,Corn,Yield,2021,7.0734375
+Denmark,Denmark,Corn,Yield,2022,6.377380952380952
 Denmark,Denmark,Oats,Yield,1955,3.243517474633596
 Denmark,Denmark,Oats,Yield,1956,3.3473477406679764
 Denmark,Denmark,Oats,Yield,1957,3.3365874363327674
@@ -913,8 +931,8 @@ Denmark,Denmark,Oats,Yield,2017,5.47772234646482
 Denmark,Denmark,Oats,Yield,2018,3.457111834961998
 Denmark,Denmark,Oats,Yield,2019,5.016839115439237
 Denmark,Denmark,Oats,Yield,2020,5.694448160535117
-Denmark,Denmark,Oats,Yield,2021,4.915393654524089
-Denmark,Denmark,Oats,Yield,2022,5.100323149236193
+Denmark,Denmark,Oats,Yield,2021,4.862808460634548
+Denmark,Denmark,Oats,Yield,2022,5.7181435963777485
 Denmark,Denmark,Rapeseed,Yield,1955,1.074074074074074
 Denmark,Denmark,Rapeseed,Yield,1956,1.1333333333333333
 Denmark,Denmark,Rapeseed,Yield,1957,2.2
@@ -981,8 +999,8 @@ Denmark,Denmark,Rapeseed,Yield,2017,4.179617117117117
 Denmark,Denmark,Rapeseed,Yield,2018,3.4298737727910242
 Denmark,Denmark,Rapeseed,Yield,2019,4.404833836858006
 Denmark,Denmark,Rapeseed,Yield,2020,3.8396161754626457
-Denmark,Denmark,Rapeseed,Yield,2021,4.007696570408226
-Denmark,Denmark,Rapeseed,Yield,2022,4.069010962678967
+Denmark,Denmark,Rapeseed,Yield,2021,4.008004926108374
+Denmark,Denmark,Rapeseed,Yield,2022,4.517764188608682
 Denmark,Denmark,Rye,Yield,1955,2.4753886010362693
 Denmark,Denmark,Rye,Yield,1956,2.6749539594843466
 Denmark,Denmark,Rye,Yield,1957,2.709342560553633
@@ -1049,8 +1067,8 @@ Denmark,Denmark,Rye,Yield,2017,6.416427289048474
 Denmark,Denmark,Rye,Yield,2018,5.1412081984897515
 Denmark,Denmark,Rye,Yield,2019,6.0266712141882675
 Denmark,Denmark,Rye,Yield,2020,6.065654813529922
-Denmark,Denmark,Rye,Yield,2021,6.270637119113574
-Denmark,Denmark,Rye,Yield,2022,6.2465
+Denmark,Denmark,Rye,Yield,2021,6.209510618651893
+Denmark,Denmark,Rye,Yield,2022,6.520550458715596
 Denmark,Denmark,Soft Wheat,Yield,1955,3.7964071856287425
 Denmark,Denmark,Soft Wheat,Yield,1956,4.048632218844984
 Denmark,Denmark,Soft Wheat,Yield,1957,4.242612752721618
@@ -1117,8 +1135,8 @@ Denmark,Denmark,Soft Wheat,Yield,2017,8.145056256392772
 Denmark,Denmark,Soft Wheat,Yield,2018,6.162353217472991
 Denmark,Denmark,Soft Wheat,Yield,2019,8.095727241018487
 Denmark,Denmark,Soft Wheat,Yield,2020,8.098706725029844
-Denmark,Denmark,Soft Wheat,Yield,2021,7.531802120141342
-Denmark,Denmark,Soft Wheat,Yield,2022,8.276472733904797
+Denmark,Denmark,Soft Wheat,Yield,2021,7.526669146364143
+Denmark,Denmark,Soft Wheat,Yield,2022,8.449165493665795
 Denmark,Denmark,Spring barley,Yield,1987,4.4748427672955975
 Denmark,Denmark,Spring barley,Yield,1988,4.605178571428572
 Denmark,Denmark,Spring barley,Yield,1989,4.830634573304157
@@ -1153,8 +1171,8 @@ Denmark,Denmark,Spring barley,Yield,2017,5.752349241583425
 Denmark,Denmark,Spring barley,Yield,2018,4.231610002809778
 Denmark,Denmark,Spring barley,Yield,2019,6.064136504653568
 Denmark,Denmark,Spring barley,Yield,2020,6.26360099044924
-Denmark,Denmark,Spring barley,Yield,2021,5.442574257425743
-Denmark,Denmark,Spring barley,Yield,2022,6.444187752108544
+Denmark,Denmark,Spring barley,Yield,2021,5.433149981664833
+Denmark,Denmark,Spring barley,Yield,2022,6.68945170660857
 Denmark,Denmark,Winter barley,Yield,1987,4.959677419354839
 Denmark,Denmark,Winter barley,Yield,1988,5.797777777777777
 Denmark,Denmark,Winter barley,Yield,1989,6.554216867469879
@@ -1189,8 +1207,8 @@ Denmark,Denmark,Winter barley,Yield,2017,6.7
 Denmark,Denmark,Winter barley,Yield,2018,5.18682634730539
 Denmark,Denmark,Winter barley,Yield,2019,6.9463390170511525
 Denmark,Denmark,Winter barley,Yield,2020,7.005239179954441
-Denmark,Denmark,Winter barley,Yield,2021,6.561942257217847
-Denmark,Denmark,Winter barley,Yield,2022,6.7011666666666665
+Denmark,Denmark,Winter barley,Yield,2021,6.54763779527559
+Denmark,Denmark,Winter barley,Yield,2022,7.143642072213501
 Estonia,Estonia,Barley,Yield,1987,2.3682114409847936
 Estonia,Estonia,Barley,Yield,1988,1.043284094812779
 Estonia,Estonia,Barley,Yield,1989,2.4016163035839773
@@ -1226,6 +1244,7 @@ Estonia,Estonia,Barley,Yield,2018,2.5092064408982595
 Estonia,Estonia,Barley,Yield,2019,4.240071324363754
 Estonia,Estonia,Barley,Yield,2020,4.292205308651419
 Estonia,Estonia,Barley,Yield,2021,3.2617676102699145
+Estonia,Estonia,Barley,Yield,2022,4.1998453475384485
 Estonia,Estonia,Oats,Yield,1987,2.108614232209738
 Estonia,Estonia,Oats,Yield,1988,0.7230769230769231
 Estonia,Estonia,Oats,Yield,1989,2.686635944700461
@@ -1261,6 +1280,7 @@ Estonia,Estonia,Oats,Yield,2018,1.9767969735182849
 Estonia,Estonia,Oats,Yield,2019,2.6111111111111116
 Estonia,Estonia,Oats,Yield,2020,2.874725810382647
 Estonia,Estonia,Oats,Yield,2021,1.9370157460634843
+Estonia,Estonia,Oats,Yield,2022,2.723894765391918
 Estonia,Estonia,Rapeseed,Yield,1988,0.6818181818181818
 Estonia,Estonia,Rapeseed,Yield,1989,1.0
 Estonia,Estonia,Rapeseed,Yield,1990,1.8333333333333335
@@ -1295,6 +1315,7 @@ Estonia,Estonia,Rapeseed,Yield,2018,1.5628783709411116
 Estonia,Estonia,Rapeseed,Yield,2019,2.642867007319431
 Estonia,Estonia,Rapeseed,Yield,2020,2.8612716763005777
 Estonia,Estonia,Rapeseed,Yield,2021,2.740266328471782
+Estonia,Estonia,Rapeseed,Yield,2022,2.5217441591487395
 Estonia,Estonia,Rye,Yield,1987,2.3046875
 Estonia,Estonia,Rye,Yield,1988,1.9616161616161616
 Estonia,Estonia,Rye,Yield,1989,2.503086419753086
@@ -1330,6 +1351,7 @@ Estonia,Estonia,Rye,Yield,2018,2.719815668202765
 Estonia,Estonia,Rye,Yield,2019,4.116955017301039
 Estonia,Estonia,Rye,Yield,2020,3.8057032382793614
 Estonia,Estonia,Rye,Yield,2021,3.6100840336134454
+Estonia,Estonia,Rye,Yield,2022,3.848348348348348
 Estonia,Estonia,Soft Wheat,Yield,1987,2.4154589371980677
 Estonia,Estonia,Soft Wheat,Yield,1988,1.5916666666666668
 Estonia,Estonia,Soft Wheat,Yield,1989,2.734567901234568
@@ -1365,6 +1387,7 @@ Estonia,Estonia,Soft Wheat,Yield,2018,2.9128606546771896
 Estonia,Estonia,Soft Wheat,Yield,2019,5.069948496825968
 Estonia,Estonia,Soft Wheat,Yield,2020,5.001904308497977
 Estonia,Estonia,Soft Wheat,Yield,2021,4.090388888888889
+Estonia,Estonia,Soft Wheat,Yield,2022,4.7196772945792125
 Estonia,Estonia,Spring barley,Yield,1987,2.3682114409847936
 Estonia,Estonia,Spring barley,Yield,1988,1.043284094812779
 Estonia,Estonia,Spring barley,Yield,1989,2.4016163035839773
@@ -1400,6 +1423,7 @@ Estonia,Estonia,Spring barley,Yield,2018,2.4919311663479924
 Estonia,Estonia,Spring barley,Yield,2019,4.09150819054792
 Estonia,Estonia,Spring barley,Yield,2020,4.044971834887801
 Estonia,Estonia,Spring barley,Yield,2021,2.79492731209403
+Estonia,Estonia,Spring barley,Yield,2022,3.9877717391304355
 Estonia,Estonia,Winter barley,Yield,2004,2.9999999999999996
 Estonia,Estonia,Winter barley,Yield,2005,2.2
 Estonia,Estonia,Winter barley,Yield,2006,2.4
@@ -1418,6 +1442,7 @@ Estonia,Estonia,Winter barley,Yield,2018,2.804657179818887
 Estonia,Estonia,Winter barley,Yield,2019,5.15967365967366
 Estonia,Estonia,Winter barley,Yield,2020,5.485294117647059
 Estonia,Estonia,Winter barley,Yield,2021,5.1076233183856505
+Estonia,Estonia,Winter barley,Yield,2022,4.684448207733559
 Finland,Finland,Barley,Yield,1984,3.0516014234875444
 Finland,Finland,Barley,Yield,1985,2.869969040247678
 Finland,Finland,Barley,Yield,1986,2.9077027485578553
@@ -1455,7 +1480,8 @@ Finland,Finland,Barley,Yield,2017,4.122467206251744
 Finland,Finland,Barley,Yield,2018,3.3403850901012095
 Finland,Finland,Barley,Yield,2019,4.277356119628047
 Finland,Finland,Barley,Yield,2020,3.5653404743687833
-Finland,Finland,Barley,Yield,2021,2.6914948453608245
+Finland,Finland,Barley,Yield,2021,2.694934914293079
+Finland,Finland,Barley,Yield,2022,3.7893048411898826
 Finland,Finland,Oats,Yield,1986,2.912946428571429
 Finland,Finland,Oats,Yield,1987,1.9678911564625852
 Finland,Finland,Oats,Yield,1988,2.210675605982465
@@ -1491,7 +1517,8 @@ Finland,Finland,Oats,Yield,2017,3.814656771799629
 Finland,Finland,Oats,Yield,2018,2.8802216834083825
 Finland,Finland,Oats,Yield,2019,3.9915294117647058
 Finland,Finland,Oats,Yield,2020,3.7370107858243453
-Finland,Finland,Oats,Yield,2021,2.5529598981540422
+Finland,Finland,Oats,Yield,2021,2.555562627291242
+Finland,Finland,Oats,Yield,2022,3.6474069554606463
 Finland,Finland,Rapeseed,Yield,1986,1.6498002663115847
 Finland,Finland,Rapeseed,Yield,1987,1.0859564164648912
 Finland,Finland,Rapeseed,Yield,1988,1.4016203703703702
@@ -1527,7 +1554,8 @@ Finland,Finland,Rapeseed,Yield,2017,1.6630434782608694
 Finland,Finland,Rapeseed,Yield,2018,1.330206378986867
 Finland,Finland,Rapeseed,Yield,2019,1.33015873015873
 Finland,Finland,Rapeseed,Yield,2020,1.2702040816326532
-Finland,Finland,Rapeseed,Yield,2021,1.2142857142857144
+Finland,Finland,Rapeseed,Yield,2021,1.2035630841121494
+Finland,Finland,Rapeseed,Yield,2022,1.3737524950099802
 Finland,Finland,Rye,Yield,1986,2.6541353383458643
 Finland,Finland,Rye,Yield,1987,1.9681697612732094
 Finland,Finland,Rye,Yield,1988,1.9101562499999998
@@ -1563,7 +1591,8 @@ Finland,Finland,Rye,Yield,2017,3.9868512110726644
 Finland,Finland,Rye,Yield,2018,2.6213414634146344
 Finland,Finland,Rye,Yield,2019,4.888126649076517
 Finland,Finland,Rye,Yield,2020,3.658823529411765
-Finland,Finland,Rye,Yield,2021,3.721428571428572
+Finland,Finland,Rye,Yield,2021,3.7343234323432344
+Finland,Finland,Rye,Yield,2022,3.3517457008858775
 Finland,Finland,Soft Wheat,Yield,1986,3.191194209891435
 Finland,Finland,Soft Wheat,Yield,1987,2.020848310567937
 Finland,Finland,Soft Wheat,Yield,1988,2.60384263494968
@@ -1599,7 +1628,8 @@ Finland,Finland,Soft Wheat,Yield,2017,4.180442614513638
 Finland,Finland,Soft Wheat,Yield,2018,2.8211473565804273
 Finland,Finland,Soft Wheat,Yield,2019,4.626417004048583
 Finland,Finland,Soft Wheat,Yield,2020,3.4538229376257545
-Finland,Finland,Soft Wheat,Yield,2021,3.235216572504708
+Finland,Finland,Soft Wheat,Yield,2021,3.235064262511181
+Finland,Finland,Soft Wheat,Yield,2022,3.7602660239242995
 Finland,Finland,Spring barley,Yield,1984,3.0516014234875444
 Finland,Finland,Spring barley,Yield,1985,2.869969040247678
 Finland,Finland,Spring barley,Yield,1986,2.868284518828452
@@ -1636,7 +1666,8 @@ Finland,Finland,Spring barley,Yield,2017,4.1220070324273035
 Finland,Finland,Spring barley,Yield,2018,3.3403850901012095
 Finland,Finland,Spring barley,Yield,2019,4.277356119628047
 Finland,Finland,Spring barley,Yield,2020,3.5653404743687833
-Finland,Finland,Spring barley,Yield,2021,2.6914948453608245
+Finland,Finland,Spring barley,Yield,2021,2.6945876288659796
+Finland,Finland,Spring barley,Yield,2022,3.7893048411898826
 Finland,Finland,Sunflower seed,Yield,1997,1.0
 Finland,Finland,Sunflower seed,Yield,1998,0.5
 Finland,Finland,Sunflower seed,Yield,1999,0.5
@@ -1708,8 +1739,8 @@ France,France,Barley,Yield,2017,6.2714582698991
 France,France,Barley,Yield,2018,6.246044898951905
 France,France,Barley,Yield,2019,6.977414758845586
 France,France,Barley,Yield,2020,5.209007894456641
-France,France,Barley,Yield,2021,6.542689551548774
-France,France,Barley,Yield,2022,6.104471703433765
+France,France,Barley,Yield,2021,6.542716297670441
+France,France,Barley,Yield,2022,6.050044086969613
 France,France,Corn,Yield,2000,8.97106754306437
 France,France,Corn,Yield,2001,8.471869129618034
 France,France,Corn,Yield,2002,8.874728275711398
@@ -1731,8 +1762,8 @@ France,France,Corn,Yield,2017,10.006192101413944
 France,France,Corn,Yield,2018,8.82057268660693
 France,France,Corn,Yield,2019,8.528663435362859
 France,France,Corn,Yield,2020,7.935013866467982
-France,France,Corn,Yield,2021,9.880086871089508
-France,France,Corn,Yield,2022,8.571047853937587
+France,France,Corn,Yield,2021,9.911650059373224
+France,France,Corn,Yield,2022,7.452377635043819
 France,France,Oats,Yield,1955,1.7525882409592142
 France,France,Oats,Yield,1956,2.0222241742796907
 France,France,Oats,Yield,1957,1.6042418211220302
@@ -1799,8 +1830,8 @@ France,France,Oats,Yield,2017,4.68788066025245
 France,France,Oats,Yield,2018,4.609060219971687
 France,France,Oats,Yield,2019,4.60066308448611
 France,France,Oats,Yield,2020,3.9284841075794623
-France,France,Oats,Yield,2021,4.478362245849655
-France,France,Oats,Yield,2022,4.36455925218615
+France,France,Oats,Yield,2021,4.478443449048153
+France,France,Oats,Yield,2022,3.8995655771617703
 France,France,Rapeseed,Yield,1955,1.4723756906077345
 France,France,Rapeseed,Yield,1956,1.397923875432526
 France,France,Rapeseed,Yield,1957,1.4865116279069768
@@ -1867,8 +1898,8 @@ France,France,Rapeseed,Yield,2017,3.824228720945941
 France,France,Rapeseed,Yield,2018,3.080892495932797
 France,France,Rapeseed,Yield,2019,3.1826311605723374
 France,France,Rapeseed,Yield,2020,2.9598721654667215
-France,France,Rapeseed,Yield,2021,3.3528919633109893
-France,France,Rapeseed,Yield,2022,3.5736774575602057
+France,France,Rapeseed,Yield,2021,3.373552487935274
+France,France,Rapeseed,Yield,2022,3.6736319462561964
 France,France,Rye,Yield,1955,1.1508379888268156
 France,France,Rye,Yield,1956,1.282189103347178
 France,France,Rye,Yield,1957,1.3336763570877284
@@ -1935,8 +1966,8 @@ France,France,Rye,Yield,2017,4.482844150475403
 France,France,Rye,Yield,2018,4.439263803680982
 France,France,Rye,Yield,2019,4.711451444483119
 France,France,Rye,Yield,2020,4.141420490257699
-France,France,Rye,Yield,2021,4.350057803468208
-France,France,Rye,Yield,2022,4.1923730871994165
+France,France,Rye,Yield,2021,4.49537251272559
+France,France,Rye,Yield,2022,3.798067632850242
 France,France,Soft Wheat,Yield,1955,2.278773730344007
 France,France,Soft Wheat,Yield,1956,2.0710145455871096
 France,France,Soft Wheat,Yield,1957,2.3756064053578325
@@ -2003,8 +2034,8 @@ France,France,Soft Wheat,Yield,2017,7.2820329378002775
 France,France,Soft Wheat,Yield,2018,6.895100825579227
 France,France,Soft Wheat,Yield,2019,7.813347336834209
 France,France,Soft Wheat,Yield,2020,6.768036555399878
-France,France,Soft Wheat,Yield,2021,7.033138194217273
-France,France,Soft Wheat,Yield,2022,7.1299907782281
+France,France,Soft Wheat,Yield,2021,7.021539344627507
+France,France,Soft Wheat,Yield,2022,7.09233624705396
 France,France,Soya,Yield,1971,2.5
 France,France,Soya,Yield,1972,2.5
 France,France,Soya,Yield,1973,2.0
@@ -2055,7 +2086,8 @@ France,France,Soya,Yield,2017,2.921314249453571
 France,France,Soya,Yield,2018,2.5900552486187847
 France,France,Soya,Yield,2019,2.6161782661782658
 France,France,Soya,Yield,2020,2.1779670094258785
-France,France,Soya,Yield,2021,2.8460940536338906
+France,France,Soya,Yield,2021,2.8458997279440346
+France,France,Soya,Yield,2022,2.1428256799911902
 France,France,Spring barley,Yield,1955,2.078041740674956
 France,France,Spring barley,Yield,1956,2.8742223677440477
 France,France,Spring barley,Yield,1957,2.274881883665092
@@ -2121,8 +2153,8 @@ France,France,Spring barley,Yield,2017,5.8544913014320095
 France,France,Spring barley,Yield,2018,6.18735290474421
 France,France,Spring barley,Yield,2019,6.926131117266851
 France,France,Spring barley,Yield,2020,4.8336562169778094
-France,France,Spring barley,Yield,2021,6.02983219390926
-France,France,Spring barley,Yield,2022,5.248985502064749
+France,France,Spring barley,Yield,2021,6.029909217614042
+France,France,Spring barley,Yield,2022,5.097239825376707
 France,France,Sunflower seed,Yield,1955,1.4615384615384615
 France,France,Sunflower seed,Yield,1956,1.4285714285714286
 France,France,Sunflower seed,Yield,1957,1.3214285714285716
@@ -2189,7 +2221,8 @@ France,France,Sunflower seed,Yield,2017,2.727496033979837
 France,France,Sunflower seed,Yield,2018,2.244425525748546
 France,France,Sunflower seed,Yield,2019,2.1495231156444565
 France,France,Sunflower seed,Yield,2020,2.064594039054471
-France,France,Sunflower seed,Yield,2021,2.7370584107800036
+France,France,Sunflower seed,Yield,2021,2.7391173606735784
+France,France,Sunflower seed,Yield,2022,2.128853920553079
 France,France,Winter barley,Yield,1955,1.9362424242424243
 France,France,Winter barley,Yield,1956,1.8541810642709056
 France,France,Winter barley,Yield,1957,1.9601706970128023
@@ -2256,8 +2289,8 @@ France,France,Winter barley,Yield,2017,6.4226829198500575
 France,France,Winter barley,Yield,2018,6.2681853239741665
 France,France,Winter barley,Yield,2019,7.002528309403779
 France,France,Winter barley,Yield,2020,5.462436828470718
-France,France,Winter barley,Yield,2021,6.769715614917086
-France,France,Winter barley,Yield,2022,6.476985949480403
+France,France,Winter barley,Yield,2021,6.769723952210633
+France,France,Winter barley,Yield,2022,6.469021890578072
 Germany,Germany,Barley,Yield,1955,2.666368400869232
 Germany,Germany,Barley,Yield,1956,2.709211598928613
 Germany,Germany,Barley,Yield,1957,2.869733987898162
@@ -2325,7 +2358,7 @@ Germany,Germany,Barley,Yield,2018,5.766305655836342
 Germany,Germany,Barley,Yield,2019,6.7834152621722845
 Germany,Germany,Barley,Yield,2020,6.459065555089067
 Germany,Germany,Barley,Yield,2021,6.762650211107503
-Germany,Germany,Barley,Yield,2022,7.120360451194151
+Germany,Germany,Barley,Yield,2022,7.081448249715659
 Germany,Germany,Corn,Yield,2000,9.212860310421286
 Germany,Germany,Corn,Yield,2001,8.838587641866331
 Germany,Germany,Corn,Yield,2002,9.376473539001756
@@ -2348,7 +2381,7 @@ Germany,Germany,Corn,Yield,2018,8.138963251399367
 Germany,Germany,Corn,Yield,2019,8.809615384615386
 Germany,Germany,Corn,Yield,2020,9.587407584068686
 Germany,Germany,Corn,Yield,2021,10.36080798699791
-Germany,Germany,Corn,Yield,2022,7.508365508365508
+Germany,Germany,Corn,Yield,2022,8.402452375738998
 Germany,Germany,Oats,Yield,1955,2.5522266381330887
 Germany,Germany,Oats,Yield,1956,2.5689334435717237
 Germany,Germany,Oats,Yield,1957,2.4547834624195484
@@ -2416,7 +2449,7 @@ Germany,Germany,Oats,Yield,2018,4.113960113960114
 Germany,Germany,Oats,Yield,2019,4.111638954869359
 Germany,Germany,Oats,Yield,2020,4.595162316995545
 Germany,Germany,Oats,Yield,2021,4.323181049069373
-Germany,Germany,Oats,Yield,2022,4.5866583541147135
+Germany,Germany,Oats,Yield,2022,4.713928794503436
 Germany,Germany,Rapeseed,Yield,1955,1.7583333333333335
 Germany,Germany,Rapeseed,Yield,1956,2.1666666666666665
 Germany,Germany,Rapeseed,Yield,1957,2.216393442622951
@@ -2484,7 +2517,7 @@ Germany,Germany,Rapeseed,Yield,2018,2.9937311731661644
 Germany,Germany,Rapeseed,Yield,2019,3.303221288515406
 Germany,Germany,Rapeseed,Yield,2020,3.683094914900282
 Germany,Germany,Rapeseed,Yield,2021,3.5014486961734437
-Germany,Germany,Rapeseed,Yield,2022,3.9378614043139057
+Germany,Germany,Rapeseed,Yield,2022,3.954879617717331
 Germany,Germany,Rye,Yield,1955,2.373028644995172
 Germany,Germany,Rye,Yield,1956,2.5176917138445702
 Germany,Germany,Rye,Yield,1957,2.6101518888744644
@@ -2551,7 +2584,7 @@ Germany,Germany,Rye,Yield,2018,4.209177820267686
 Germany,Germany,Rye,Yield,2019,5.088165959453089
 Germany,Germany,Rye,Yield,2020,5.524213836477988
 Germany,Germany,Rye,Yield,2021,5.270364500792393
-Germany,Germany,Rye,Yield,2022,5.298391193903472
+Germany,Germany,Rye,Yield,2022,5.322514868309261
 Germany,Germany,Soft Wheat,Yield,1955,2.8792111054680887
 Germany,Germany,Soft Wheat,Yield,1956,3.0213797282091233
 Germany,Germany,Soft Wheat,Yield,1957,3.1422655298416564
@@ -2619,7 +2652,7 @@ Germany,Germany,Soft Wheat,Yield,2018,6.694631095735481
 Germany,Germany,Soft Wheat,Yield,2019,7.421485729095799
 Germany,Germany,Soft Wheat,Yield,2020,7.8490094592182755
 Germany,Germany,Soft Wheat,Yield,2021,7.324556264001379
-Germany,Germany,Soft Wheat,Yield,2022,7.583092951437201
+Germany,Germany,Soft Wheat,Yield,2022,7.60821060508146
 Germany,Germany,Soya,Yield,1987,2.0
 Germany,Germany,Soya,Yield,1988,2.578125
 Germany,Germany,Soya,Yield,1989,2.7074468085106385
@@ -2629,6 +2662,7 @@ Germany,Germany,Soya,Yield,2018,2.4356846473029043
 Germany,Germany,Soya,Yield,2019,2.9100346020761245
 Germany,Germany,Soya,Yield,2020,2.6775147928994083
 Germany,Germany,Soya,Yield,2021,3.116959064327485
+Germany,Germany,Soya,Yield,2022,2.479611650485437
 Germany,Germany,Spring barley,Yield,1955,2.54
 Germany,Germany,Spring barley,Yield,1956,2.617772871533048
 Germany,Germany,Spring barley,Yield,1957,2.69660822075309
@@ -2696,7 +2730,7 @@ Germany,Germany,Spring barley,Yield,2018,4.95447409733124
 Germany,Germany,Spring barley,Yield,2019,5.123844214065565
 Germany,Germany,Spring barley,Yield,2020,5.484723369116432
 Germany,Germany,Spring barley,Yield,2021,5.092828418230564
-Germany,Germany,Spring barley,Yield,2022,5.368733153638814
+Germany,Germany,Spring barley,Yield,2022,5.324440851522501
 Germany,Germany,Sunflower seed,Yield,1987,3.2
 Germany,Germany,Sunflower seed,Yield,1988,3.4
 Germany,Germany,Sunflower seed,Yield,1989,3.2995234853641935
@@ -2728,6 +2762,7 @@ Germany,Germany,Sunflower seed,Yield,2018,1.8205128205128205
 Germany,Germany,Sunflower seed,Yield,2019,2.0444444444444443
 Germany,Germany,Sunflower seed,Yield,2020,2.0567375886524824
 Germany,Germany,Sunflower seed,Yield,2021,2.6031331592689297
+Germany,Germany,Sunflower seed,Yield,2022,1.8621495327102806
 Germany,Germany,Winter barley,Yield,1955,3.234012649332396
 Germany,Germany,Winter barley,Yield,1956,3.2037313432835823
 Germany,Germany,Winter barley,Yield,1957,3.53858967240422
@@ -2795,7 +2830,7 @@ Germany,Germany,Winter barley,Yield,2018,6.06389277197599
 Germany,Germany,Winter barley,Yield,2019,7.221540054737775
 Germany,Germany,Winter barley,Yield,2020,6.730005367686528
 Germany,Germany,Winter barley,Yield,2021,7.164128595600677
-Germany,Germany,Winter barley,Yield,2022,7.6548235874660735
+Germany,Germany,Winter barley,Yield,2022,7.6197276104003295
 Hungary,Hungary,Barley,Yield,1987,3.873170731707317
 Hungary,Hungary,Barley,Yield,1988,4.481060606060606
 Hungary,Hungary,Barley,Yield,1989,4.734982332155477
@@ -2830,8 +2865,8 @@ Hungary,Hungary,Barley,Yield,2017,5.283422858848105
 Hungary,Hungary,Barley,Yield,2018,4.691567350616374
 Hungary,Hungary,Barley,Yield,2019,5.591866434895096
 Hungary,Hungary,Barley,Yield,2020,5.677366286632489
-Hungary,Hungary,Barley,Yield,2021,6.389191831822797
-Hungary,Hungary,Barley,Yield,2022,4.395711500974659
+Hungary,Hungary,Barley,Yield,2021,6.372175272700197
+Hungary,Hungary,Barley,Yield,2022,4.804818675488421
 Hungary,Hungary,Corn,Yield,2000,4.1304099941309635
 Hungary,Hungary,Corn,Yield,2001,6.173062554645895
 Hungary,Hungary,Corn,Yield,2002,5.017191905788688
@@ -2853,8 +2888,8 @@ Hungary,Hungary,Corn,Yield,2017,6.77575291761898
 Hungary,Hungary,Corn,Yield,2018,8.44503130723687
 Hungary,Hungary,Corn,Yield,2019,8.008729162409134
 Hungary,Hungary,Corn,Yield,2020,8.52736465479455
-Hungary,Hungary,Corn,Yield,2021,6.0058287237204135
-Hungary,Hungary,Corn,Yield,2022,3.1702142813536556
+Hungary,Hungary,Corn,Yield,2021,6.092179750988555
+Hungary,Hungary,Corn,Yield,2022,3.4013254247217337
 Hungary,Hungary,Oats,Yield,1987,2.475
 Hungary,Hungary,Oats,Yield,1988,3.2857142857142856
 Hungary,Hungary,Oats,Yield,1989,3.311111111111111
@@ -2887,8 +2922,8 @@ Hungary,Hungary,Oats,Yield,2017,2.545234899328859
 Hungary,Hungary,Oats,Yield,2018,2.6208572691117986
 Hungary,Hungary,Oats,Yield,2019,3.2296738631143778
 Hungary,Hungary,Oats,Yield,2020,2.9879658385093166
-Hungary,Hungary,Oats,Yield,2021,3.1534795042897996
-Hungary,Hungary,Oats,Yield,2022,2.343328987396784
+Hungary,Hungary,Oats,Yield,2021,3.062699680511182
+Hungary,Hungary,Oats,Yield,2022,2.3763440860215055
 Hungary,Hungary,Rapeseed,Yield,1991,1.7230769230769232
 Hungary,Hungary,Rapeseed,Yield,1992,1.2941176470588236
 Hungary,Hungary,Rapeseed,Yield,1993,1.0
@@ -2919,8 +2954,8 @@ Hungary,Hungary,Rapeseed,Yield,2017,3.0762681099633675
 Hungary,Hungary,Rapeseed,Yield,2018,3.0333676185866407
 Hungary,Hungary,Rapeseed,Yield,2019,3.034331337325349
 Hungary,Hungary,Rapeseed,Yield,2020,2.8285271917940777
-Hungary,Hungary,Rapeseed,Yield,2021,2.813828335218188
-Hungary,Hungary,Rapeseed,Yield,2022,2.1759862121792417
+Hungary,Hungary,Rapeseed,Yield,2021,2.850120369651316
+Hungary,Hungary,Rapeseed,Yield,2022,2.1635388739946384
 Hungary,Hungary,Rye,Yield,1996,1.694915254237288
 Hungary,Hungary,Rye,Yield,1997,2.264705882352941
 Hungary,Hungary,Rye,Yield,1998,2.103338632750398
@@ -2944,8 +2979,8 @@ Hungary,Hungary,Rye,Yield,2017,3.2839413313275667
 Hungary,Hungary,Rye,Yield,2018,3.36599313762867
 Hungary,Hungary,Rye,Yield,2019,3.4903623747108714
 Hungary,Hungary,Rye,Yield,2020,3.2024260803639124
-Hungary,Hungary,Rye,Yield,2021,3.1841183339820938
-Hungary,Hungary,Rye,Yield,2022,2.915289876839892
+Hungary,Hungary,Rye,Yield,2021,3.3077821011673154
+Hungary,Hungary,Rye,Yield,2022,3.0067885117493476
 Hungary,Hungary,Soft Wheat,Yield,1998,4.143502343417128
 Hungary,Hungary,Soft Wheat,Yield,1999,3.597320071833126
 Hungary,Hungary,Soft Wheat,Yield,2000,3.592254358161648
@@ -2969,8 +3004,8 @@ Hungary,Hungary,Soft Wheat,Yield,2017,5.453517291653266
 Hungary,Hungary,Soft Wheat,Yield,2018,5.142522507842099
 Hungary,Hungary,Soft Wheat,Yield,2019,5.32863331698545
 Hungary,Hungary,Soft Wheat,Yield,2020,5.49772979628632
-Hungary,Hungary,Soft Wheat,Yield,2021,5.98784113343398
-Hungary,Hungary,Soft Wheat,Yield,2022,4.27136004951261
+Hungary,Hungary,Soft Wheat,Yield,2021,5.939870265261208
+Hungary,Hungary,Soft Wheat,Yield,2022,4.4313693309261994
 Hungary,Hungary,Soya,Yield,1987,1.9166666666666667
 Hungary,Hungary,Soya,Yield,1988,1.5909090909090908
 Hungary,Hungary,Soya,Yield,1989,2.185185185185185
@@ -3005,7 +3040,8 @@ Hungary,Hungary,Soya,Yield,2017,2.369234835469803
 Hungary,Hungary,Soya,Yield,2018,2.9175788795878947
 Hungary,Hungary,Soya,Yield,2019,2.9120728147003265
 Hungary,Hungary,Soya,Yield,2020,2.8252940173853758
-Hungary,Hungary,Soya,Yield,2021,2.6066891783244897
+Hungary,Hungary,Soya,Yield,2021,2.5206052801030268
+Hungary,Hungary,Soya,Yield,2022,1.8483880336915481
 Hungary,Hungary,Spring barley,Yield,1996,2.7719298245614037
 Hungary,Hungary,Spring barley,Yield,1997,3.0246305418719213
 Hungary,Hungary,Spring barley,Yield,1998,3.1326844262295084
@@ -3029,8 +3065,8 @@ Hungary,Hungary,Spring barley,Yield,2017,4.390848427073403
 Hungary,Hungary,Spring barley,Yield,2018,2.75099963649582
 Hungary,Hungary,Spring barley,Yield,2019,4.541022592152199
 Hungary,Hungary,Spring barley,Yield,2020,4.306677329068372
-Hungary,Hungary,Spring barley,Yield,2021,4.723420074349443
-Hungary,Hungary,Spring barley,Yield,2022,3.8493217054263567
+Hungary,Hungary,Spring barley,Yield,2021,4.843875685557586
+Hungary,Hungary,Spring barley,Yield,2022,4.300965665236052
 Hungary,Hungary,Sunflower seed,Yield,1987,2.124338624338624
 Hungary,Hungary,Sunflower seed,Yield,1988,1.9724517906336088
 Hungary,Hungary,Sunflower seed,Yield,1989,1.9634831460674158
@@ -3065,7 +3101,8 @@ Hungary,Hungary,Sunflower seed,Yield,2017,2.9117545425749416
 Hungary,Hungary,Sunflower seed,Yield,2018,2.9666585622821944
 Hungary,Hungary,Sunflower seed,Yield,2019,3.025739660704472
 Hungary,Hungary,Sunflower seed,Yield,2020,2.7718628075158755
-Hungary,Hungary,Sunflower seed,Yield,2021,2.698043241752348
+Hungary,Hungary,Sunflower seed,Yield,2021,2.6847973850219184
+Hungary,Hungary,Sunflower seed,Yield,2022,1.631472486146921
 Hungary,Hungary,Winter barley,Yield,1996,2.9025974025974026
 Hungary,Hungary,Winter barley,Yield,1997,4.287425149700598
 Hungary,Hungary,Winter barley,Yield,1998,3.9902130109383998
@@ -3089,8 +3126,8 @@ Hungary,Hungary,Winter barley,Yield,2017,5.449053599858482
 Hungary,Hungary,Winter barley,Yield,2018,4.937967322071448
 Hungary,Hungary,Winter barley,Yield,2019,5.711475262233828
 Hungary,Hungary,Winter barley,Yield,2020,5.822397089309134
-Hungary,Hungary,Winter barley,Yield,2021,6.57667043219949
-Hungary,Hungary,Winter barley,Yield,2022,4.4311819840221425
+Hungary,Hungary,Winter barley,Yield,2021,6.545428168780569
+Hungary,Hungary,Winter barley,Yield,2022,4.835906952084301
 Italy,Italy,Barley,Yield,1955,1.1974548440065682
 Italy,Italy,Barley,Yield,1956,1.1621052631578948
 Italy,Italy,Barley,Yield,1957,1.2921936327954644
@@ -3158,7 +3195,7 @@ Italy,Italy,Barley,Yield,2018,3.9659783602560195
 Italy,Italy,Barley,Yield,2019,4.227037986305038
 Italy,Italy,Barley,Yield,2020,4.265763200850321
 Italy,Italy,Barley,Yield,2021,4.337345090562441
-Italy,Italy,Barley,Yield,2022,4.285599725054416
+Italy,Italy,Barley,Yield,2022,4.323033288550531
 Italy,Italy,Corn,Yield,2000,9.422433245581047
 Italy,Italy,Corn,Yield,2001,9.403209231046606
 Italy,Italy,Corn,Yield,2002,9.38099820143885
@@ -3181,7 +3218,7 @@ Italy,Italy,Corn,Yield,2018,10.48552967642631
 Italy,Italy,Corn,Yield,2019,9.985877862595421
 Italy,Italy,Corn,Yield,2020,11.268171714825996
 Italy,Italy,Corn,Yield,2021,10.329527692830444
-Italy,Italy,Corn,Yield,2022,8.97666055807199
+Italy,Italy,Corn,Yield,2022,8.33274791555792
 Italy,Italy,Oats,Yield,1955,1.2073817762399077
 Italy,Italy,Oats,Yield,1956,1.1959858323494688
 Italy,Italy,Oats,Yield,1957,1.3853298404381997
@@ -3249,7 +3286,7 @@ Italy,Italy,Oats,Yield,2018,2.323871568171242
 Italy,Italy,Oats,Yield,2019,2.353887657770498
 Italy,Italy,Oats,Yield,2020,2.407017204716799
 Italy,Italy,Oats,Yield,2021,2.407578651120716
-Italy,Italy,Oats,Yield,2022,2.282369282666931
+Italy,Italy,Oats,Yield,2022,2.3877629430410146
 Italy,Italy,Rapeseed,Yield,1955,1.3972602739726028
 Italy,Italy,Rapeseed,Yield,1956,0.9552238805970149
 Italy,Italy,Rapeseed,Yield,1957,1.2875
@@ -3317,7 +3354,7 @@ Italy,Italy,Rapeseed,Yield,2018,2.749307479224377
 Italy,Italy,Rapeseed,Yield,2019,2.6848056537102476
 Italy,Italy,Rapeseed,Yield,2020,2.8896142433234417
 Italy,Italy,Rapeseed,Yield,2021,3.0850111856823266
-Italy,Italy,Rapeseed,Yield,2022,2.9181514476614696
+Italy,Italy,Rapeseed,Yield,2022,2.886096256684492
 Italy,Italy,Rye,Yield,1955,1.5323383084577114
 Italy,Italy,Rye,Yield,1956,1.4397260273972603
 Italy,Italy,Rye,Yield,1957,1.2935393258426966
@@ -3382,7 +3419,7 @@ Italy,Italy,Rye,Yield,2018,3.1016949152542375
 Italy,Italy,Rye,Yield,2019,3.3017902813299234
 Italy,Italy,Rye,Yield,2020,3.3016759776536313
 Italy,Italy,Rye,Yield,2021,3.355300859598854
-Italy,Italy,Rye,Yield,2022,3.116477272727273
+Italy,Italy,Rye,Yield,2022,3.210382513661202
 Italy,Italy,Soft Wheat,Yield,1955,2.2920418239907057
 Italy,Italy,Soft Wheat,Yield,1956,2.0645483043602164
 Italy,Italy,Soft Wheat,Yield,1957,1.899203413940256
@@ -3449,7 +3486,7 @@ Italy,Italy,Soft Wheat,Yield,2018,5.2419568578370015
 Italy,Italy,Soft Wheat,Yield,2019,5.249491218813598
 Italy,Italy,Soft Wheat,Yield,2020,5.442771565495207
 Italy,Italy,Soft Wheat,Yield,2021,6.260845997871956
-Italy,Italy,Soft Wheat,Yield,2022,5.342949542464444
+Italy,Italy,Soft Wheat,Yield,2022,5.231898583811274
 Italy,Italy,Soya,Yield,1955,1.3333333333333335
 Italy,Italy,Soya,Yield,1956,1.3333333333333335
 Italy,Italy,Soya,Yield,1957,2.0
@@ -3515,8 +3552,9 @@ Italy,Italy,Soya,Yield,2018,3.632536207477265
 Italy,Italy,Soya,Yield,2019,3.815278235100428
 Italy,Italy,Soya,Yield,2020,3.926248389489712
 Italy,Italy,Soya,Yield,2021,3.2350241715126464
+Italy,Italy,Soya,Yield,2022,2.754211309958252
 Italy,Italy,Spring barley,Yield,2021,3.004362050163577
-Italy,Italy,Spring barley,Yield,2022,2.7947693425354156
+Italy,Italy,Spring barley,Yield,2022,2.854338842975207
 Italy,Italy,Sunflower seed,Yield,1955,1.3214285714285716
 Italy,Italy,Sunflower seed,Yield,1956,1.4444444444444444
 Italy,Italy,Sunflower seed,Yield,1957,1.4864864864864864
@@ -3584,6 +3622,7 @@ Italy,Italy,Sunflower seed,Yield,2018,2.4112833349379033
 Italy,Italy,Sunflower seed,Yield,2019,2.486753290583868
 Italy,Italy,Sunflower seed,Yield,2020,2.442616274334121
 Italy,Italy,Sunflower seed,Yield,2021,2.413881528335755
+Italy,Italy,Sunflower seed,Yield,2022,2.400559465800397
 Italy,Italy,Winter barley,Yield,2006,3.876625340187481
 Italy,Italy,Winter barley,Yield,2007,3.5546852335364085
 Italy,Italy,Winter barley,Yield,2008,3.741906202723147
@@ -3599,8 +3638,8 @@ Italy,Italy,Winter barley,Yield,2017,4.048018201413004
 Italy,Italy,Winter barley,Yield,2018,3.9659783602560195
 Italy,Italy,Winter barley,Yield,2019,4.227037986305038
 Italy,Italy,Winter barley,Yield,2020,4.265763200850321
-Italy,Italy,Winter barley,Yield,2021,4.387510305028854
-Italy,Italy,Winter barley,Yield,2022,4.460740803960058
+Italy,Italy,Winter barley,Yield,2021,4.3875515251442705
+Italy,Italy,Winter barley,Yield,2022,4.378078054824222
 Latvia,Latvia,Barley,Yield,1987,2.2555306984837187
 Latvia,Latvia,Barley,Yield,1988,1.4187694924865324
 Latvia,Latvia,Barley,Yield,1989,2.112451009948749
@@ -3635,7 +3674,7 @@ Latvia,Latvia,Barley,Yield,2018,2.5891800507185123
 Latvia,Latvia,Barley,Yield,2019,3.5184331797235022
 Latvia,Latvia,Barley,Yield,2020,3.6587677725118484
 Latvia,Latvia,Barley,Yield,2021,2.892761394101877
-Latvia,Latvia,Barley,Yield,2022,3.6106770833333335
+Latvia,Latvia,Barley,Yield,2022,3.666666666666667
 Latvia,Latvia,Oats,Yield,1987,2.2451708766716196
 Latvia,Latvia,Oats,Yield,1988,1.369465648854962
 Latvia,Latvia,Oats,Yield,1989,1.974867724867725
@@ -3670,7 +3709,7 @@ Latvia,Latvia,Oats,Yield,2018,2.1682027649769586
 Latvia,Latvia,Oats,Yield,2019,2.858173076923077
 Latvia,Latvia,Oats,Yield,2020,2.946775844421699
 Latvia,Latvia,Oats,Yield,2021,2.0974770642201834
-Latvia,Latvia,Oats,Yield,2022,3.6225490196078436
+Latvia,Latvia,Oats,Yield,2022,2.7378048780487805
 Latvia,Latvia,Rapeseed,Yield,1990,2.0
 Latvia,Latvia,Rapeseed,Yield,1991,1.2857142857142858
 Latvia,Latvia,Rapeseed,Yield,1992,1.0769230769230769
@@ -3703,7 +3742,7 @@ Latvia,Latvia,Rapeseed,Yield,2018,1.8973727422003284
 Latvia,Latvia,Rapeseed,Yield,2019,2.9289813486370155
 Latvia,Latvia,Rapeseed,Yield,2020,3.081867388362652
 Latvia,Latvia,Rapeseed,Yield,2021,2.9029850746268653
-Latvia,Latvia,Rapeseed,Yield,2022,2.1049037864680327
+Latvia,Latvia,Rapeseed,Yield,2022,2.059887710542732
 Latvia,Latvia,Rye,Yield,1987,2.3069427527405604
 Latvia,Latvia,Rye,Yield,1988,2.3616600790513833
 Latvia,Latvia,Rye,Yield,1989,2.6169386169386173
@@ -3738,7 +3777,7 @@ Latvia,Latvia,Rye,Yield,2018,3.7603686635944698
 Latvia,Latvia,Rye,Yield,2019,4.425925925925926
 Latvia,Latvia,Rye,Yield,2020,4.319612590799032
 Latvia,Latvia,Rye,Yield,2021,3.8444444444444446
-Latvia,Latvia,Rye,Yield,2022,3.361031518624642
+Latvia,Latvia,Rye,Yield,2022,3.664772727272727
 Latvia,Latvia,Soft Wheat,Yield,1987,2.8826382153249273
 Latvia,Latvia,Soft Wheat,Yield,1988,2.578646329837941
 Latvia,Latvia,Soft Wheat,Yield,1989,3.0533898305084746
@@ -3773,7 +3812,7 @@ Latvia,Latvia,Soft Wheat,Yield,2018,3.4314477468839883
 Latvia,Latvia,Soft Wheat,Yield,2019,4.812258981124416
 Latvia,Latvia,Soft Wheat,Yield,2020,5.338418305901245
 Latvia,Latvia,Soft Wheat,Yield,2021,4.481109249953471
-Latvia,Latvia,Soft Wheat,Yield,2022,4.349888392857142
+Latvia,Latvia,Soft Wheat,Yield,2022,4.72446511627907
 Latvia,Latvia,Spring barley,Yield,1987,2.2554726368159206
 Latvia,Latvia,Spring barley,Yield,1988,1.4190070921985816
 Latvia,Latvia,Spring barley,Yield,1989,2.1118817852834737
@@ -3808,7 +3847,7 @@ Latvia,Latvia,Spring barley,Yield,2018,2.582024432809773
 Latvia,Latvia,Spring barley,Yield,2019,3.4273182957393487
 Latvia,Latvia,Spring barley,Yield,2020,3.4213333333333336
 Latvia,Latvia,Spring barley,Yield,2021,2.4594155844155843
-Latvia,Latvia,Spring barley,Yield,2022,3.5782918149466187
+Latvia,Latvia,Spring barley,Yield,2022,3.2402135231316724
 Latvia,Latvia,Winter barley,Yield,1987,2.3333333333333335
 Latvia,Latvia,Winter barley,Yield,1988,1.0
 Latvia,Latvia,Winter barley,Yield,1989,4.0
@@ -3843,7 +3882,7 @@ Latvia,Latvia,Winter barley,Yield,2018,2.810810810810811
 Latvia,Latvia,Winter barley,Yield,2019,4.557142857142857
 Latvia,Latvia,Winter barley,Yield,2020,5.553191489361702
 Latvia,Latvia,Winter barley,Yield,2021,4.946153846153846
-Latvia,Latvia,Winter barley,Yield,2022,3.699029126213592
+Latvia,Latvia,Winter barley,Yield,2022,4.853658536585366
 Lithuania,Lithuania,Barley,Yield,1987,2.708645474792468
 Lithuania,Lithuania,Barley,Yield,1988,2.2458410351201477
 Lithuania,Lithuania,Barley,Yield,1989,2.7777504911591353
@@ -3879,7 +3918,7 @@ Lithuania,Lithuania,Barley,Yield,2018,2.742419547607454
 Lithuania,Lithuania,Barley,Yield,2019,3.366996624134577
 Lithuania,Lithuania,Barley,Yield,2020,4.281615818523685
 Lithuania,Lithuania,Barley,Yield,2021,3.458258465791293
-Lithuania,Lithuania,Barley,Yield,2022,3.6422287390029324
+Lithuania,Lithuania,Barley,Yield,2022,3.9212740384615383
 Lithuania,Lithuania,Corn,Yield,2002,2.8620689655172415
 Lithuania,Lithuania,Corn,Yield,2003,3.222222222222222
 Lithuania,Lithuania,Corn,Yield,2004,2.142857142857143
@@ -3900,7 +3939,7 @@ Lithuania,Lithuania,Corn,Yield,2018,6.541448842419716
 Lithuania,Lithuania,Corn,Yield,2019,7.6718872357086925
 Lithuania,Lithuania,Corn,Yield,2020,7.014356435643564
 Lithuania,Lithuania,Corn,Yield,2021,5.857862339115837
-Lithuania,Lithuania,Corn,Yield,2022,6.000000000000001
+Lithuania,Lithuania,Corn,Yield,2022,5.307978723404255
 Lithuania,Lithuania,Oats,Yield,1987,2.5997842502696873
 Lithuania,Lithuania,Oats,Yield,1988,1.9333333333333333
 Lithuania,Lithuania,Oats,Yield,1989,2.2427293064876954
@@ -3936,7 +3975,7 @@ Lithuania,Lithuania,Oats,Yield,2018,1.771950271950272
 Lithuania,Lithuania,Oats,Yield,2019,2.065613749854837
 Lithuania,Lithuania,Oats,Yield,2020,2.6269780743565296
 Lithuania,Lithuania,Oats,Yield,2021,1.8423330808354075
-Lithuania,Lithuania,Oats,Yield,2022,2.499389499389499
+Lithuania,Lithuania,Oats,Yield,2022,2.3158287705326033
 Lithuania,Lithuania,Rapeseed,Yield,1987,1.0597014925373134
 Lithuania,Lithuania,Rapeseed,Yield,1988,1.2999999999999998
 Lithuania,Lithuania,Rapeseed,Yield,1989,1.8130841121495327
@@ -4008,7 +4047,7 @@ Lithuania,Lithuania,Rye,Yield,2018,2.0671992481203008
 Lithuania,Lithuania,Rye,Yield,2019,2.6279182879377436
 Lithuania,Lithuania,Rye,Yield,2020,2.9778138528138527
 Lithuania,Lithuania,Rye,Yield,2021,2.430869398697817
-Lithuania,Lithuania,Rye,Yield,2022,3.0033557046979866
+Lithuania,Lithuania,Rye,Yield,2022,2.412283678316933
 Lithuania,Lithuania,Soft Wheat,Yield,1987,3.3048245614035086
 Lithuania,Lithuania,Soft Wheat,Yield,1988,3.0978065444084857
 Lithuania,Lithuania,Soft Wheat,Yield,1989,3.6048537647790915
@@ -4044,7 +4083,7 @@ Lithuania,Lithuania,Soft Wheat,Yield,2018,3.673097077203742
 Lithuania,Lithuania,Soft Wheat,Yield,2019,4.291160578726444
 Lithuania,Lithuania,Soft Wheat,Yield,2020,5.393056597016262
 Lithuania,Lithuania,Soft Wheat,Yield,2021,4.500090026160544
-Lithuania,Lithuania,Soft Wheat,Yield,2022,4.889778714436249
+Lithuania,Lithuania,Soft Wheat,Yield,2022,4.735043096163596
 Lithuania,Lithuania,Soya,Yield,2011,0.8749999999999999
 Lithuania,Lithuania,Soya,Yield,2012,0.6923076923076923
 Lithuania,Lithuania,Soya,Yield,2013,1.0714285714285714
@@ -4056,6 +4095,7 @@ Lithuania,Lithuania,Soya,Yield,2018,1.7968750000000002
 Lithuania,Lithuania,Soya,Yield,2019,1.2692307692307692
 Lithuania,Lithuania,Soya,Yield,2020,1.2367149758454108
 Lithuania,Lithuania,Soya,Yield,2021,1.448051948051948
+Lithuania,Lithuania,Soya,Yield,2022,1.5238095238095237
 Lithuania,Lithuania,Spring barley,Yield,1987,2.710280373831776
 Lithuania,Lithuania,Spring barley,Yield,1988,2.2450208429828624
 Lithuania,Lithuania,Spring barley,Yield,1989,2.7768208661417324
@@ -4091,7 +4131,7 @@ Lithuania,Lithuania,Spring barley,Yield,2018,2.715967081973243
 Lithuania,Lithuania,Spring barley,Yield,2019,3.293003201149801
 Lithuania,Lithuania,Spring barley,Yield,2020,4.220892119139234
 Lithuania,Lithuania,Spring barley,Yield,2021,3.3047354697619644
-Lithuania,Lithuania,Spring barley,Yield,2022,3.400386847195358
+Lithuania,Lithuania,Spring barley,Yield,2022,3.810134128166915
 Lithuania,Lithuania,Winter barley,Yield,1987,2.235294117647059
 Lithuania,Lithuania,Winter barley,Yield,1988,2.6
 Lithuania,Lithuania,Winter barley,Yield,1989,3.25
@@ -4127,7 +4167,7 @@ Lithuania,Lithuania,Winter barley,Yield,2018,3.426190476190476
 Lithuania,Lithuania,Winter barley,Yield,2019,3.8889400921658988
 Lithuania,Lithuania,Winter barley,Yield,2020,4.628618018752548
 Lithuania,Lithuania,Winter barley,Yield,2021,4.1654397520340956
-Lithuania,Lithuania,Winter barley,Yield,2022,4.3999999999999995
+Lithuania,Lithuania,Winter barley,Yield,2022,4.264470443349754
 Netherlands,Netherlands,Barley,Yield,1955,3.7685714285714287
 Netherlands,Netherlands,Barley,Yield,1956,3.6937669376693774
 Netherlands,Netherlands,Barley,Yield,1957,4.044382801664356
@@ -4194,7 +4234,8 @@ Netherlands,Netherlands,Barley,Yield,2017,6.763458950201884
 Netherlands,Netherlands,Barley,Yield,2018,6.8807339449541285
 Netherlands,Netherlands,Barley,Yield,2019,7.258760107816712
 Netherlands,Netherlands,Barley,Yield,2020,6.414538822303283
-Netherlands,Netherlands,Barley,Yield,2021,6.630266262217728
+Netherlands,Netherlands,Barley,Yield,2021,6.625884732052578
+Netherlands,Netherlands,Barley,Yield,2022,8.135735573015443
 Netherlands,Netherlands,Corn,Yield,2000,8.313793103448276
 Netherlands,Netherlands,Corn,Yield,2001,9.339338235294118
 Netherlands,Netherlands,Corn,Yield,2002,10.055274261603376
@@ -4216,7 +4257,8 @@ Netherlands,Netherlands,Corn,Yield,2017,10.753469387755102
 Netherlands,Netherlands,Corn,Yield,2018,6.488372093023256
 Netherlands,Netherlands,Corn,Yield,2019,7.801157285639137
 Netherlands,Netherlands,Corn,Yield,2020,8.53707518022657
-Netherlands,Netherlands,Corn,Yield,2021,9.963372093023256
+Netherlands,Netherlands,Corn,Yield,2021,9.966279069767442
+Netherlands,Netherlands,Corn,Yield,2022,7.50294695481336
 Netherlands,Netherlands,Oats,Yield,1955,3.410076157000586
 Netherlands,Netherlands,Oats,Yield,1956,3.143229166666667
 Netherlands,Netherlands,Oats,Yield,1957,3.1649937264742785
@@ -4284,6 +4326,7 @@ Netherlands,Netherlands,Oats,Yield,2018,4.886524822695035
 Netherlands,Netherlands,Oats,Yield,2019,5.846153846153846
 Netherlands,Netherlands,Oats,Yield,2020,4.828025477707007
 Netherlands,Netherlands,Oats,Yield,2021,5.268115942028985
+Netherlands,Netherlands,Oats,Yield,2022,6.006711409395972
 Netherlands,Netherlands,Rapeseed,Yield,1955,2.5405405405405403
 Netherlands,Netherlands,Rapeseed,Yield,1956,2.5
 Netherlands,Netherlands,Rapeseed,Yield,1957,2.546875
@@ -4350,7 +4393,8 @@ Netherlands,Netherlands,Rapeseed,Yield,2017,4.056701030927835
 Netherlands,Netherlands,Rapeseed,Yield,2018,2.881188118811881
 Netherlands,Netherlands,Rapeseed,Yield,2019,3.3764044943820224
 Netherlands,Netherlands,Rapeseed,Yield,2020,3.5449101796407185
-Netherlands,Netherlands,Rapeseed,Yield,2021,2.913907284768212
+Netherlands,Netherlands,Rapeseed,Yield,2021,3.027586206896552
+Netherlands,Netherlands,Rapeseed,Yield,2022,4.304347826086956
 Netherlands,Netherlands,Rye,Yield,1955,3.0214424951267054
 Netherlands,Netherlands,Rye,Yield,1956,2.8720794392523366
 Netherlands,Netherlands,Rye,Yield,1957,2.9104193138500634
@@ -4417,7 +4461,8 @@ Netherlands,Netherlands,Rye,Yield,2017,3.1459854014598534
 Netherlands,Netherlands,Rye,Yield,2018,2.782051282051282
 Netherlands,Netherlands,Rye,Yield,2019,3.557046979865772
 Netherlands,Netherlands,Rye,Yield,2020,4.264044943820225
-Netherlands,Netherlands,Rye,Yield,2021,3.690140845070423
+Netherlands,Netherlands,Rye,Yield,2021,3.7183098591549295
+Netherlands,Netherlands,Rye,Yield,2022,3.8471615720524017
 Netherlands,Netherlands,Soft Wheat,Yield,1955,3.921612541993281
 Netherlands,Netherlands,Soft Wheat,Yield,1956,3.596736596736597
 Netherlands,Netherlands,Soft Wheat,Yield,1957,3.965656565656566
@@ -4484,7 +4529,8 @@ Netherlands,Netherlands,Soft Wheat,Yield,2017,8.904503105590063
 Netherlands,Netherlands,Soft Wheat,Yield,2018,8.61472326706072
 Netherlands,Netherlands,Soft Wheat,Yield,2019,9.378100373289092
 Netherlands,Netherlands,Soft Wheat,Yield,2020,8.555963639702508
-Netherlands,Netherlands,Soft Wheat,Yield,2021,8.02132701421801
+Netherlands,Netherlands,Soft Wheat,Yield,2021,8.018029456576942
+Netherlands,Netherlands,Soft Wheat,Yield,2022,10.126073348848406
 Netherlands,Netherlands,Spring barley,Yield,1955,3.767722473604827
 Netherlands,Netherlands,Spring barley,Yield,1956,3.6875957120980094
 Netherlands,Netherlands,Spring barley,Yield,1957,4.044961240310077
@@ -4551,6 +4597,7 @@ Netherlands,Netherlands,Spring barley,Yield,2017,5.982876712328767
 Netherlands,Netherlands,Spring barley,Yield,2018,6.58783297336213
 Netherlands,Netherlands,Spring barley,Yield,2019,6.475784753363229
 Netherlands,Netherlands,Spring barley,Yield,2020,6.073365785813629
+Netherlands,Netherlands,Spring barley,Yield,2021,6.078343313373254
 Netherlands,Netherlands,Winter barley,Yield,1955,3.7837837837837838
 Netherlands,Netherlands,Winter barley,Yield,1956,3.7294117647058824
 Netherlands,Netherlands,Winter barley,Yield,1957,3.987012987012987
@@ -4617,7 +4664,8 @@ Netherlands,Netherlands,Winter barley,Yield,2017,8.483836206896553
 Netherlands,Netherlands,Winter barley,Yield,2018,7.863414634146342
 Netherlands,Netherlands,Winter barley,Yield,2019,8.833183047790802
 Netherlands,Netherlands,Winter barley,Yield,2020,7.432432432432433
-Netherlands,Netherlands,Winter barley,Yield,2021,7.7673935617860845
+Netherlands,Netherlands,Winter barley,Yield,2021,7.769470404984422
+Netherlands,Netherlands,Winter barley,Yield,2022,9.725378787878787
 Poland,Poland,Barley,Yield,1987,3.37139301547795
 Poland,Poland,Barley,Yield,1988,3.042873140297552
 Poland,Poland,Barley,Yield,1989,3.3271195097037793
@@ -4651,8 +4699,9 @@ Poland,Poland,Barley,Yield,2016,3.6895881131869332
 Poland,Poland,Barley,Yield,2017,3.9028497137704714
 Poland,Poland,Barley,Yield,2018,3.065939697050444
 Poland,Poland,Barley,Yield,2019,3.395472115986015
-Poland,Poland,Barley,Yield,2020,4.360907488856309
+Poland,Poland,Barley,Yield,2020,4.35952979446991
 Poland,Poland,Barley,Yield,2021,4.106786288757003
+Poland,Poland,Barley,Yield,2022,4.348419416134048
 Poland,Poland,Corn,Yield,2000,6.0623768877216015
 Poland,Poland,Corn,Yield,2001,6.069073083778966
 Poland,Poland,Corn,Yield,2002,6.15625980545968
@@ -4673,8 +4722,9 @@ Poland,Poland,Corn,Yield,2016,7.181297388374053
 Poland,Poland,Corn,Yield,2017,7.02134813470673
 Poland,Poland,Corn,Yield,2018,5.875551974713748
 Poland,Poland,Corn,Yield,2019,5.511015865854575
-Poland,Poland,Corn,Yield,2020,7.076348223157094
+Poland,Poland,Corn,Yield,2020,7.076276650846168
 Poland,Poland,Corn,Yield,2021,7.333129688423288
+Poland,Poland,Corn,Yield,2022,6.850122435193786
 Poland,Poland,Oats,Yield,1987,2.8368181287232797
 Poland,Poland,Oats,Yield,1988,2.613529411764706
 Poland,Poland,Oats,Yield,1989,2.721793275217933
@@ -4708,8 +4758,9 @@ Poland,Poland,Oats,Yield,2016,2.8208042328042326
 Poland,Poland,Oats,Yield,2017,2.925983226121651
 Poland,Poland,Oats,Yield,2018,2.301516431358352
 Poland,Poland,Oats,Yield,2019,2.441130171543895
-Poland,Poland,Oats,Yield,2020,3.2534991602015517
+Poland,Poland,Oats,Yield,2020,3.2524590163934426
 Poland,Poland,Oats,Yield,2021,3.081284010542083
+Poland,Poland,Oats,Yield,2022,3.218965033758278
 Poland,Poland,Rapeseed,Yield,1987,2.378860810268752
 Poland,Poland,Rapeseed,Yield,1988,2.548990435706695
 Poland,Poland,Rapeseed,Yield,1989,2.7821052631578946
@@ -4743,8 +4794,9 @@ Poland,Poland,Rapeseed,Yield,2016,2.5793216630196936
 Poland,Poland,Rapeseed,Yield,2017,2.8205016023712908
 Poland,Poland,Rapeseed,Yield,2018,2.4915218137283905
 Poland,Poland,Rapeseed,Yield,2019,2.592349264747889
-Poland,Poland,Rapeseed,Yield,2020,3.04566261252536
+Poland,Poland,Rapeseed,Yield,2020,3.0456508643135014
 Poland,Poland,Rapeseed,Yield,2021,3.0711488710602874
+Poland,Poland,Rapeseed,Yield,2022,3.2522637383090593
 Poland,Poland,Rye,Yield,1987,2.573220034438871
 Poland,Poland,Rye,Yield,1988,2.3639770065999577
 Poland,Poland,Rye,Yield,1989,2.729890807847914
@@ -4778,8 +4830,9 @@ Poland,Poland,Rye,Yield,2016,2.8143438697318004
 Poland,Poland,Rye,Yield,2017,3.0333417903505433
 Poland,Poland,Rye,Yield,2018,2.4096896789675877
 Poland,Poland,Rye,Yield,2019,2.696516441860226
-Poland,Poland,Rye,Yield,2020,3.4779339482545857
-Poland,Poland,Rye,Yield,2021,3.287484510532838
+Poland,Poland,Rye,Yield,2020,3.478737541528239
+Poland,Poland,Rye,Yield,2021,3.2874729296228096
+Poland,Poland,Rye,Yield,2022,3.5279201961658493
 Poland,Poland,Soft Wheat,Yield,1987,3.7239050923755044
 Poland,Poland,Soft Wheat,Yield,1988,3.4801487125349984
 Poland,Poland,Soft Wheat,Yield,1989,3.8542406850687803
@@ -4813,8 +4866,9 @@ Poland,Poland,Soft Wheat,Yield,2016,4.494924072585762
 Poland,Poland,Soft Wheat,Yield,2017,4.786529255597132
 Poland,Poland,Soft Wheat,Yield,2018,3.9870512942500302
 Poland,Poland,Soft Wheat,Yield,2019,4.303492571665213
-Poland,Poland,Soft Wheat,Yield,2020,5.2387635833498365
+Poland,Poland,Soft Wheat,Yield,2020,5.234236721037223
 Poland,Poland,Soft Wheat,Yield,2021,4.975298261466124
+Poland,Poland,Soft Wheat,Yield,2022,5.243577153988632
 Poland,Poland,Soya,Yield,2003,0.7499999999999999
 Poland,Poland,Soya,Yield,2004,1.3333333333333335
 Poland,Poland,Soya,Yield,2005,1.0
@@ -4831,8 +4885,9 @@ Poland,Poland,Soya,Yield,2016,1.956578947368421
 Poland,Poland,Soya,Yield,2017,2.2015005359056805
 Poland,Poland,Soya,Yield,2018,1.9064220183486238
 Poland,Poland,Soya,Yield,2019,1.962121212121212
-Poland,Poland,Soya,Yield,2020,2.083682008368201
+Poland,Poland,Soya,Yield,2020,2.0700389105058368
 Poland,Poland,Soya,Yield,2021,2.276872964169381
+Poland,Poland,Soya,Yield,2022,2.396807297605473
 Poland,Poland,Spring barley,Yield,1987,3.3498139287612974
 Poland,Poland,Spring barley,Yield,1988,2.9655919804930915
 Poland,Poland,Spring barley,Yield,1989,3.1713557494363296
@@ -4866,8 +4921,9 @@ Poland,Poland,Spring barley,Yield,2016,3.560409758103905
 Poland,Poland,Spring barley,Yield,2017,3.724701815944173
 Poland,Poland,Spring barley,Yield,2018,2.8959252597663077
 Poland,Poland,Spring barley,Yield,2019,3.147708952340346
-Poland,Poland,Spring barley,Yield,2020,3.928200840935356
+Poland,Poland,Spring barley,Yield,2020,3.9273315681082677
 Poland,Poland,Spring barley,Yield,2021,3.709590390841271
+Poland,Poland,Spring barley,Yield,2022,3.8765275257108285
 Poland,Poland,Sunflower seed,Yield,1999,1.4999999999999998
 Poland,Poland,Sunflower seed,Yield,2000,1.4285714285714286
 Poland,Poland,Sunflower seed,Yield,2001,1.375
@@ -4889,8 +4945,9 @@ Poland,Poland,Sunflower seed,Yield,2016,1.675
 Poland,Poland,Sunflower seed,Yield,2017,1.8395061728395061
 Poland,Poland,Sunflower seed,Yield,2018,1.6296296296296298
 Poland,Poland,Sunflower seed,Yield,2019,1.965
-Poland,Poland,Sunflower seed,Yield,2020,2.004048582995951
+Poland,Poland,Sunflower seed,Yield,2020,2.003973509933775
 Poland,Poland,Sunflower seed,Yield,2021,2.2743732590529246
+Poland,Poland,Sunflower seed,Yield,2022,2.3040462427745667
 Poland,Poland,Winter barley,Yield,1987,3.5264162953532785
 Poland,Poland,Winter barley,Yield,1988,3.6417074877536737
 Poland,Poland,Winter barley,Yield,1989,4.354234001292825
@@ -4924,8 +4981,9 @@ Poland,Poland,Winter barley,Yield,2016,4.420903131828113
 Poland,Poland,Winter barley,Yield,2017,4.6187894736842106
 Poland,Poland,Winter barley,Yield,2018,3.7133494308382198
 Poland,Poland,Winter barley,Yield,2019,4.222815447588539
-Poland,Poland,Winter barley,Yield,2020,5.016121825899174
+Poland,Poland,Winter barley,Yield,2020,5.016243200953729
 Poland,Poland,Winter barley,Yield,2021,4.680716150690041
+Poland,Poland,Winter barley,Yield,2022,4.857898690355662
 Romania,Romania,Barley,Yield,1987,3.6053145173397385
 Romania,Romania,Barley,Yield,1988,4.191492146596859
 Romania,Romania,Barley,Yield,1989,4.475514456889815
@@ -4960,8 +5018,8 @@ Romania,Romania,Barley,Yield,2017,4.186317129934572
 Romania,Romania,Barley,Yield,2018,4.417260920897284
 Romania,Romania,Barley,Yield,2019,4.187997059413219
 Romania,Romania,Barley,Yield,2020,2.5815874021448932
-Romania,Romania,Barley,Yield,2021,5.262494868082715
-Romania,Romania,Barley,Yield,2022,4.206592337148539
+Romania,Romania,Barley,Yield,2021,4.408264536371526
+Romania,Romania,Barley,Yield,2022,4.245372035458142
 Romania,Romania,Corn,Yield,2000,1.606107511084293
 Romania,Romania,Corn,Yield,2001,3.0662840196098213
 Romania,Romania,Corn,Yield,2002,2.9019796165140788
@@ -4983,8 +5041,8 @@ Romania,Romania,Corn,Yield,2017,5.956203954698908
 Romania,Romania,Corn,Yield,2018,7.636792896745024
 Romania,Romania,Corn,Yield,2019,6.499878818611971
 Romania,Romania,Corn,Yield,2020,3.9742142449469604
-Romania,Romania,Corn,Yield,2021,5.903115962309918
-Romania,Romania,Corn,Yield,2022,3.550741851710184
+Romania,Romania,Corn,Yield,2021,5.80138804077223
+Romania,Romania,Corn,Yield,2022,3.014265295029493
 Romania,Romania,Oats,Yield,1987,1.5701179554390563
 Romania,Romania,Oats,Yield,1988,1.411572052401747
 Romania,Romania,Oats,Yield,1989,1.587511825922422
@@ -5019,8 +5077,8 @@ Romania,Romania,Oats,Yield,2017,2.460183397683398
 Romania,Romania,Oats,Yield,2018,2.376269507059698
 Romania,Romania,Oats,Yield,2019,2.2431292263788074
 Romania,Romania,Oats,Yield,2020,1.9405960134201696
-Romania,Romania,Oats,Yield,2021,2.6244377811094455
-Romania,Romania,Oats,Yield,2022,2.154106159238858
+Romania,Romania,Oats,Yield,2021,2.4115145943461274
+Romania,Romania,Oats,Yield,2022,2.261016524787181
 Romania,Romania,Rapeseed,Yield,1987,0.6416666666666667
 Romania,Romania,Rapeseed,Yield,1988,1.050420168067227
 Romania,Romania,Rapeseed,Yield,1989,0.9090909090909091
@@ -5055,8 +5113,8 @@ Romania,Romania,Rapeseed,Yield,2017,2.798351087847216
 Romania,Romania,Rapeseed,Yield,2018,2.546168679269141
 Romania,Romania,Rapeseed,Yield,2019,2.263683285122795
 Romania,Romania,Rapeseed,Yield,2020,2.1499710640174166
-Romania,Romania,Rapeseed,Yield,2021,3.087065641470259
-Romania,Romania,Rapeseed,Yield,2022,2.3490986168800583
+Romania,Romania,Rapeseed,Yield,2021,3.0836697165410833
+Romania,Romania,Rapeseed,Yield,2022,2.40889821436218
 Romania,Romania,Rye,Yield,1989,2.2344139650872816
 Romania,Romania,Rye,Yield,1990,2.0157303370786517
 Romania,Romania,Rye,Yield,1991,1.3646496815286626
@@ -5089,8 +5147,8 @@ Romania,Romania,Rye,Yield,2017,2.9363920750782064
 Romania,Romania,Rye,Yield,2018,2.791423001949318
 Romania,Romania,Rye,Yield,2019,2.7970085470085473
 Romania,Romania,Rye,Yield,2020,2.5324444444444443
-Romania,Romania,Rye,Yield,2021,3.3724137931034477
-Romania,Romania,Rye,Yield,2022,2.3169203222918533
+Romania,Romania,Rye,Yield,2021,2.898431048720066
+Romania,Romania,Rye,Yield,2022,2.5756490599820947
 Romania,Romania,Soft Wheat,Yield,1987,2.7978577084983116
 Romania,Romania,Soft Wheat,Yield,1988,3.574605541061002
 Romania,Romania,Soft Wheat,Yield,1989,3.383371426107206
@@ -5125,8 +5183,8 @@ Romania,Romania,Soft Wheat,Yield,2017,4.889523614223706
 Romania,Romania,Soft Wheat,Yield,2018,4.796405625153991
 Romania,Romania,Soft Wheat,Yield,2019,4.753717678393075
 Romania,Romania,Soft Wheat,Yield,2020,2.966861770626549
-Romania,Romania,Soft Wheat,Yield,2021,5.296360048700618
-Romania,Romania,Soft Wheat,Yield,2022,4.178375562136668
+Romania,Romania,Soft Wheat,Yield,2021,4.799549757348736
+Romania,Romania,Soft Wheat,Yield,2022,4.1811451135241855
 Romania,Romania,Soya,Yield,1987,1.007250418293363
 Romania,Romania,Soya,Yield,1988,0.7134912959381045
 Romania,Romania,Soya,Yield,1989,0.5933229207340881
@@ -5161,7 +5219,8 @@ Romania,Romania,Soya,Yield,2017,2.521315247668645
 Romania,Romania,Soya,Yield,2018,2.9080391925392517
 Romania,Romania,Soya,Yield,2019,2.7829276003793866
 Romania,Romania,Soya,Yield,2020,2.017880402605092
-Romania,Romania,Soya,Yield,2021,2.6339330513941652
+Romania,Romania,Soya,Yield,2021,2.634052002005587
+Romania,Romania,Soya,Yield,2022,1.6761632811992988
 Romania,Romania,Spring barley,Yield,1997,1.810825892857143
 Romania,Romania,Spring barley,Yield,1998,1.7958477508650517
 Romania,Romania,Spring barley,Yield,1999,1.8007202881152462
@@ -5186,8 +5245,8 @@ Romania,Romania,Spring barley,Yield,2017,3.0361864996520533
 Romania,Romania,Spring barley,Yield,2018,2.973367945389866
 Romania,Romania,Spring barley,Yield,2019,2.821078921078921
 Romania,Romania,Spring barley,Yield,2020,1.7206514363266228
-Romania,Romania,Spring barley,Yield,2021,3.415861051941668
-Romania,Romania,Spring barley,Yield,2022,2.781912914030517
+Romania,Romania,Spring barley,Yield,2021,2.728157056950831
+Romania,Romania,Spring barley,Yield,2022,2.8302940081875696
 Romania,Romania,Sunflower seed,Yield,1987,1.5749841805526261
 Romania,Romania,Sunflower seed,Yield,1988,1.5132002575660013
 Romania,Romania,Sunflower seed,Yield,1989,1.5121051418030895
@@ -5222,7 +5281,8 @@ Romania,Romania,Sunflower seed,Yield,2017,2.917349412071072
 Romania,Romania,Sunflower seed,Yield,2018,3.0414304014935603
 Romania,Romania,Sunflower seed,Yield,2019,2.7825290403056053
 Romania,Romania,Sunflower seed,Yield,2020,1.8575391130866963
-Romania,Romania,Sunflower seed,Yield,2021,2.5353299985605298
+Romania,Romania,Sunflower seed,Yield,2021,2.5299209936296667
+Romania,Romania,Sunflower seed,Yield,2022,1.736890060240964
 Romania,Romania,Winter barley,Yield,1997,3.502794545048066
 Romania,Romania,Winter barley,Yield,1998,2.6951716114019777
 Romania,Romania,Winter barley,Yield,1999,2.887103254319004
@@ -5247,8 +5307,8 @@ Romania,Romania,Winter barley,Yield,2017,4.574625550660794
 Romania,Romania,Winter barley,Yield,2018,4.8873204169144575
 Romania,Romania,Winter barley,Yield,2019,4.58026319561914
 Romania,Romania,Winter barley,Yield,2020,2.7968944450729722
-Romania,Romania,Winter barley,Yield,2021,5.543010752688172
-Romania,Romania,Winter barley,Yield,2022,4.38924428319091
+Romania,Romania,Winter barley,Yield,2021,4.65007000127275
+Romania,Romania,Winter barley,Yield,2022,4.426791425979854
 Spain,Spain,Barley,Yield,1965,1.3762369033760185
 Spain,Spain,Barley,Yield,1966,1.499701001644491
 Spain,Spain,Barley,Yield,1967,1.7174289905320712
@@ -5305,7 +5365,8 @@ Spain,Spain,Barley,Yield,2017,2.331083760341555
 Spain,Spain,Barley,Yield,2018,3.7183532726720787
 Spain,Spain,Barley,Yield,2019,2.875114627382114
 Spain,Spain,Barley,Yield,2020,4.170674126240433
-Spain,Spain,Barley,Yield,2021,3.7130948424567567
+Spain,Spain,Barley,Yield,2021,3.6888839399338256
+Spain,Spain,Barley,Yield,2022,2.9018610962208524
 Spain,Spain,Corn,Yield,2000,9.216809051027477
 Spain,Spain,Corn,Yield,2001,9.720780487804877
 Spain,Spain,Corn,Yield,2002,9.514943023005804
@@ -5327,7 +5388,8 @@ Spain,Spain,Corn,Yield,2017,11.316877978599047
 Spain,Spain,Corn,Yield,2018,11.919595495858795
 Spain,Spain,Corn,Yield,2019,11.726760642322676
 Spain,Spain,Corn,Yield,2020,12.258130199546223
-Spain,Spain,Corn,Yield,2021,12.289799094918282
+Spain,Spain,Corn,Yield,2021,12.832947218578168
+Spain,Spain,Corn,Yield,2022,11.650597066928512
 Spain,Spain,Oats,Yield,1965,0.7370414673046252
 Spain,Spain,Oats,Yield,1966,0.9426439232409383
 Spain,Spain,Oats,Yield,1967,1.0137973640856672
@@ -5384,7 +5446,8 @@ Spain,Spain,Oats,Yield,2017,1.5705567585947708
 Spain,Spain,Oats,Yield,2018,2.780700808625337
 Spain,Spain,Oats,Yield,2019,1.855192642745297
 Spain,Spain,Oats,Yield,2020,2.721793073473339
-Spain,Spain,Oats,Yield,2021,2.4601940981537007
+Spain,Spain,Oats,Yield,2021,2.3700396825396823
+Spain,Spain,Oats,Yield,2022,1.8210379840410496
 Spain,Spain,Rapeseed,Yield,1983,0.6046511627906976
 Spain,Spain,Rapeseed,Yield,1984,1.1707317073170733
 Spain,Spain,Rapeseed,Yield,1985,1.22
@@ -5423,7 +5486,8 @@ Spain,Spain,Rapeseed,Yield,2017,1.6116616251173463
 Spain,Spain,Rapeseed,Yield,2018,2.291862982299758
 Spain,Spain,Rapeseed,Yield,2019,2.060489610019926
 Spain,Spain,Rapeseed,Yield,2020,2.74380859101721
-Spain,Spain,Rapeseed,Yield,2021,2.192427751485248
+Spain,Spain,Rapeseed,Yield,2021,2.5870932754880696
+Spain,Spain,Rapeseed,Yield,2022,2.1127807400226204
 Spain,Spain,Rye,Yield,1965,0.8853326612903226
 Spain,Spain,Rye,Yield,1966,0.9194006716610694
 Spain,Spain,Rye,Yield,1967,0.8443890274314215
@@ -5480,7 +5544,8 @@ Spain,Spain,Rye,Yield,2017,1.3647091298047063
 Spain,Spain,Rye,Yield,2018,3.0763284470911594
 Spain,Spain,Rye,Yield,2019,1.937154696132597
 Spain,Spain,Rye,Yield,2020,3.0100418890227805
-Spain,Spain,Rye,Yield,2021,2.788604726448689
+Spain,Spain,Rye,Yield,2021,2.624604700192224
+Spain,Spain,Rye,Yield,2022,2.11204422982714
 Spain,Spain,Soft Wheat,Yield,1965,1.1184161093996545
 Spain,Spain,Soft Wheat,Yield,1966,1.1774025644280817
 Spain,Spain,Soft Wheat,Yield,1967,1.351193363114231
@@ -5537,7 +5602,8 @@ Spain,Spain,Soft Wheat,Yield,2017,2.3840266971406345
 Spain,Spain,Soft Wheat,Yield,2018,4.132658015014091
 Spain,Spain,Soft Wheat,Yield,2019,3.20802564335178
 Spain,Spain,Soft Wheat,Yield,2020,4.399348463720729
-Spain,Spain,Soft Wheat,Yield,2021,4.336888874188978
+Spain,Spain,Soft Wheat,Yield,2021,4.15015352355276
+Spain,Spain,Soft Wheat,Yield,2022,2.9879206074330624
 Spain,Spain,Soya,Yield,1970,1.5
 Spain,Spain,Soya,Yield,1971,1.2222222222222223
 Spain,Spain,Soya,Yield,1972,1.3181818181818181
@@ -5589,7 +5655,8 @@ Spain,Spain,Soya,Yield,2017,2.7869822485207103
 Spain,Spain,Soya,Yield,2018,2.939189189189189
 Spain,Spain,Soya,Yield,2019,3.2929936305732483
 Spain,Spain,Soya,Yield,2020,3.1862068965517243
-Spain,Spain,Soya,Yield,2021,3.1483870967741936
+Spain,Spain,Soya,Yield,2021,3.0382165605095537
+Spain,Spain,Soya,Yield,2022,2.5
 Spain,Spain,Spring barley,Yield,1989,2.2846712367663162
 Spain,Spain,Spring barley,Yield,1990,2.395830861121
 Spain,Spain,Spring barley,Yield,1991,2.1862141933461343
@@ -5622,7 +5689,8 @@ Spain,Spain,Spring barley,Yield,2017,2.3954371756637207
 Spain,Spain,Spring barley,Yield,2018,3.800652101864044
 Spain,Spain,Spring barley,Yield,2019,2.927468976801118
 Spain,Spain,Spring barley,Yield,2020,4.237132368004851
-Spain,Spain,Spring barley,Yield,2021,3.7822407812465473
+Spain,Spain,Spring barley,Yield,2021,3.7593475599786115
+Spain,Spain,Spring barley,Yield,2022,2.944413433807796
 Spain,Spain,Sunflower seed,Yield,1965,0.7787610619469026
 Spain,Spain,Sunflower seed,Yield,1966,0.8402061855670104
 Spain,Spain,Sunflower seed,Yield,1967,0.7953667953667954
@@ -5679,7 +5747,8 @@ Spain,Spain,Sunflower seed,Yield,2017,1.1743786484136731
 Spain,Spain,Sunflower seed,Yield,2018,1.3898709640087952
 Spain,Spain,Sunflower seed,Yield,2019,1.1147384470695527
 Spain,Spain,Sunflower seed,Yield,2020,1.3734328128605493
-Spain,Spain,Sunflower seed,Yield,2021,1.2380351840618116
+Spain,Spain,Sunflower seed,Yield,2021,1.2173616832498892
+Spain,Spain,Sunflower seed,Yield,2022,0.9231501554202081
 Spain,Spain,Winter barley,Yield,1989,2.037207538994801
 Spain,Spain,Winter barley,Yield,1990,1.8173471060829642
 Spain,Spain,Winter barley,Yield,1991,1.9835026062657852
@@ -5712,7 +5781,8 @@ Spain,Spain,Winter barley,Yield,2017,1.9822783558664328
 Spain,Spain,Winter barley,Yield,2018,3.172567423072354
 Spain,Spain,Winter barley,Yield,2019,2.3995132909022834
 Spain,Spain,Winter barley,Yield,2020,3.6447701186693466
-Spain,Spain,Winter barley,Yield,2021,3.1215076934709463
+Spain,Spain,Winter barley,Yield,2021,3.0553105256884012
+Spain,Spain,Winter barley,Yield,2022,2.517518064190892
 Sweden,Sweden,Barley,Yield,1973,2.70404984423676
 Sweden,Sweden,Barley,Yield,1974,3.6927899686520376
 Sweden,Sweden,Barley,Yield,1975,2.9322033898305087
@@ -5761,8 +5831,8 @@ Sweden,Sweden,Barley,Yield,2017,5.287118468701501
 Sweden,Sweden,Barley,Yield,2018,3.033175355450237
 Sweden,Sweden,Barley,Yield,2019,5.300589525637511
 Sweden,Sweden,Barley,Yield,2020,5.171530103191416
-Sweden,Sweden,Barley,Yield,2021,3.9223372781065087
-Sweden,Sweden,Barley,Yield,2022,4.939715931451469
+Sweden,Sweden,Barley,Yield,2021,3.9201478743068394
+Sweden,Sweden,Barley,Yield,2022,5.496777951723886
 Sweden,Sweden,Corn,Yield,2009,6.384615384615385
 Sweden,Sweden,Corn,Yield,2010,5.597014925373134
 Sweden,Sweden,Corn,Yield,2011,7.6555023923444985
@@ -5775,8 +5845,8 @@ Sweden,Sweden,Corn,Yield,2017,7.394957983193279
 Sweden,Sweden,Corn,Yield,2018,4.144144144144144
 Sweden,Sweden,Corn,Yield,2019,6.9753086419753085
 Sweden,Sweden,Corn,Yield,2020,6.756756756756756
-Sweden,Sweden,Corn,Yield,2021,8.636363636363637
-Sweden,Sweden,Corn,Yield,2022,6.999999999999999
+Sweden,Sweden,Corn,Yield,2021,8.563218390804598
+Sweden,Sweden,Corn,Yield,2022,6.857142857142857
 Sweden,Sweden,Oats,Yield,1973,2.3339882121807465
 Sweden,Sweden,Oats,Yield,1974,3.5384615384615383
 Sweden,Sweden,Oats,Yield,1975,2.6579476861167004
@@ -5825,8 +5895,8 @@ Sweden,Sweden,Oats,Yield,2017,4.49196440430336
 Sweden,Sweden,Oats,Yield,2018,2.5730869965314644
 Sweden,Sweden,Oats,Yield,2019,4.755898816693829
 Sweden,Sweden,Oats,Yield,2020,4.534022007635302
-Sweden,Sweden,Oats,Yield,2021,3.3117311731173116
-Sweden,Sweden,Oats,Yield,2022,4.114235279283823
+Sweden,Sweden,Oats,Yield,2021,3.305547226386807
+Sweden,Sweden,Oats,Yield,2022,4.778962423612015
 Sweden,Sweden,Rapeseed,Yield,1986,2.137142857142857
 Sweden,Sweden,Rapeseed,Yield,1987,1.7411764705882353
 Sweden,Sweden,Rapeseed,Yield,1988,1.9533333333333334
@@ -5862,8 +5932,8 @@ Sweden,Sweden,Rapeseed,Yield,2017,3.3026960784313726
 Sweden,Sweden,Rapeseed,Yield,2018,2.233966136480246
 Sweden,Sweden,Rapeseed,Yield,2019,3.6202315429872844
 Sweden,Sweden,Rapeseed,Yield,2020,3.455193482688391
-Sweden,Sweden,Rapeseed,Yield,2021,3.239875389408099
-Sweden,Sweden,Rapeseed,Yield,2022,3.21330902461258
+Sweden,Sweden,Rapeseed,Yield,2021,3.2420953279848983
+Sweden,Sweden,Rapeseed,Yield,2022,3.2520644907589458
 Sweden,Sweden,Rye,Yield,1973,3.3263157894736843
 Sweden,Sweden,Rye,Yield,1974,3.9
 Sweden,Sweden,Rye,Yield,1975,3.2857142857142856
@@ -5912,8 +5982,8 @@ Sweden,Sweden,Rye,Yield,2017,6.6541529798216805
 Sweden,Sweden,Rye,Yield,2018,4.504596527068438
 Sweden,Sweden,Rye,Yield,2019,6.757251908396947
 Sweden,Sweden,Rye,Yield,2020,6.20215897939156
-Sweden,Sweden,Rye,Yield,2021,5.6635071090047395
-Sweden,Sweden,Rye,Yield,2022,6.420803782505911
+Sweden,Sweden,Rye,Yield,2021,5.70695102685624
+Sweden,Sweden,Rye,Yield,2022,6.2216867469879515
 Sweden,Sweden,Soft Wheat,Yield,1973,4.493150684931507
 Sweden,Sweden,Soft Wheat,Yield,1974,5.273529411764706
 Sweden,Sweden,Soft Wheat,Yield,1975,4.801980198019802
@@ -5962,8 +6032,8 @@ Sweden,Sweden,Soft Wheat,Yield,2017,6.990484667387204
 Sweden,Sweden,Soft Wheat,Yield,2018,4.349798657718121
 Sweden,Sweden,Soft Wheat,Yield,2019,7.405482544889135
 Sweden,Sweden,Soft Wheat,Yield,2020,7.156087895451611
-Sweden,Sweden,Soft Wheat,Yield,2021,6.312164784940626
-Sweden,Sweden,Soft Wheat,Yield,2022,6.784824802473377
+Sweden,Sweden,Soft Wheat,Yield,2021,6.31937052574458
+Sweden,Sweden,Soft Wheat,Yield,2022,6.98600459291997
 Sweden,Sweden,Spring barley,Yield,1985,3.2475386779184245
 Sweden,Sweden,Spring barley,Yield,1986,3.417033773861968
 Sweden,Sweden,Spring barley,Yield,1987,3.2822719449225475
@@ -6000,8 +6070,8 @@ Sweden,Sweden,Spring barley,Yield,2017,5.212340572216476
 Sweden,Sweden,Spring barley,Yield,2018,3.0023674789236634
 Sweden,Sweden,Spring barley,Yield,2019,5.18435218641693
 Sweden,Sweden,Spring barley,Yield,2020,5.068689391713194
-Sweden,Sweden,Spring barley,Yield,2021,3.7716891292066825
-Sweden,Sweden,Spring barley,Yield,2022,4.837422005193195
+Sweden,Sweden,Spring barley,Yield,2021,3.7699165019563554
+Sweden,Sweden,Spring barley,Yield,2022,5.440631163708087
 Sweden,Sweden,Winter barley,Yield,1995,5.263358778625954
 Sweden,Sweden,Winter barley,Yield,1996,4.493212669683258
 Sweden,Sweden,Winter barley,Yield,1997,4.862745098039216
@@ -6028,5 +6098,5 @@ Sweden,Sweden,Winter barley,Yield,2017,6.418143899895725
 Sweden,Sweden,Winter barley,Yield,2018,3.7716262975778547
 Sweden,Sweden,Winter barley,Yield,2019,6.835443037974684
 Sweden,Sweden,Winter barley,Yield,2020,6.542605288932418
-Sweden,Sweden,Winter barley,Yield,2021,5.575730735163862
-Sweden,Sweden,Winter barley,Yield,2022,6.16852886405959
+Sweden,Sweden,Winter barley,Yield,2021,5.568835768038955
+Sweden,Sweden,Winter barley,Yield,2022,6.169107227208313
