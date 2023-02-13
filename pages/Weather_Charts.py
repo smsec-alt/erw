@@ -2,7 +2,7 @@ from gcs import GCS
 import datetime
 import pandas as pd
 import streamlit as st
-from support_files.resources import current_year, all_weather_items_pretty
+from support_files.resources import current_year, all_weather_items_pretty, crops_list
 from streamlit_charts import Weather_Report
 st.set_page_config(page_title="Weather per Region", layout='wide')
 
@@ -21,7 +21,10 @@ max_start_spring = datetime.date(current_year, 9, 1)
 def main():
     with st.sidebar:
         add_region = st.selectbox("Choose a Region", tuple(df_region_crop['country'].unique()))
-        add_class = st.selectbox("Crop Type", tuple(df_region_crop.query('country == @add_region')['crop']))
+        # difference between list1 and list2
+        
+        add_class = st.selectbox("Crop Type", tuple(set(crops_list)-set(df_region_crop.query('country == @add_region')['crop'])))
+        # add_class = st.selectbox("Crop Type", tuple(df_region_crop.query('country == @add_region')['crop']))
         col11, col21 = st.columns(2)
         if add_class in ['Corn', 'Oats', 'Soya', 'Sunflower seed', 'Spring barley']:
             min_start = min_start_spring
