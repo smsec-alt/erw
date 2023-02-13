@@ -13,7 +13,7 @@ with st.sidebar:
 
 def main():
     st.markdown(f"""#### {add_class} Production in Europe""")
-    values = st.slider('Select Year', 2012, 2022, 2020)
+    values = st.slider('Select Year', 2012, 2022, 2021)
     HtmlFile = open(f"./support_files/html/{add_class}_{values}.html", 'r', encoding='utf-8')
     source_code = HtmlFile.read() 
     components.html(source_code, height=500)
@@ -26,11 +26,11 @@ def main():
     #                     executor.submit(download_image, creds, filename='t2m.png'),
     #                     executor.submit(download_dataframe, creds, filename=f'Europe_{add_class}_deviation.csv')]
     #     future_output = [future.result() for future in futures]
-                
+    img1 = gcs.read_png(f'global_weather/forecasts/europe_tp.png')
+    img2 = gcs.read_png(f'global_weather/forecasts/europe_t2m.png')
     col1, col2 = st.columns(2)
-    # col1.image(future_output[0])
-    # col2.image(future_output[1])
-    # dev_charts = get_deviation_charts(future_output[2], add_class)
+    col1.image(img1)
+    col2.image(img2)
     df_summary = gcs.read_csv(f'global_weather/europe/Europe_{add_class}_deviation.csv')
     dev_charts = get_deviation_charts(df_summary, add_class)
     col1.plotly_chart(dev_charts[0], use_container_width=True)

@@ -60,6 +60,12 @@ class GCS:
         df = pd.read_excel(BytesIO(blob.download_as_bytes()), **kwargs)
         return df
 
+    def read_png(self, file_name, **kwargs):
+        from IPython.display import Image
+        blob = self.bucket.get_blob(file_name)
+        img = Image(blob.download_as_bytes(), **kwargs)
+        return img
+
     # to parquet file
     def to_parquet(self, df: pd.DataFrame, file_name: str, **kwargs)->pd.DataFrame:
         data = BytesIO()
