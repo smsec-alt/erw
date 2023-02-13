@@ -2,13 +2,14 @@ from gcs import GCS
 import streamlit as st
 import streamlit.components.v1 as components
 from streamlit_charts import get_deviation_charts
+from support_files.resources import crops_list
 
 gcs = GCS(streamlit=True)
 
 st.set_page_config(page_title="Europe Weather Maps", layout='wide')
 
 with st.sidebar:
-    add_class = st.selectbox("Crop Type", ('Soft Wheat', 'Barley', 'Corn','Rye', 'Oats', 'Sunflower seed', 'Rapeseed','Soya'))
+    add_class = st.selectbox("Crop Type", tuple(crops_list))
 
 
 def main():

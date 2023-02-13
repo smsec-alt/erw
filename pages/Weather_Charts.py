@@ -1,14 +1,14 @@
+from gcs import GCS
 import datetime
 import pandas as pd
 import streamlit as st
 from support_files.resources import current_year, all_weather_items_pretty
-from support_files.quickstart import credentials, download_dataframe
 from streamlit_charts import Weather_Report
 st.set_page_config(page_title="Weather per Region", layout='wide')
-creds = credentials()
 
+gcs = GCS(streamlit=True)
 df_yields = pd.read_csv('./support_files/eu_yields.csv')
-df_region_crop = pd.read_csv('./support_files/region_crop.csv')
+df_region_crop = pd.read_csv('./support_files/metadata_region_crop.csv')
 yields_container, charts_container, models_container = st.container(), st.container(), st.container()
 
 today = datetime.date.today()
@@ -37,7 +37,9 @@ def main():
 
     df_yields_country = df_yields.loc[(df_yields['country']==add_region)&(df_yields['crop']==add_class)]
     df_yields_country.set_index('year', inplace=True)
-    df_weather = download_dataframe(creds=creds, filename=f'{add_region}_{add_class}_weather.csv',  parse_dates=['time'])
+    # df_weather = download_dataframe(creds=creds, filename=f'{add_region}_{add_class}_weather.csv',  parse_dates=['time'])
+    df_weather = gcs.read_parquet(f'global_weather/europe/{add_region}_{add_class}_weather.parquet.gzip')
+    df_weather['time'] = pd.to_datetime(df_weather['time'])
     df_weather['new_time'] = df_weather['time'].replace({old_date: old_date + pd.DateOffset(year=2020) for old_date in df_weather['time'].unique()})
     df_weather['year'] = df_weather['time'].dt.year
     
