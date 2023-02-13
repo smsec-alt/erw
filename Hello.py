@@ -1,7 +1,7 @@
-import streamlit as st
-from streamlit_charts import get_deviation_charts
-import streamlit.components.v1 as components
 from gcs import GCS
+import streamlit as st
+import streamlit.components.v1 as components
+from streamlit_charts import get_deviation_charts
 
 gcs = GCS(streamlit=True)
 
@@ -20,14 +20,8 @@ def main():
     
     st.markdown("""#### Weather Summary""")
     
-    
-    # with ThreadPoolExecutor(max_workers=10) as executor:
-    #     futures = [executor.submit(download_image, creds, filename='tp.png'),
-    #                     executor.submit(download_image, creds, filename='t2m.png'),
-    #                     executor.submit(download_dataframe, creds, filename=f'Europe_{add_class}_deviation.csv')]
-    #     future_output = [future.result() for future in futures]
-    img1 = gcs.read_png(f'global_weather/forecasts/europe_tp.png')
-    img2 = gcs.read_png(f'global_weather/forecasts/europe_t2m.png')
+    img1 = gcs.read_file(f'global_weather/forecasts/europe_tp.png')
+    img2 = gcs.read_file(f'global_weather/forecasts/europe_t2m.png')
     col1, col2 = st.columns(2)
     col1.image(img1)
     col2.image(img2)

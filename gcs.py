@@ -60,10 +60,8 @@ class GCS:
         df = pd.read_excel(BytesIO(blob.download_as_bytes()), **kwargs)
         return df
 
-    def read_png(self, file_name, **kwargs):
-        from IPython.display import Image
+    def read_file(self, file_name):
         blob = self.bucket.get_blob(file_name)
-        # img = Image(blob.download_as_bytes(), **kwargs)
         img = blob.download_as_bytes()
         return img
 
