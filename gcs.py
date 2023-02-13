@@ -63,7 +63,8 @@ class GCS:
     def read_png(self, file_name, **kwargs):
         from IPython.display import Image
         blob = self.bucket.get_blob(file_name)
-        img = Image(blob.download_as_bytes(), **kwargs)
+        # img = Image(blob.download_as_bytes(), **kwargs)
+        img = blob.download_as_bytes()
         return img
 
     # to parquet file
