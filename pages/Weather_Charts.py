@@ -21,10 +21,8 @@ max_start_spring = datetime.date(current_year, 9, 1)
 def main():
     with st.sidebar:
         add_region = st.selectbox("Choose a Region", tuple(df_region_crop['country'].unique()))
-        # difference between list1 and list2
         class_list = [item for item in df_region_crop.query('country == @add_region')['crop'] if item in crops_list]
         add_class = st.selectbox("Crop Type", tuple(class_list))
-        # add_class = st.selectbox("Crop Type", tuple(df_region_crop.query('country == @add_region')['crop']))
         col11, col21 = st.columns(2)
         if add_class in ['Corn', 'Oats', 'Soya', 'Sunflower seed', 'Spring barley']:
             min_start = min_start_spring
@@ -40,7 +38,6 @@ def main():
 
     df_yields_country = df_yields.loc[(df_yields['country']==add_region)&(df_yields['crop']==add_class)]
     df_yields_country.set_index('year', inplace=True)
-    # df_weather = download_dataframe(creds=creds, filename=f'{add_region}_{add_class}_weather.csv',  parse_dates=['time'])
     df_weather = gcs.read_parquet(f'global_weather/europe/{add_region}_{add_class}_weather.parquet.gzip')
     df_weather['time'] = pd.to_datetime(df_weather['time'])
     df_weather['new_time'] = df_weather['time'].replace({old_date: old_date + pd.DateOffset(year=2020) for old_date in df_weather['time'].unique()})
